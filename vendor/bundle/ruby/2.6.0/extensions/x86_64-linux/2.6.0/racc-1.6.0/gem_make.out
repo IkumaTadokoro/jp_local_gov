@@ -1,0 +1,17 @@
+current directory: /home/runner/work/jp_local_gov/jp_local_gov/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+/opt/hostedtoolcache/Ruby/2.6.6/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.6/x64/lib/ruby/2.6.0 -r ./siteconf20211201-1594-15e4ksi.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/runner/work/jp_local_gov/jp_local_gov/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/runner/work/jp_local_gov/jp_local_gov/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/runner/work/jp_local_gov/jp_local_gov/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20211201-1594-1pthoka/racc
