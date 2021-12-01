@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-jpostcode-data:
+  update-jplocalgov-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
