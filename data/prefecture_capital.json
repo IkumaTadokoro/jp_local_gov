@@ -1,0 +1,190 @@
+[
+  {
+    "prefecture": "北海道",
+    "city": "札幌市"
+  },
+  {
+    "prefecture": "青森県",
+    "city": "青森市"
+  },
+  {
+    "prefecture": "岩手県",
+    "city": "盛岡市"
+  },
+  {
+    "prefecture": "宮城県",
+    "city": "仙台市"
+  },
+  {
+    "prefecture": "秋田県",
+    "city": "秋田市"
+  },
+  {
+    "prefecture": "山形県",
+    "city": "山形市"
+  },
+  {
+    "prefecture": "福島県",
+    "city": "福島市"
+  },
+  {
+    "prefecture": "茨城県",
+    "city": "水戸市"
+  },
+  {
+    "prefecture": "栃木県",
+    "city": "宇都宮市"
+  },
+  {
+    "prefecture": "群馬県",
+    "city": "前橋市"
+  },
+  {
+    "prefecture": "埼玉県",
+    "city": "さいたま市"
+  },
+  {
+    "prefecture": "千葉県",
+    "city": "千葉市"
+  },
+  {
+    "prefecture": "東京都",
+    "city": "新宿区"
+  },
+  {
+    "prefecture": "神奈川県",
+    "city": "横浜市"
+  },
+  {
+    "prefecture": "新潟県",
+    "city": "新潟市"
+  },
+  {
+    "prefecture": "富山県",
+    "city": "富山市"
+  },
+  {
+    "prefecture": "石川県",
+    "city": "金沢市"
+  },
+  {
+    "prefecture": "福井県",
+    "city": "福井市"
+  },
+  {
+    "prefecture": "山梨県",
+    "city": "甲府市"
+  },
+  {
+    "prefecture": "長野県",
+    "city": "長野市"
+  },
+  {
+    "prefecture": "岐阜県",
+    "city": "岐阜市"
+  },
+  {
+    "prefecture": "静岡県",
+    "city": "静岡市"
+  },
+  {
+    "prefecture": "愛知県",
+    "city": "名古屋市"
+  },
+  {
+    "prefecture": "三重県",
+    "city": "津市"
+  },
+  {
+    "prefecture": "滋賀県",
+    "city": "大津市"
+  },
+  {
+    "prefecture": "京都府",
+    "city": "京都市"
+  },
+  {
+    "prefecture": "大阪府",
+    "city": "大阪市"
+  },
+  {
+    "prefecture": "兵庫県",
+    "city": "神戸市"
+  },
+  {
+    "prefecture": "奈良県",
+    "city": "奈良市"
+  },
+  {
+    "prefecture": "和歌山県",
+    "city": "和歌山市"
+  },
+  {
+    "prefecture": "鳥取県",
+    "city": "鳥取市"
+  },
+  {
+    "prefecture": "島根県",
+    "city": "松江市"
+  },
+  {
+    "prefecture": "岡山県",
+    "city": "岡山市"
+  },
+  {
+    "prefecture": "広島県",
+    "city": "広島市"
+  },
+  {
+    "prefecture": "山口県",
+    "city": "山口市"
+  },
+  {
+    "prefecture": "徳島県",
+    "city": "徳島市"
+  },
+  {
+    "prefecture": "香川県",
+    "city": "高松市"
+  },
+  {
+    "prefecture": "愛媛県",
+    "city": "松山市"
+  },
+  {
+    "prefecture": "高知県",
+    "city": "高知市"
+  },
+  {
+    "prefecture": "福岡県",
+    "city": "福岡市"
+  },
+  {
+    "prefecture": "佐賀県",
+    "city": "佐賀市"
+  },
+  {
+    "prefecture": "長崎県",
+    "city": "長崎市"
+  },
+  {
+    "prefecture": "熊本県",
+    "city": "熊本市"
+  },
+  {
+    "prefecture": "大分県",
+    "city": "大分市"
+  },
+  {
+    "prefecture": "宮崎県",
+    "city": "宮崎市"
+  },
+  {
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市"
+  },
+  {
+    "prefecture": "沖縄県",
+    "city": "那覇市"
+  }
+]
