@@ -19,7 +19,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          base: master
+          base: main
           branch: update_jplocalgov_data
           branch-suffix: timestamp
           delete-branch: true
