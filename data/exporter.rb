@@ -41,7 +41,7 @@ module JpLocalGov
       def to_hash(items)
         @local_gov_hash[items[0]] = {
           code: items[0],
-          prefecture_code: items[1][0..1],
+          prefecture_code: items[0][0..1],
           prefecture: items[1],
           prefecture_kana: covert_half_char_to_full_char(items[3]),
           city: items[2],
