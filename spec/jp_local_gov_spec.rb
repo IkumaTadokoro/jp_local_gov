@@ -23,17 +23,17 @@ RSpec.describe JpLocalGov do
           # NOT existing code is able to generate by check digit defined in JISX0402
           # https://www.soumu.go.jp/main_content/000137948.pdf
           let(:local_gov_code) { "131017" }
-          xit { is_expected.to be_nil }
+          it { is_expected.to be_nil }
         end
 
         context "when the code is nil" do
           let(:local_gov_code) { nil }
-          xit { is_expected.to be_nil }
+          it { is_expected.to be_nil }
         end
 
         context "when the code is NOT a string" do
           let(:local_gov_code) { 131016 }
-          xit { is_expected.to be_nil }
+          it { is_expected.to be_nil }
         end
       end
     end
