@@ -1,0 +1,533 @@
+{
+  "072010": {
+    "code": "072010",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "福島市",
+    "city_kana": "フクシマシ",
+    "prefecture_capital": true
+  },
+  "072028": {
+    "code": "072028",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "prefecture_capital": false
+  },
+  "072036": {
+    "code": "072036",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "郡山市",
+    "city_kana": "コオリヤマシ",
+    "prefecture_capital": false
+  },
+  "072044": {
+    "code": "072044",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "いわき市",
+    "city_kana": "イワキシ",
+    "prefecture_capital": false
+  },
+  "072052": {
+    "code": "072052",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "白河市",
+    "city_kana": "シラカワシ",
+    "prefecture_capital": false
+  },
+  "072079": {
+    "code": "072079",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "須賀川市",
+    "city_kana": "スカガワシ",
+    "prefecture_capital": false
+  },
+  "072087": {
+    "code": "072087",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "prefecture_capital": false
+  },
+  "072095": {
+    "code": "072095",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "相馬市",
+    "city_kana": "ソウマシ",
+    "prefecture_capital": false
+  },
+  "072109": {
+    "code": "072109",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "二本松市",
+    "city_kana": "ニホンマツシ",
+    "prefecture_capital": false
+  },
+  "072117": {
+    "code": "072117",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "田村市",
+    "city_kana": "タムラシ",
+    "prefecture_capital": false
+  },
+  "072125": {
+    "code": "072125",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "南相馬市",
+    "city_kana": "ミナミソウマシ",
+    "prefecture_capital": false
+  },
+  "072133": {
+    "code": "072133",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "伊達市",
+    "city_kana": "ダテシ",
+    "prefecture_capital": false
+  },
+  "072141": {
+    "code": "072141",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "本宮市",
+    "city_kana": "モトミヤシ",
+    "prefecture_capital": false
+  },
+  "073016": {
+    "code": "073016",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "桑折町",
+    "city_kana": "コオリマチ",
+    "prefecture_capital": false
+  },
+  "073032": {
+    "code": "073032",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "国見町",
+    "city_kana": "クニミマチ",
+    "prefecture_capital": false
+  },
+  "073083": {
+    "code": "073083",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "川俣町",
+    "city_kana": "カワマタマチ",
+    "prefecture_capital": false
+  },
+  "073229": {
+    "code": "073229",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "大玉村",
+    "city_kana": "オオタマムラ",
+    "prefecture_capital": false
+  },
+  "073423": {
+    "code": "073423",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "鏡石町",
+    "city_kana": "カガミイシマチ",
+    "prefecture_capital": false
+  },
+  "073440": {
+    "code": "073440",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "天栄村",
+    "city_kana": "テンエイムラ",
+    "prefecture_capital": false
+  },
+  "073628": {
+    "code": "073628",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "下郷町",
+    "city_kana": "シモゴウマチ",
+    "prefecture_capital": false
+  },
+  "073644": {
+    "code": "073644",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "檜枝岐村",
+    "city_kana": "ヒノエマタムラ",
+    "prefecture_capital": false
+  },
+  "073679": {
+    "code": "073679",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "只見町",
+    "city_kana": "タダミマチ",
+    "prefecture_capital": false
+  },
+  "073687": {
+    "code": "073687",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "南会津町",
+    "city_kana": "ミナミアイヅマチ",
+    "prefecture_capital": false
+  },
+  "074021": {
+    "code": "074021",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "北塩原村",
+    "city_kana": "キタシオバラムラ",
+    "prefecture_capital": false
+  },
+  "074055": {
+    "code": "074055",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "西会津町",
+    "city_kana": "ニシアイヅマチ",
+    "prefecture_capital": false
+  },
+  "074071": {
+    "code": "074071",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "磐梯町",
+    "city_kana": "バンダイマチ",
+    "prefecture_capital": false
+  },
+  "074080": {
+    "code": "074080",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "猪苗代町",
+    "city_kana": "イナワシロマチ",
+    "prefecture_capital": false
+  },
+  "074217": {
+    "code": "074217",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "会津坂下町",
+    "city_kana": "アイヅバンゲマチ",
+    "prefecture_capital": false
+  },
+  "074225": {
+    "code": "074225",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "湯川村",
+    "city_kana": "ユガワムラ",
+    "prefecture_capital": false
+  },
+  "074233": {
+    "code": "074233",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "柳津町",
+    "city_kana": "ヤナイヅマチ",
+    "prefecture_capital": false
+  },
+  "074446": {
+    "code": "074446",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "三島町",
+    "city_kana": "ミシママチ",
+    "prefecture_capital": false
+  },
+  "074454": {
+    "code": "074454",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "金山町",
+    "city_kana": "カネヤママチ",
+    "prefecture_capital": false
+  },
+  "074462": {
+    "code": "074462",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "昭和村",
+    "city_kana": "ショウワムラ",
+    "prefecture_capital": false
+  },
+  "074471": {
+    "code": "074471",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "会津美里町",
+    "city_kana": "アイヅミサトマチ",
+    "prefecture_capital": false
+  },
+  "074616": {
+    "code": "074616",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "西郷村",
+    "city_kana": "ニシゴウムラ",
+    "prefecture_capital": false
+  },
+  "074641": {
+    "code": "074641",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "泉崎村",
+    "city_kana": "イズミザキムラ",
+    "prefecture_capital": false
+  },
+  "074659": {
+    "code": "074659",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "中島村",
+    "city_kana": "ナカジマムラ",
+    "prefecture_capital": false
+  },
+  "074667": {
+    "code": "074667",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "矢吹町",
+    "city_kana": "ヤブキマチ",
+    "prefecture_capital": false
+  },
+  "074811": {
+    "code": "074811",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "棚倉町",
+    "city_kana": "タナグラマチ",
+    "prefecture_capital": false
+  },
+  "074829": {
+    "code": "074829",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "矢祭町",
+    "city_kana": "ヤマツリマチ",
+    "prefecture_capital": false
+  },
+  "074837": {
+    "code": "074837",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "塙町",
+    "city_kana": "ハナワマチ",
+    "prefecture_capital": false
+  },
+  "074845": {
+    "code": "074845",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "鮫川村",
+    "city_kana": "サメガワムラ",
+    "prefecture_capital": false
+  },
+  "075019": {
+    "code": "075019",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "石川町",
+    "city_kana": "イシカワマチ",
+    "prefecture_capital": false
+  },
+  "075027": {
+    "code": "075027",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "玉川村",
+    "city_kana": "タマカワムラ",
+    "prefecture_capital": false
+  },
+  "075035": {
+    "code": "075035",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "平田村",
+    "city_kana": "ヒラタムラ",
+    "prefecture_capital": false
+  },
+  "075043": {
+    "code": "075043",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "浅川町",
+    "city_kana": "アサカワマチ",
+    "prefecture_capital": false
+  },
+  "075051": {
+    "code": "075051",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "古殿町",
+    "city_kana": "フルドノマチ",
+    "prefecture_capital": false
+  },
+  "075213": {
+    "code": "075213",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "三春町",
+    "city_kana": "ミハルマチ",
+    "prefecture_capital": false
+  },
+  "075221": {
+    "code": "075221",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "小野町",
+    "city_kana": "オノマチ",
+    "prefecture_capital": false
+  },
+  "075418": {
+    "code": "075418",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "広野町",
+    "city_kana": "ヒロノマチ",
+    "prefecture_capital": false
+  },
+  "075426": {
+    "code": "075426",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "楢葉町",
+    "city_kana": "ナラハマチ",
+    "prefecture_capital": false
+  },
+  "075434": {
+    "code": "075434",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "富岡町",
+    "city_kana": "トミオカマチ",
+    "prefecture_capital": false
+  },
+  "075442": {
+    "code": "075442",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "川内村",
+    "city_kana": "カワウチムラ",
+    "prefecture_capital": false
+  },
+  "075451": {
+    "code": "075451",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "大熊町",
+    "city_kana": "オオクママチ",
+    "prefecture_capital": false
+  },
+  "075469": {
+    "code": "075469",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "双葉町",
+    "city_kana": "フタバマチ",
+    "prefecture_capital": false
+  },
+  "075477": {
+    "code": "075477",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "浪江町",
+    "city_kana": "ナミエマチ",
+    "prefecture_capital": false
+  },
+  "075485": {
+    "code": "075485",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "葛尾村",
+    "city_kana": "カツラオムラ",
+    "prefecture_capital": false
+  },
+  "075612": {
+    "code": "075612",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "新地町",
+    "city_kana": "シンチマチ",
+    "prefecture_capital": false
+  },
+  "075647": {
+    "code": "075647",
+    "prefecture_code": "07",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "city": "飯舘村",
+    "city_kana": "イイタテムラ",
+    "prefecture_capital": false
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "412015": {
+    "code": "412015",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "佐賀市",
+    "city_kana": "サガシ",
+    "prefecture_capital": true
+  },
+  "412023": {
+    "code": "412023",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "唐津市",
+    "city_kana": "カラツシ",
+    "prefecture_capital": false
+  },
+  "412031": {
+    "code": "412031",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "鳥栖市",
+    "city_kana": "トスシ",
+    "prefecture_capital": false
+  },
+  "412040": {
+    "code": "412040",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "多久市",
+    "city_kana": "タクシ",
+    "prefecture_capital": false
+  },
+  "412058": {
+    "code": "412058",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "伊万里市",
+    "city_kana": "イマリシ",
+    "prefecture_capital": false
+  },
+  "412066": {
+    "code": "412066",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "武雄市",
+    "city_kana": "タケオシ",
+    "prefecture_capital": false
+  },
+  "412074": {
+    "code": "412074",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "鹿島市",
+    "city_kana": "カシマシ",
+    "prefecture_capital": false
+  },
+  "412082": {
+    "code": "412082",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "小城市",
+    "city_kana": "オギシ",
+    "prefecture_capital": false
+  },
+  "412091": {
+    "code": "412091",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "嬉野市",
+    "city_kana": "ウレシノシ",
+    "prefecture_capital": false
+  },
+  "412104": {
+    "code": "412104",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "神埼市",
+    "city_kana": "カンザキシ",
+    "prefecture_capital": false
+  },
+  "413275": {
+    "code": "413275",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "吉野ヶ里町",
+    "city_kana": "ヨシノガリチョウ",
+    "prefecture_capital": false
+  },
+  "413411": {
+    "code": "413411",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "基山町",
+    "city_kana": "キヤマチョウ",
+    "prefecture_capital": false
+  },
+  "413453": {
+    "code": "413453",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "上峰町",
+    "city_kana": "カミミネチョウ",
+    "prefecture_capital": false
+  },
+  "413461": {
+    "code": "413461",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "みやき町",
+    "city_kana": "ミヤキチョウ",
+    "prefecture_capital": false
+  },
+  "413879": {
+    "code": "413879",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "玄海町",
+    "city_kana": "ゲンカイチョウ",
+    "prefecture_capital": false
+  },
+  "414018": {
+    "code": "414018",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "有田町",
+    "city_kana": "アリタチョウ",
+    "prefecture_capital": false
+  },
+  "414239": {
+    "code": "414239",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "大町町",
+    "city_kana": "オオマチチョウ",
+    "prefecture_capital": false
+  },
+  "414247": {
+    "code": "414247",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "江北町",
+    "city_kana": "コウホクマチ",
+    "prefecture_capital": false
+  },
+  "414255": {
+    "code": "414255",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "白石町",
+    "city_kana": "シロイシチョウ",
+    "prefecture_capital": false
+  },
+  "414417": {
+    "code": "414417",
+    "prefecture_code": "41",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "city": "太良町",
+    "city_kana": "タラチョウ",
+    "prefecture_capital": false
+  }
+}

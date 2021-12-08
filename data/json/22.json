@@ -1,0 +1,407 @@
+{
+  "221007": {
+    "code": "221007",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "静岡市",
+    "city_kana": "シズオカシ",
+    "prefecture_capital": true
+  },
+  "221015": {
+    "code": "221015",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "静岡市葵区",
+    "city_kana": "シズオカシアオイク",
+    "prefecture_capital": false
+  },
+  "221023": {
+    "code": "221023",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "prefecture_capital": false
+  },
+  "221031": {
+    "code": "221031",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "静岡市清水区",
+    "city_kana": "シズオカシシミズク",
+    "prefecture_capital": false
+  },
+  "221309": {
+    "code": "221309",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市",
+    "city_kana": "ハママツシ",
+    "prefecture_capital": false
+  },
+  "221317": {
+    "code": "221317",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市中区",
+    "city_kana": "ハママツシナカク",
+    "prefecture_capital": false
+  },
+  "221325": {
+    "code": "221325",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市東区",
+    "city_kana": "ハママツシヒガシク",
+    "prefecture_capital": false
+  },
+  "221333": {
+    "code": "221333",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市西区",
+    "city_kana": "ハママツシニシク",
+    "prefecture_capital": false
+  },
+  "221341": {
+    "code": "221341",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市南区",
+    "city_kana": "ハママツシミナミク",
+    "prefecture_capital": false
+  },
+  "221350": {
+    "code": "221350",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市北区",
+    "city_kana": "ハママツシキタク",
+    "prefecture_capital": false
+  },
+  "221368": {
+    "code": "221368",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市浜北区",
+    "city_kana": "ハママツシハマキタク",
+    "prefecture_capital": false
+  },
+  "221376": {
+    "code": "221376",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "浜松市天竜区",
+    "city_kana": "ハママツシテンリュウク",
+    "prefecture_capital": false
+  },
+  "222038": {
+    "code": "222038",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "沼津市",
+    "city_kana": "ヌマヅシ",
+    "prefecture_capital": false
+  },
+  "222054": {
+    "code": "222054",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "熱海市",
+    "city_kana": "アタミシ",
+    "prefecture_capital": false
+  },
+  "222062": {
+    "code": "222062",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "三島市",
+    "city_kana": "ミシマシ",
+    "prefecture_capital": false
+  },
+  "222071": {
+    "code": "222071",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "富士宮市",
+    "city_kana": "フジノミヤシ",
+    "prefecture_capital": false
+  },
+  "222089": {
+    "code": "222089",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "伊東市",
+    "city_kana": "イトウシ",
+    "prefecture_capital": false
+  },
+  "222097": {
+    "code": "222097",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "島田市",
+    "city_kana": "シマダシ",
+    "prefecture_capital": false
+  },
+  "222101": {
+    "code": "222101",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "富士市",
+    "city_kana": "フジシ",
+    "prefecture_capital": false
+  },
+  "222119": {
+    "code": "222119",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "磐田市",
+    "city_kana": "イワタシ",
+    "prefecture_capital": false
+  },
+  "222127": {
+    "code": "222127",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "prefecture_capital": false
+  },
+  "222135": {
+    "code": "222135",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "掛川市",
+    "city_kana": "カケガワシ",
+    "prefecture_capital": false
+  },
+  "222143": {
+    "code": "222143",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "藤枝市",
+    "city_kana": "フジエダシ",
+    "prefecture_capital": false
+  },
+  "222151": {
+    "code": "222151",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "御殿場市",
+    "city_kana": "ゴテンバシ",
+    "prefecture_capital": false
+  },
+  "222160": {
+    "code": "222160",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "袋井市",
+    "city_kana": "フクロイシ",
+    "prefecture_capital": false
+  },
+  "222194": {
+    "code": "222194",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "下田市",
+    "city_kana": "シモダシ",
+    "prefecture_capital": false
+  },
+  "222208": {
+    "code": "222208",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "裾野市",
+    "city_kana": "スソノシ",
+    "prefecture_capital": false
+  },
+  "222216": {
+    "code": "222216",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "湖西市",
+    "city_kana": "コサイシ",
+    "prefecture_capital": false
+  },
+  "222224": {
+    "code": "222224",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "伊豆市",
+    "city_kana": "イズシ",
+    "prefecture_capital": false
+  },
+  "222232": {
+    "code": "222232",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "御前崎市",
+    "city_kana": "オマエザキシ",
+    "prefecture_capital": false
+  },
+  "222241": {
+    "code": "222241",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "菊川市",
+    "city_kana": "キクガワシ",
+    "prefecture_capital": false
+  },
+  "222259": {
+    "code": "222259",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "伊豆の国市",
+    "city_kana": "イズノクニシ",
+    "prefecture_capital": false
+  },
+  "222267": {
+    "code": "222267",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "牧之原市",
+    "city_kana": "マキノハラシ",
+    "prefecture_capital": false
+  },
+  "223018": {
+    "code": "223018",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "東伊豆町",
+    "city_kana": "ヒガシイズチョウ",
+    "prefecture_capital": false
+  },
+  "223026": {
+    "code": "223026",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "河津町",
+    "city_kana": "カワヅチョウ",
+    "prefecture_capital": false
+  },
+  "223042": {
+    "code": "223042",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "南伊豆町",
+    "city_kana": "ミナミイズチョウ",
+    "prefecture_capital": false
+  },
+  "223051": {
+    "code": "223051",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "松崎町",
+    "city_kana": "マツザキチョウ",
+    "prefecture_capital": false
+  },
+  "223069": {
+    "code": "223069",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "西伊豆町",
+    "city_kana": "ニシイズチョウ",
+    "prefecture_capital": false
+  },
+  "223255": {
+    "code": "223255",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "函南町",
+    "city_kana": "カンナミチョウ",
+    "prefecture_capital": false
+  },
+  "223417": {
+    "code": "223417",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "清水町",
+    "city_kana": "シミズチョウ",
+    "prefecture_capital": false
+  },
+  "223425": {
+    "code": "223425",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "長泉町",
+    "city_kana": "ナガイズミチョウ",
+    "prefecture_capital": false
+  },
+  "223441": {
+    "code": "223441",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "小山町",
+    "city_kana": "オヤマチョウ",
+    "prefecture_capital": false
+  },
+  "224243": {
+    "code": "224243",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "吉田町",
+    "city_kana": "ヨシダチョウ",
+    "prefecture_capital": false
+  },
+  "224294": {
+    "code": "224294",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "川根本町",
+    "city_kana": "カワネホンチョウ",
+    "prefecture_capital": false
+  },
+  "224618": {
+    "code": "224618",
+    "prefecture_code": "22",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "city": "森町",
+    "city_kana": "モリマチ",
+    "prefecture_capital": false
+  }
+}

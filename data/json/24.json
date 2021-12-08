@@ -1,0 +1,263 @@
+{
+  "242012": {
+    "code": "242012",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "津市",
+    "city_kana": "ツシ",
+    "prefecture_capital": true
+  },
+  "242021": {
+    "code": "242021",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "四日市市",
+    "city_kana": "ヨッカイチシ",
+    "prefecture_capital": false
+  },
+  "242039": {
+    "code": "242039",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "伊勢市",
+    "city_kana": "イセシ",
+    "prefecture_capital": false
+  },
+  "242047": {
+    "code": "242047",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "松阪市",
+    "city_kana": "マツサカシ",
+    "prefecture_capital": false
+  },
+  "242055": {
+    "code": "242055",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "桑名市",
+    "city_kana": "クワナシ",
+    "prefecture_capital": false
+  },
+  "242071": {
+    "code": "242071",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "鈴鹿市",
+    "city_kana": "スズカシ",
+    "prefecture_capital": false
+  },
+  "242080": {
+    "code": "242080",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "名張市",
+    "city_kana": "ナバリシ",
+    "prefecture_capital": false
+  },
+  "242098": {
+    "code": "242098",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "尾鷲市",
+    "city_kana": "オワセシ",
+    "prefecture_capital": false
+  },
+  "242101": {
+    "code": "242101",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "亀山市",
+    "city_kana": "カメヤマシ",
+    "prefecture_capital": false
+  },
+  "242110": {
+    "code": "242110",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "鳥羽市",
+    "city_kana": "トバシ",
+    "prefecture_capital": false
+  },
+  "242128": {
+    "code": "242128",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "熊野市",
+    "city_kana": "クマノシ",
+    "prefecture_capital": false
+  },
+  "242144": {
+    "code": "242144",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "いなべ市",
+    "city_kana": "イナベシ",
+    "prefecture_capital": false
+  },
+  "242152": {
+    "code": "242152",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "志摩市",
+    "city_kana": "シマシ",
+    "prefecture_capital": false
+  },
+  "242161": {
+    "code": "242161",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "伊賀市",
+    "city_kana": "イガシ",
+    "prefecture_capital": false
+  },
+  "243035": {
+    "code": "243035",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "木曽岬町",
+    "city_kana": "キソサキチョウ",
+    "prefecture_capital": false
+  },
+  "243248": {
+    "code": "243248",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "東員町",
+    "city_kana": "トウインチョウ",
+    "prefecture_capital": false
+  },
+  "243418": {
+    "code": "243418",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "菰野町",
+    "city_kana": "コモノチョウ",
+    "prefecture_capital": false
+  },
+  "243434": {
+    "code": "243434",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "朝日町",
+    "city_kana": "アサヒチョウ",
+    "prefecture_capital": false
+  },
+  "243442": {
+    "code": "243442",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "川越町",
+    "city_kana": "カワゴエチョウ",
+    "prefecture_capital": false
+  },
+  "244414": {
+    "code": "244414",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "多気町",
+    "city_kana": "タキチョウ",
+    "prefecture_capital": false
+  },
+  "244422": {
+    "code": "244422",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "明和町",
+    "city_kana": "メイワチョウ",
+    "prefecture_capital": false
+  },
+  "244431": {
+    "code": "244431",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "大台町",
+    "city_kana": "オオダイチョウ",
+    "prefecture_capital": false
+  },
+  "244619": {
+    "code": "244619",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "玉城町",
+    "city_kana": "タマキチョウ",
+    "prefecture_capital": false
+  },
+  "244708": {
+    "code": "244708",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "度会町",
+    "city_kana": "ワタライチョウ",
+    "prefecture_capital": false
+  },
+  "244716": {
+    "code": "244716",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "大紀町",
+    "city_kana": "タイキチョウ",
+    "prefecture_capital": false
+  },
+  "244724": {
+    "code": "244724",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "南伊勢町",
+    "city_kana": "ミナミイセチョウ",
+    "prefecture_capital": false
+  },
+  "245437": {
+    "code": "245437",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "紀北町",
+    "city_kana": "キホクチョウ",
+    "prefecture_capital": false
+  },
+  "245615": {
+    "code": "245615",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "御浜町",
+    "city_kana": "ミハマチョウ",
+    "prefecture_capital": false
+  },
+  "245623": {
+    "code": "245623",
+    "prefecture_code": "24",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "city": "紀宝町",
+    "city_kana": "キホウチョウ",
+    "prefecture_capital": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "372013": {
+    "code": "372013",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "高松市",
+    "city_kana": "タカマツシ",
+    "prefecture_capital": true
+  },
+  "372021": {
+    "code": "372021",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "丸亀市",
+    "city_kana": "マルガメシ",
+    "prefecture_capital": false
+  },
+  "372030": {
+    "code": "372030",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "坂出市",
+    "city_kana": "サカイデシ",
+    "prefecture_capital": false
+  },
+  "372048": {
+    "code": "372048",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "善通寺市",
+    "city_kana": "ゼンツウジシ",
+    "prefecture_capital": false
+  },
+  "372056": {
+    "code": "372056",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "観音寺市",
+    "city_kana": "カンオンジシ",
+    "prefecture_capital": false
+  },
+  "372064": {
+    "code": "372064",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "さぬき市",
+    "city_kana": "サヌキシ",
+    "prefecture_capital": false
+  },
+  "372072": {
+    "code": "372072",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "東かがわ市",
+    "city_kana": "ヒガシカガワシ",
+    "prefecture_capital": false
+  },
+  "372081": {
+    "code": "372081",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "三豊市",
+    "city_kana": "ミトヨシ",
+    "prefecture_capital": false
+  },
+  "373222": {
+    "code": "373222",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "土庄町",
+    "city_kana": "トノショウチョウ",
+    "prefecture_capital": false
+  },
+  "373249": {
+    "code": "373249",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "小豆島町",
+    "city_kana": "ショウドシマチョウ",
+    "prefecture_capital": false
+  },
+  "373419": {
+    "code": "373419",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "三木町",
+    "city_kana": "ミキチョウ",
+    "prefecture_capital": false
+  },
+  "373648": {
+    "code": "373648",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "直島町",
+    "city_kana": "ナオシマチョウ",
+    "prefecture_capital": false
+  },
+  "373869": {
+    "code": "373869",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "宇多津町",
+    "city_kana": "ウタヅチョウ",
+    "prefecture_capital": false
+  },
+  "373877": {
+    "code": "373877",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "綾川町",
+    "city_kana": "アヤガワチョウ",
+    "prefecture_capital": false
+  },
+  "374032": {
+    "code": "374032",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "琴平町",
+    "city_kana": "コトヒラチョウ",
+    "prefecture_capital": false
+  },
+  "374041": {
+    "code": "374041",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "多度津町",
+    "city_kana": "タドツチョウ",
+    "prefecture_capital": false
+  },
+  "374067": {
+    "code": "374067",
+    "prefecture_code": "37",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "city": "まんのう町",
+    "city_kana": "マンノウチョウ",
+    "prefecture_capital": false
+  }
+}

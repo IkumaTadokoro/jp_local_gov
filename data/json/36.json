@@ -1,0 +1,218 @@
+{
+  "362018": {
+    "code": "362018",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "徳島市",
+    "city_kana": "トクシマシ",
+    "prefecture_capital": true
+  },
+  "362026": {
+    "code": "362026",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "鳴門市",
+    "city_kana": "ナルトシ",
+    "prefecture_capital": false
+  },
+  "362034": {
+    "code": "362034",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "小松島市",
+    "city_kana": "コマツシマシ",
+    "prefecture_capital": false
+  },
+  "362042": {
+    "code": "362042",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "阿南市",
+    "city_kana": "アナンシ",
+    "prefecture_capital": false
+  },
+  "362051": {
+    "code": "362051",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "吉野川市",
+    "city_kana": "ヨシノガワシ",
+    "prefecture_capital": false
+  },
+  "362069": {
+    "code": "362069",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "阿波市",
+    "city_kana": "アワシ",
+    "prefecture_capital": false
+  },
+  "362077": {
+    "code": "362077",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "美馬市",
+    "city_kana": "ミマシ",
+    "prefecture_capital": false
+  },
+  "362085": {
+    "code": "362085",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "三好市",
+    "city_kana": "ミヨシシ",
+    "prefecture_capital": false
+  },
+  "363014": {
+    "code": "363014",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "勝浦町",
+    "city_kana": "カツウラチョウ",
+    "prefecture_capital": false
+  },
+  "363022": {
+    "code": "363022",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "上勝町",
+    "city_kana": "カミカツチョウ",
+    "prefecture_capital": false
+  },
+  "363219": {
+    "code": "363219",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "佐那河内村",
+    "city_kana": "サナゴウチソン",
+    "prefecture_capital": false
+  },
+  "363413": {
+    "code": "363413",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "石井町",
+    "city_kana": "イシイチョウ",
+    "prefecture_capital": false
+  },
+  "363421": {
+    "code": "363421",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "神山町",
+    "city_kana": "カミヤマチョウ",
+    "prefecture_capital": false
+  },
+  "363685": {
+    "code": "363685",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "那賀町",
+    "city_kana": "ナカチョウ",
+    "prefecture_capital": false
+  },
+  "363839": {
+    "code": "363839",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "牟岐町",
+    "city_kana": "ムギチョウ",
+    "prefecture_capital": false
+  },
+  "363871": {
+    "code": "363871",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "美波町",
+    "city_kana": "ミナミチョウ",
+    "prefecture_capital": false
+  },
+  "363880": {
+    "code": "363880",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "海陽町",
+    "city_kana": "カイヨウチョウ",
+    "prefecture_capital": false
+  },
+  "364011": {
+    "code": "364011",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "松茂町",
+    "city_kana": "マツシゲチョウ",
+    "prefecture_capital": false
+  },
+  "364029": {
+    "code": "364029",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "北島町",
+    "city_kana": "キタジマチョウ",
+    "prefecture_capital": false
+  },
+  "364037": {
+    "code": "364037",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "藍住町",
+    "city_kana": "アイズミチョウ",
+    "prefecture_capital": false
+  },
+  "364045": {
+    "code": "364045",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "板野町",
+    "city_kana": "イタノチョウ",
+    "prefecture_capital": false
+  },
+  "364053": {
+    "code": "364053",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "上板町",
+    "city_kana": "カミイタチョウ",
+    "prefecture_capital": false
+  },
+  "364681": {
+    "code": "364681",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "つるぎ町",
+    "city_kana": "ツルギチョウ",
+    "prefecture_capital": false
+  },
+  "364894": {
+    "code": "364894",
+    "prefecture_code": "36",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "city": "東みよし町",
+    "city_kana": "ヒガシミヨシチョウ",
+    "prefecture_capital": false
+  }
+}

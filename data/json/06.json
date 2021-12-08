@@ -1,0 +1,317 @@
+{
+  "062014": {
+    "code": "062014",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "prefecture_capital": true
+  },
+  "062022": {
+    "code": "062022",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "米沢市",
+    "city_kana": "ヨネザワシ",
+    "prefecture_capital": false
+  },
+  "062031": {
+    "code": "062031",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "鶴岡市",
+    "city_kana": "ツルオカシ",
+    "prefecture_capital": false
+  },
+  "062049": {
+    "code": "062049",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "酒田市",
+    "city_kana": "サカタシ",
+    "prefecture_capital": false
+  },
+  "062057": {
+    "code": "062057",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "新庄市",
+    "city_kana": "シンジョウシ",
+    "prefecture_capital": false
+  },
+  "062065": {
+    "code": "062065",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "寒河江市",
+    "city_kana": "サガエシ",
+    "prefecture_capital": false
+  },
+  "062073": {
+    "code": "062073",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "上山市",
+    "city_kana": "カミノヤマシ",
+    "prefecture_capital": false
+  },
+  "062081": {
+    "code": "062081",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "村山市",
+    "city_kana": "ムラヤマシ",
+    "prefecture_capital": false
+  },
+  "062090": {
+    "code": "062090",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "長井市",
+    "city_kana": "ナガイシ",
+    "prefecture_capital": false
+  },
+  "062103": {
+    "code": "062103",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "天童市",
+    "city_kana": "テンドウシ",
+    "prefecture_capital": false
+  },
+  "062111": {
+    "code": "062111",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "東根市",
+    "city_kana": "ヒガシネシ",
+    "prefecture_capital": false
+  },
+  "062120": {
+    "code": "062120",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "尾花沢市",
+    "city_kana": "オバナザワシ",
+    "prefecture_capital": false
+  },
+  "062138": {
+    "code": "062138",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "南陽市",
+    "city_kana": "ナンヨウシ",
+    "prefecture_capital": false
+  },
+  "063011": {
+    "code": "063011",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "山辺町",
+    "city_kana": "ヤマノベマチ",
+    "prefecture_capital": false
+  },
+  "063029": {
+    "code": "063029",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "中山町",
+    "city_kana": "ナカヤママチ",
+    "prefecture_capital": false
+  },
+  "063215": {
+    "code": "063215",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "河北町",
+    "city_kana": "カホクチョウ",
+    "prefecture_capital": false
+  },
+  "063223": {
+    "code": "063223",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "西川町",
+    "city_kana": "ニシカワマチ",
+    "prefecture_capital": false
+  },
+  "063231": {
+    "code": "063231",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "朝日町",
+    "city_kana": "アサヒマチ",
+    "prefecture_capital": false
+  },
+  "063240": {
+    "code": "063240",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "大江町",
+    "city_kana": "オオエマチ",
+    "prefecture_capital": false
+  },
+  "063410": {
+    "code": "063410",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "大石田町",
+    "city_kana": "オオイシダマチ",
+    "prefecture_capital": false
+  },
+  "063614": {
+    "code": "063614",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "金山町",
+    "city_kana": "カネヤママチ",
+    "prefecture_capital": false
+  },
+  "063622": {
+    "code": "063622",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "最上町",
+    "city_kana": "モガミマチ",
+    "prefecture_capital": false
+  },
+  "063631": {
+    "code": "063631",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "舟形町",
+    "city_kana": "フナガタマチ",
+    "prefecture_capital": false
+  },
+  "063649": {
+    "code": "063649",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "真室川町",
+    "city_kana": "マムロガワマチ",
+    "prefecture_capital": false
+  },
+  "063657": {
+    "code": "063657",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "大蔵村",
+    "city_kana": "オオクラムラ",
+    "prefecture_capital": false
+  },
+  "063665": {
+    "code": "063665",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "鮭川村",
+    "city_kana": "サケガワムラ",
+    "prefecture_capital": false
+  },
+  "063673": {
+    "code": "063673",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "戸沢村",
+    "city_kana": "トザワムラ",
+    "prefecture_capital": false
+  },
+  "063819": {
+    "code": "063819",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "高畠町",
+    "city_kana": "タカハタマチ",
+    "prefecture_capital": false
+  },
+  "063827": {
+    "code": "063827",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "川西町",
+    "city_kana": "カワニシマチ",
+    "prefecture_capital": false
+  },
+  "064017": {
+    "code": "064017",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "小国町",
+    "city_kana": "オグニマチ",
+    "prefecture_capital": false
+  },
+  "064025": {
+    "code": "064025",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "白鷹町",
+    "city_kana": "シラタカマチ",
+    "prefecture_capital": false
+  },
+  "064033": {
+    "code": "064033",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "飯豊町",
+    "city_kana": "イイデマチ",
+    "prefecture_capital": false
+  },
+  "064262": {
+    "code": "064262",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "三川町",
+    "city_kana": "ミカワマチ",
+    "prefecture_capital": false
+  },
+  "064289": {
+    "code": "064289",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "庄内町",
+    "city_kana": "シヨウナイマチ",
+    "prefecture_capital": false
+  },
+  "064611": {
+    "code": "064611",
+    "prefecture_code": "06",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "city": "遊佐町",
+    "city_kana": "ユザマチ",
+    "prefecture_capital": false
+  }
+}

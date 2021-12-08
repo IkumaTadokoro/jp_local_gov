@@ -1,0 +1,191 @@
+{
+  "422011": {
+    "code": "422011",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "長崎市",
+    "city_kana": "ナガサキシ",
+    "prefecture_capital": true
+  },
+  "422029": {
+    "code": "422029",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "佐世保市",
+    "city_kana": "サセボシ",
+    "prefecture_capital": false
+  },
+  "422037": {
+    "code": "422037",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "島原市",
+    "city_kana": "シマバラシ",
+    "prefecture_capital": false
+  },
+  "422045": {
+    "code": "422045",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "諫早市",
+    "city_kana": "イサハヤシ",
+    "prefecture_capital": false
+  },
+  "422053": {
+    "code": "422053",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "大村市",
+    "city_kana": "オオムラシ",
+    "prefecture_capital": false
+  },
+  "422070": {
+    "code": "422070",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "平戸市",
+    "city_kana": "ヒラドシ",
+    "prefecture_capital": false
+  },
+  "422088": {
+    "code": "422088",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "松浦市",
+    "city_kana": "マツウラシ",
+    "prefecture_capital": false
+  },
+  "422096": {
+    "code": "422096",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "対馬市",
+    "city_kana": "ツシマシ",
+    "prefecture_capital": false
+  },
+  "422100": {
+    "code": "422100",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "壱岐市",
+    "city_kana": "イキシ",
+    "prefecture_capital": false
+  },
+  "422118": {
+    "code": "422118",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "五島市",
+    "city_kana": "ゴトウシ",
+    "prefecture_capital": false
+  },
+  "422126": {
+    "code": "422126",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "西海市",
+    "city_kana": "サイカイシ",
+    "prefecture_capital": false
+  },
+  "422134": {
+    "code": "422134",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "雲仙市",
+    "city_kana": "ウンゼンシ",
+    "prefecture_capital": false
+  },
+  "422142": {
+    "code": "422142",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "南島原市",
+    "city_kana": "ミナミシマバラシ",
+    "prefecture_capital": false
+  },
+  "423076": {
+    "code": "423076",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "長与町",
+    "city_kana": "ナガヨチョウ",
+    "prefecture_capital": false
+  },
+  "423084": {
+    "code": "423084",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "時津町",
+    "city_kana": "トギツチョウ",
+    "prefecture_capital": false
+  },
+  "423211": {
+    "code": "423211",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "東彼杵町",
+    "city_kana": "ヒガシソノギチョウ",
+    "prefecture_capital": false
+  },
+  "423220": {
+    "code": "423220",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "川棚町",
+    "city_kana": "カワタナチョウ",
+    "prefecture_capital": false
+  },
+  "423238": {
+    "code": "423238",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "波佐見町",
+    "city_kana": "ハサミチョウ",
+    "prefecture_capital": false
+  },
+  "423831": {
+    "code": "423831",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "小値賀町",
+    "city_kana": "オヂカチョウ",
+    "prefecture_capital": false
+  },
+  "423912": {
+    "code": "423912",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "佐々町",
+    "city_kana": "サザチョウ",
+    "prefecture_capital": false
+  },
+  "424111": {
+    "code": "424111",
+    "prefecture_code": "42",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "city": "新上五島町",
+    "city_kana": "シンカミゴトウチョウ",
+    "prefecture_capital": false
+  }
+}

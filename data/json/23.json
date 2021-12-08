@@ -1,0 +1,632 @@
+{
+  "231002": {
+    "code": "231002",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市",
+    "city_kana": "ナゴヤシ",
+    "prefecture_capital": true
+  },
+  "231011": {
+    "code": "231011",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市千種区",
+    "city_kana": "ナゴヤシチクサク",
+    "prefecture_capital": false
+  },
+  "231029": {
+    "code": "231029",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市東区",
+    "city_kana": "ナゴヤシヒガシク",
+    "prefecture_capital": false
+  },
+  "231037": {
+    "code": "231037",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市北区",
+    "city_kana": "ナゴヤシキタク",
+    "prefecture_capital": false
+  },
+  "231045": {
+    "code": "231045",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市西区",
+    "city_kana": "ナゴヤシニシク",
+    "prefecture_capital": false
+  },
+  "231053": {
+    "code": "231053",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市中村区",
+    "city_kana": "ナゴヤシナカムラク",
+    "prefecture_capital": false
+  },
+  "231061": {
+    "code": "231061",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市中区",
+    "city_kana": "ナゴヤシナカク",
+    "prefecture_capital": false
+  },
+  "231070": {
+    "code": "231070",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市昭和区",
+    "city_kana": "ナゴヤシショウワク",
+    "prefecture_capital": false
+  },
+  "231088": {
+    "code": "231088",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市瑞穂区",
+    "city_kana": "ナゴヤシミズホク",
+    "prefecture_capital": false
+  },
+  "231096": {
+    "code": "231096",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市熱田区",
+    "city_kana": "ナゴヤシアツタク",
+    "prefecture_capital": false
+  },
+  "231100": {
+    "code": "231100",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市中川区",
+    "city_kana": "ナゴヤシナカガワク",
+    "prefecture_capital": false
+  },
+  "231118": {
+    "code": "231118",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "prefecture_capital": false
+  },
+  "231126": {
+    "code": "231126",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市南区",
+    "city_kana": "ナゴヤシミナミク",
+    "prefecture_capital": false
+  },
+  "231134": {
+    "code": "231134",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市守山区",
+    "city_kana": "ナゴヤシモリヤマク",
+    "prefecture_capital": false
+  },
+  "231142": {
+    "code": "231142",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市緑区",
+    "city_kana": "ナゴヤシミドリク",
+    "prefecture_capital": false
+  },
+  "231151": {
+    "code": "231151",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市名東区",
+    "city_kana": "ナゴヤシメイトウク",
+    "prefecture_capital": false
+  },
+  "231169": {
+    "code": "231169",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "名古屋市天白区",
+    "city_kana": "ナゴヤシテンパクク",
+    "prefecture_capital": false
+  },
+  "232017": {
+    "code": "232017",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊橋市",
+    "city_kana": "トヨハシシ",
+    "prefecture_capital": false
+  },
+  "232025": {
+    "code": "232025",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "prefecture_capital": false
+  },
+  "232033": {
+    "code": "232033",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "一宮市",
+    "city_kana": "イチノミヤシ",
+    "prefecture_capital": false
+  },
+  "232041": {
+    "code": "232041",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "瀬戸市",
+    "city_kana": "セトシ",
+    "prefecture_capital": false
+  },
+  "232050": {
+    "code": "232050",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "半田市",
+    "city_kana": "ハンダシ",
+    "prefecture_capital": false
+  },
+  "232068": {
+    "code": "232068",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "春日井市",
+    "city_kana": "カスガイシ",
+    "prefecture_capital": false
+  },
+  "232076": {
+    "code": "232076",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊川市",
+    "city_kana": "トヨカワシ",
+    "prefecture_capital": false
+  },
+  "232084": {
+    "code": "232084",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "津島市",
+    "city_kana": "ツシマシ",
+    "prefecture_capital": false
+  },
+  "232092": {
+    "code": "232092",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "碧南市",
+    "city_kana": "ヘキナンシ",
+    "prefecture_capital": false
+  },
+  "232106": {
+    "code": "232106",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "刈谷市",
+    "city_kana": "カリヤシ",
+    "prefecture_capital": false
+  },
+  "232114": {
+    "code": "232114",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊田市",
+    "city_kana": "トヨタシ",
+    "prefecture_capital": false
+  },
+  "232122": {
+    "code": "232122",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "安城市",
+    "city_kana": "アンジョウシ",
+    "prefecture_capital": false
+  },
+  "232131": {
+    "code": "232131",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "西尾市",
+    "city_kana": "ニシオシ",
+    "prefecture_capital": false
+  },
+  "232149": {
+    "code": "232149",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "蒲郡市",
+    "city_kana": "ガマゴオリシ",
+    "prefecture_capital": false
+  },
+  "232157": {
+    "code": "232157",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "犬山市",
+    "city_kana": "イヌヤマシ",
+    "prefecture_capital": false
+  },
+  "232165": {
+    "code": "232165",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "常滑市",
+    "city_kana": "トコナメシ",
+    "prefecture_capital": false
+  },
+  "232173": {
+    "code": "232173",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "江南市",
+    "city_kana": "コウナンシ",
+    "prefecture_capital": false
+  },
+  "232190": {
+    "code": "232190",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "小牧市",
+    "city_kana": "コマキシ",
+    "prefecture_capital": false
+  },
+  "232203": {
+    "code": "232203",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "prefecture_capital": false
+  },
+  "232211": {
+    "code": "232211",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "新城市",
+    "city_kana": "シンシロシ",
+    "prefecture_capital": false
+  },
+  "232220": {
+    "code": "232220",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "東海市",
+    "city_kana": "トウカイシ",
+    "prefecture_capital": false
+  },
+  "232238": {
+    "code": "232238",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "大府市",
+    "city_kana": "オオブシ",
+    "prefecture_capital": false
+  },
+  "232246": {
+    "code": "232246",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "知多市",
+    "city_kana": "チタシ",
+    "prefecture_capital": false
+  },
+  "232254": {
+    "code": "232254",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "知立市",
+    "city_kana": "チリュウシ",
+    "prefecture_capital": false
+  },
+  "232262": {
+    "code": "232262",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "尾張旭市",
+    "city_kana": "オワリアサヒシ",
+    "prefecture_capital": false
+  },
+  "232271": {
+    "code": "232271",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "高浜市",
+    "city_kana": "タカハマシ",
+    "prefecture_capital": false
+  },
+  "232289": {
+    "code": "232289",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "岩倉市",
+    "city_kana": "イワクラシ",
+    "prefecture_capital": false
+  },
+  "232297": {
+    "code": "232297",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊明市",
+    "city_kana": "トヨアケシ",
+    "prefecture_capital": false
+  },
+  "232301": {
+    "code": "232301",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "日進市",
+    "city_kana": "ニッシンシ",
+    "prefecture_capital": false
+  },
+  "232319": {
+    "code": "232319",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "田原市",
+    "city_kana": "タハラシ",
+    "prefecture_capital": false
+  },
+  "232327": {
+    "code": "232327",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "愛西市",
+    "city_kana": "アイサイシ",
+    "prefecture_capital": false
+  },
+  "232335": {
+    "code": "232335",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "清須市",
+    "city_kana": "キヨスシ",
+    "prefecture_capital": false
+  },
+  "232343": {
+    "code": "232343",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "北名古屋市",
+    "city_kana": "キタナゴヤシ",
+    "prefecture_capital": false
+  },
+  "232351": {
+    "code": "232351",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "prefecture_capital": false
+  },
+  "232360": {
+    "code": "232360",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "みよし市",
+    "city_kana": "ミヨシシ",
+    "prefecture_capital": false
+  },
+  "232378": {
+    "code": "232378",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "あま市",
+    "city_kana": "アマシ",
+    "prefecture_capital": false
+  },
+  "232386": {
+    "code": "232386",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "長久手市",
+    "city_kana": "ナガクテシ",
+    "prefecture_capital": false
+  },
+  "233021": {
+    "code": "233021",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "東郷町",
+    "city_kana": "トウゴウチョウ",
+    "prefecture_capital": false
+  },
+  "233421": {
+    "code": "233421",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊山町",
+    "city_kana": "トヨヤマチョウ",
+    "prefecture_capital": false
+  },
+  "233617": {
+    "code": "233617",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "大口町",
+    "city_kana": "オオグチチョウ",
+    "prefecture_capital": false
+  },
+  "233625": {
+    "code": "233625",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "扶桑町",
+    "city_kana": "フソウチョウ",
+    "prefecture_capital": false
+  },
+  "234249": {
+    "code": "234249",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "大治町",
+    "city_kana": "オオハルチョウ",
+    "prefecture_capital": false
+  },
+  "234257": {
+    "code": "234257",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "蟹江町",
+    "city_kana": "カニエチョウ",
+    "prefecture_capital": false
+  },
+  "234273": {
+    "code": "234273",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "飛島村",
+    "city_kana": "トビシマムラ",
+    "prefecture_capital": false
+  },
+  "234419": {
+    "code": "234419",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "阿久比町",
+    "city_kana": "アグイチョウ",
+    "prefecture_capital": false
+  },
+  "234427": {
+    "code": "234427",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "東浦町",
+    "city_kana": "ヒガシウラチョウ",
+    "prefecture_capital": false
+  },
+  "234451": {
+    "code": "234451",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "南知多町",
+    "city_kana": "ミナミチタチョウ",
+    "prefecture_capital": false
+  },
+  "234460": {
+    "code": "234460",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "美浜町",
+    "city_kana": "ミハマチョウ",
+    "prefecture_capital": false
+  },
+  "234478": {
+    "code": "234478",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "武豊町",
+    "city_kana": "タケトヨチョウ",
+    "prefecture_capital": false
+  },
+  "235016": {
+    "code": "235016",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "幸田町",
+    "city_kana": "コウタチョウ",
+    "prefecture_capital": false
+  },
+  "235610": {
+    "code": "235610",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "設楽町",
+    "city_kana": "シタラチョウ",
+    "prefecture_capital": false
+  },
+  "235628": {
+    "code": "235628",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "東栄町",
+    "city_kana": "トウエイチョウ",
+    "prefecture_capital": false
+  },
+  "235636": {
+    "code": "235636",
+    "prefecture_code": "23",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "city": "豊根村",
+    "city_kana": "トヨネムラ",
+    "prefecture_capital": false
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "382019": {
+    "code": "382019",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "松山市",
+    "city_kana": "マツヤマシ",
+    "prefecture_capital": true
+  },
+  "382027": {
+    "code": "382027",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "今治市",
+    "city_kana": "イマバリシ",
+    "prefecture_capital": false
+  },
+  "382035": {
+    "code": "382035",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "宇和島市",
+    "city_kana": "ウワジマシ",
+    "prefecture_capital": false
+  },
+  "382043": {
+    "code": "382043",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "prefecture_capital": false
+  },
+  "382051": {
+    "code": "382051",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "新居浜市",
+    "city_kana": "ニイハマシ",
+    "prefecture_capital": false
+  },
+  "382060": {
+    "code": "382060",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "西条市",
+    "city_kana": "サイジョウシ",
+    "prefecture_capital": false
+  },
+  "382078": {
+    "code": "382078",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "大洲市",
+    "city_kana": "オオズシ",
+    "prefecture_capital": false
+  },
+  "382108": {
+    "code": "382108",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "伊予市",
+    "city_kana": "イヨシ",
+    "prefecture_capital": false
+  },
+  "382132": {
+    "code": "382132",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "四国中央市",
+    "city_kana": "シコクチュウオウシ",
+    "prefecture_capital": false
+  },
+  "382141": {
+    "code": "382141",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "西予市",
+    "city_kana": "セイヨシ",
+    "prefecture_capital": false
+  },
+  "382159": {
+    "code": "382159",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "東温市",
+    "city_kana": "トウオンシ",
+    "prefecture_capital": false
+  },
+  "383562": {
+    "code": "383562",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "上島町",
+    "city_kana": "カミジマチョウ",
+    "prefecture_capital": false
+  },
+  "383864": {
+    "code": "383864",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "久万高原町",
+    "city_kana": "クマコウゲンチョウ",
+    "prefecture_capital": false
+  },
+  "384011": {
+    "code": "384011",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "松前町",
+    "city_kana": "マサキチョウ",
+    "prefecture_capital": false
+  },
+  "384020": {
+    "code": "384020",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "砥部町",
+    "city_kana": "トベチョウ",
+    "prefecture_capital": false
+  },
+  "384224": {
+    "code": "384224",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "内子町",
+    "city_kana": "ウチコチョウ",
+    "prefecture_capital": false
+  },
+  "384429": {
+    "code": "384429",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "伊方町",
+    "city_kana": "イカタチョウ",
+    "prefecture_capital": false
+  },
+  "384844": {
+    "code": "384844",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "松野町",
+    "city_kana": "マツノチョウ",
+    "prefecture_capital": false
+  },
+  "384887": {
+    "code": "384887",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "鬼北町",
+    "city_kana": "キホクチョウ",
+    "prefecture_capital": false
+  },
+  "385069": {
+    "code": "385069",
+    "prefecture_code": "38",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "city": "愛南町",
+    "city_kana": "アイナンチョウ",
+    "prefecture_capital": false
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "102016": {
+    "code": "102016",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "前橋市",
+    "city_kana": "マエバシシ",
+    "prefecture_capital": true
+  },
+  "102024": {
+    "code": "102024",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "高崎市",
+    "city_kana": "タカサキシ",
+    "prefecture_capital": false
+  },
+  "102032": {
+    "code": "102032",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "桐生市",
+    "city_kana": "キリュウシ",
+    "prefecture_capital": false
+  },
+  "102041": {
+    "code": "102041",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "伊勢崎市",
+    "city_kana": "イセサキシ",
+    "prefecture_capital": false
+  },
+  "102059": {
+    "code": "102059",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "太田市",
+    "city_kana": "オオタシ",
+    "prefecture_capital": false
+  },
+  "102067": {
+    "code": "102067",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "沼田市",
+    "city_kana": "ヌマタシ",
+    "prefecture_capital": false
+  },
+  "102075": {
+    "code": "102075",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "館林市",
+    "city_kana": "タテバヤシシ",
+    "prefecture_capital": false
+  },
+  "102083": {
+    "code": "102083",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "渋川市",
+    "city_kana": "シブカワシ",
+    "prefecture_capital": false
+  },
+  "102091": {
+    "code": "102091",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "藤岡市",
+    "city_kana": "フジオカシ",
+    "prefecture_capital": false
+  },
+  "102105": {
+    "code": "102105",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "富岡市",
+    "city_kana": "トミオカシ",
+    "prefecture_capital": false
+  },
+  "102113": {
+    "code": "102113",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "安中市",
+    "city_kana": "アンナカシ",
+    "prefecture_capital": false
+  },
+  "102121": {
+    "code": "102121",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "みどり市",
+    "city_kana": "ミドリシ",
+    "prefecture_capital": false
+  },
+  "103446": {
+    "code": "103446",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "榛東村",
+    "city_kana": "シントウムラ",
+    "prefecture_capital": false
+  },
+  "103454": {
+    "code": "103454",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "吉岡町",
+    "city_kana": "ヨシオカマチ",
+    "prefecture_capital": false
+  },
+  "103667": {
+    "code": "103667",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "上野村",
+    "city_kana": "ウエノムラ",
+    "prefecture_capital": false
+  },
+  "103675": {
+    "code": "103675",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "神流町",
+    "city_kana": "カンナマチ",
+    "prefecture_capital": false
+  },
+  "103829": {
+    "code": "103829",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "下仁田町",
+    "city_kana": "シモニタマチ",
+    "prefecture_capital": false
+  },
+  "103837": {
+    "code": "103837",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "南牧村",
+    "city_kana": "ナンモクムラ",
+    "prefecture_capital": false
+  },
+  "103845": {
+    "code": "103845",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "甘楽町",
+    "city_kana": "カンラマチ",
+    "prefecture_capital": false
+  },
+  "104213": {
+    "code": "104213",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "中之条町",
+    "city_kana": "ナカノジヨウマチ",
+    "prefecture_capital": false
+  },
+  "104248": {
+    "code": "104248",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "長野原町",
+    "city_kana": "ナガノハラマチ",
+    "prefecture_capital": false
+  },
+  "104256": {
+    "code": "104256",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "嬬恋村",
+    "city_kana": "ツマゴイムラ",
+    "prefecture_capital": false
+  },
+  "104264": {
+    "code": "104264",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "草津町",
+    "city_kana": "クサツマチ",
+    "prefecture_capital": false
+  },
+  "104281": {
+    "code": "104281",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "高山村",
+    "city_kana": "タカヤマムラ",
+    "prefecture_capital": false
+  },
+  "104299": {
+    "code": "104299",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "東吾妻町",
+    "city_kana": "ヒガシアガツママチ",
+    "prefecture_capital": false
+  },
+  "104434": {
+    "code": "104434",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "片品村",
+    "city_kana": "カタシナムラ",
+    "prefecture_capital": false
+  },
+  "104442": {
+    "code": "104442",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "川場村",
+    "city_kana": "カワバムラ",
+    "prefecture_capital": false
+  },
+  "104485": {
+    "code": "104485",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "昭和村",
+    "city_kana": "ショウワムラ",
+    "prefecture_capital": false
+  },
+  "104493": {
+    "code": "104493",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "みなかみ町",
+    "city_kana": "ミナカミマチ",
+    "prefecture_capital": false
+  },
+  "104647": {
+    "code": "104647",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "玉村町",
+    "city_kana": "タマムラマチ",
+    "prefecture_capital": false
+  },
+  "105210": {
+    "code": "105210",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "板倉町",
+    "city_kana": "イタクラマチ",
+    "prefecture_capital": false
+  },
+  "105228": {
+    "code": "105228",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "明和町",
+    "city_kana": "メイワマチ",
+    "prefecture_capital": false
+  },
+  "105236": {
+    "code": "105236",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "千代田町",
+    "city_kana": "チヨダマチ",
+    "prefecture_capital": false
+  },
+  "105244": {
+    "code": "105244",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "大泉町",
+    "city_kana": "オオイズミマチ",
+    "prefecture_capital": false
+  },
+  "105252": {
+    "code": "105252",
+    "prefecture_code": "10",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "city": "邑楽町",
+    "city_kana": "オウラマチ",
+    "prefecture_capital": false
+  }
+}

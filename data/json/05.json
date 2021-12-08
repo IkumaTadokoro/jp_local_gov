@@ -1,0 +1,227 @@
+{
+  "052019": {
+    "code": "052019",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "秋田市",
+    "city_kana": "アキタシ",
+    "prefecture_capital": true
+  },
+  "052027": {
+    "code": "052027",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "能代市",
+    "city_kana": "ノシロシ",
+    "prefecture_capital": false
+  },
+  "052035": {
+    "code": "052035",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "横手市",
+    "city_kana": "ヨコテシ",
+    "prefecture_capital": false
+  },
+  "052043": {
+    "code": "052043",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "大館市",
+    "city_kana": "オオダテシ",
+    "prefecture_capital": false
+  },
+  "052060": {
+    "code": "052060",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "男鹿市",
+    "city_kana": "オガシ",
+    "prefecture_capital": false
+  },
+  "052078": {
+    "code": "052078",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "湯沢市",
+    "city_kana": "ユザワシ",
+    "prefecture_capital": false
+  },
+  "052094": {
+    "code": "052094",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "鹿角市",
+    "city_kana": "カヅノシ",
+    "prefecture_capital": false
+  },
+  "052108": {
+    "code": "052108",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "由利本荘市",
+    "city_kana": "ユリホンジョウシ",
+    "prefecture_capital": false
+  },
+  "052116": {
+    "code": "052116",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "潟上市",
+    "city_kana": "カタガミシ",
+    "prefecture_capital": false
+  },
+  "052124": {
+    "code": "052124",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "大仙市",
+    "city_kana": "ダイセンシ",
+    "prefecture_capital": false
+  },
+  "052132": {
+    "code": "052132",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "北秋田市",
+    "city_kana": "キタアキタシ",
+    "prefecture_capital": false
+  },
+  "052141": {
+    "code": "052141",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "にかほ市",
+    "city_kana": "ニカホシ",
+    "prefecture_capital": false
+  },
+  "052159": {
+    "code": "052159",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "仙北市",
+    "city_kana": "センボクシ",
+    "prefecture_capital": false
+  },
+  "053031": {
+    "code": "053031",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "小坂町",
+    "city_kana": "コサカマチ",
+    "prefecture_capital": false
+  },
+  "053279": {
+    "code": "053279",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "上小阿仁村",
+    "city_kana": "カミコアニムラ",
+    "prefecture_capital": false
+  },
+  "053465": {
+    "code": "053465",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "藤里町",
+    "city_kana": "フジサトマチ",
+    "prefecture_capital": false
+  },
+  "053481": {
+    "code": "053481",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "三種町",
+    "city_kana": "ミタネチョウ",
+    "prefecture_capital": false
+  },
+  "053490": {
+    "code": "053490",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "八峰町",
+    "city_kana": "ハッポウチョウ",
+    "prefecture_capital": false
+  },
+  "053619": {
+    "code": "053619",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "五城目町",
+    "city_kana": "ゴジョウメマチ",
+    "prefecture_capital": false
+  },
+  "053635": {
+    "code": "053635",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "八郎潟町",
+    "city_kana": "ハチロウガタマチ",
+    "prefecture_capital": false
+  },
+  "053660": {
+    "code": "053660",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "井川町",
+    "city_kana": "イカワマチ",
+    "prefecture_capital": false
+  },
+  "053686": {
+    "code": "053686",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "大潟村",
+    "city_kana": "オオガタムラ",
+    "prefecture_capital": false
+  },
+  "054348": {
+    "code": "054348",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "美郷町",
+    "city_kana": "ミサトチョウ",
+    "prefecture_capital": false
+  },
+  "054631": {
+    "code": "054631",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "羽後町",
+    "city_kana": "ウゴマチ",
+    "prefecture_capital": false
+  },
+  "054640": {
+    "code": "054640",
+    "prefecture_code": "05",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "city": "東成瀬村",
+    "city_kana": "ヒガシナルセムラ",
+    "prefecture_capital": false
+  }
+}

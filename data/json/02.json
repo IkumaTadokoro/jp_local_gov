@@ -1,0 +1,362 @@
+{
+  "022012": {
+    "code": "022012",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "青森市",
+    "city_kana": "アオモリシ",
+    "prefecture_capital": true
+  },
+  "022021": {
+    "code": "022021",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "弘前市",
+    "city_kana": "ヒロサキシ",
+    "prefecture_capital": false
+  },
+  "022039": {
+    "code": "022039",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "八戸市",
+    "city_kana": "ハチノヘシ",
+    "prefecture_capital": false
+  },
+  "022047": {
+    "code": "022047",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "黒石市",
+    "city_kana": "クロイシシ",
+    "prefecture_capital": false
+  },
+  "022055": {
+    "code": "022055",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "五所川原市",
+    "city_kana": "ゴショガワラシ",
+    "prefecture_capital": false
+  },
+  "022063": {
+    "code": "022063",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "十和田市",
+    "city_kana": "トワダシ",
+    "prefecture_capital": false
+  },
+  "022071": {
+    "code": "022071",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "三沢市",
+    "city_kana": "ミサワシ",
+    "prefecture_capital": false
+  },
+  "022080": {
+    "code": "022080",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "むつ市",
+    "city_kana": "ムツシ",
+    "prefecture_capital": false
+  },
+  "022098": {
+    "code": "022098",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "つがる市",
+    "city_kana": "ツガルシ",
+    "prefecture_capital": false
+  },
+  "022101": {
+    "code": "022101",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "平川市",
+    "city_kana": "ヒラカワシ",
+    "prefecture_capital": false
+  },
+  "023019": {
+    "code": "023019",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "平内町",
+    "city_kana": "ヒラナイマチ",
+    "prefecture_capital": false
+  },
+  "023035": {
+    "code": "023035",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "今別町",
+    "city_kana": "イマベツマチ",
+    "prefecture_capital": false
+  },
+  "023043": {
+    "code": "023043",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "蓬田村",
+    "city_kana": "ヨモギタムラ",
+    "prefecture_capital": false
+  },
+  "023078": {
+    "code": "023078",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "外ヶ浜町",
+    "city_kana": "ソトガハママチ",
+    "prefecture_capital": false
+  },
+  "023213": {
+    "code": "023213",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "鰺ヶ沢町",
+    "city_kana": "アジガサワマチ",
+    "prefecture_capital": false
+  },
+  "023230": {
+    "code": "023230",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "深浦町",
+    "city_kana": "フカウラマチ",
+    "prefecture_capital": false
+  },
+  "023434": {
+    "code": "023434",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "西目屋村",
+    "city_kana": "ニシメヤムラ",
+    "prefecture_capital": false
+  },
+  "023612": {
+    "code": "023612",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "藤崎町",
+    "city_kana": "フジサキマチ",
+    "prefecture_capital": false
+  },
+  "023621": {
+    "code": "023621",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "大鰐町",
+    "city_kana": "オオワニマチ",
+    "prefecture_capital": false
+  },
+  "023671": {
+    "code": "023671",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "田舎館村",
+    "city_kana": "イナカダテムラ",
+    "prefecture_capital": false
+  },
+  "023817": {
+    "code": "023817",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "板柳町",
+    "city_kana": "イタヤナギマチ",
+    "prefecture_capital": false
+  },
+  "023841": {
+    "code": "023841",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "鶴田町",
+    "city_kana": "ツルタマチ",
+    "prefecture_capital": false
+  },
+  "023876": {
+    "code": "023876",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "中泊町",
+    "city_kana": "ナカドマリマチ",
+    "prefecture_capital": false
+  },
+  "024015": {
+    "code": "024015",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "野辺地町",
+    "city_kana": "ノヘジマチ",
+    "prefecture_capital": false
+  },
+  "024023": {
+    "code": "024023",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "七戸町",
+    "city_kana": "シチノヘマチ",
+    "prefecture_capital": false
+  },
+  "024058": {
+    "code": "024058",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "六戸町",
+    "city_kana": "ロクノヘマチ",
+    "prefecture_capital": false
+  },
+  "024066": {
+    "code": "024066",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "横浜町",
+    "city_kana": "ヨコハママチ",
+    "prefecture_capital": false
+  },
+  "024082": {
+    "code": "024082",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "東北町",
+    "city_kana": "トウホクマチ",
+    "prefecture_capital": false
+  },
+  "024112": {
+    "code": "024112",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "六ヶ所村",
+    "city_kana": "ロッカショムラ",
+    "prefecture_capital": false
+  },
+  "024121": {
+    "code": "024121",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "おいらせ町",
+    "city_kana": "オイラセチョウ",
+    "prefecture_capital": false
+  },
+  "024236": {
+    "code": "024236",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "大間町",
+    "city_kana": "オオママチ",
+    "prefecture_capital": false
+  },
+  "024244": {
+    "code": "024244",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "東通村",
+    "city_kana": "ヒガシドオリムラ",
+    "prefecture_capital": false
+  },
+  "024252": {
+    "code": "024252",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "風間浦村",
+    "city_kana": "カザマウラムラ",
+    "prefecture_capital": false
+  },
+  "024261": {
+    "code": "024261",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "佐井村",
+    "city_kana": "サイムラ",
+    "prefecture_capital": false
+  },
+  "024414": {
+    "code": "024414",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "三戸町",
+    "city_kana": "サンノヘマチ",
+    "prefecture_capital": false
+  },
+  "024422": {
+    "code": "024422",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "五戸町",
+    "city_kana": "ゴノヘマチ",
+    "prefecture_capital": false
+  },
+  "024431": {
+    "code": "024431",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "田子町",
+    "city_kana": "タッコマチ",
+    "prefecture_capital": false
+  },
+  "024457": {
+    "code": "024457",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "南部町",
+    "city_kana": "ナンブチョウ",
+    "prefecture_capital": false
+  },
+  "024465": {
+    "code": "024465",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "階上町",
+    "city_kana": "ハシカミチョウ",
+    "prefecture_capital": false
+  },
+  "024503": {
+    "code": "024503",
+    "prefecture_code": "02",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "city": "新郷村",
+    "city_kana": "シンゴウムラ",
+    "prefecture_capital": false
+  }
+}
