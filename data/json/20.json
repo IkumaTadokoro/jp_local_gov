@@ -1,0 +1,695 @@
+{
+  "202011": {
+    "code": "202011",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "長野市",
+    "city_kana": "ナガノシ",
+    "prefecture_capital": true
+  },
+  "202029": {
+    "code": "202029",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "松本市",
+    "city_kana": "マツモトシ",
+    "prefecture_capital": false
+  },
+  "202037": {
+    "code": "202037",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "上田市",
+    "city_kana": "ウエダシ",
+    "prefecture_capital": false
+  },
+  "202045": {
+    "code": "202045",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "岡谷市",
+    "city_kana": "オカヤシ",
+    "prefecture_capital": false
+  },
+  "202053": {
+    "code": "202053",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "飯田市",
+    "city_kana": "イイダシ",
+    "prefecture_capital": false
+  },
+  "202061": {
+    "code": "202061",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "諏訪市",
+    "city_kana": "スワシ",
+    "prefecture_capital": false
+  },
+  "202070": {
+    "code": "202070",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "須坂市",
+    "city_kana": "スザカシ",
+    "prefecture_capital": false
+  },
+  "202088": {
+    "code": "202088",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "小諸市",
+    "city_kana": "コモロシ",
+    "prefecture_capital": false
+  },
+  "202096": {
+    "code": "202096",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "prefecture_capital": false
+  },
+  "202100": {
+    "code": "202100",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "駒ヶ根市",
+    "city_kana": "コマガネシ",
+    "prefecture_capital": false
+  },
+  "202118": {
+    "code": "202118",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "中野市",
+    "city_kana": "ナカノシ",
+    "prefecture_capital": false
+  },
+  "202126": {
+    "code": "202126",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "大町市",
+    "city_kana": "オオマチシ",
+    "prefecture_capital": false
+  },
+  "202134": {
+    "code": "202134",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "飯山市",
+    "city_kana": "イイヤマシ",
+    "prefecture_capital": false
+  },
+  "202142": {
+    "code": "202142",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "茅野市",
+    "city_kana": "チノシ",
+    "prefecture_capital": false
+  },
+  "202151": {
+    "code": "202151",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "塩尻市",
+    "city_kana": "シオジリシ",
+    "prefecture_capital": false
+  },
+  "202177": {
+    "code": "202177",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "佐久市",
+    "city_kana": "サクシ",
+    "prefecture_capital": false
+  },
+  "202185": {
+    "code": "202185",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "千曲市",
+    "city_kana": "チクマシ",
+    "prefecture_capital": false
+  },
+  "202193": {
+    "code": "202193",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "東御市",
+    "city_kana": "トウミシ",
+    "prefecture_capital": false
+  },
+  "202207": {
+    "code": "202207",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "安曇野市",
+    "city_kana": "アヅミノシ",
+    "prefecture_capital": false
+  },
+  "203033": {
+    "code": "203033",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "小海町",
+    "city_kana": "コウミマチ",
+    "prefecture_capital": false
+  },
+  "203041": {
+    "code": "203041",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "川上村",
+    "city_kana": "カワカミムラ",
+    "prefecture_capital": false
+  },
+  "203050": {
+    "code": "203050",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "南牧村",
+    "city_kana": "ミナミマキムラ",
+    "prefecture_capital": false
+  },
+  "203068": {
+    "code": "203068",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "南相木村",
+    "city_kana": "ミナミアイキムラ",
+    "prefecture_capital": false
+  },
+  "203076": {
+    "code": "203076",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "北相木村",
+    "city_kana": "キタアイキムラ",
+    "prefecture_capital": false
+  },
+  "203092": {
+    "code": "203092",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "佐久穂町",
+    "city_kana": "サクホマチ",
+    "prefecture_capital": false
+  },
+  "203211": {
+    "code": "203211",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "軽井沢町",
+    "city_kana": "カルイザワマチ",
+    "prefecture_capital": false
+  },
+  "203238": {
+    "code": "203238",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "御代田町",
+    "city_kana": "ミヨタマチ",
+    "prefecture_capital": false
+  },
+  "203246": {
+    "code": "203246",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "立科町",
+    "city_kana": "タテシナマチ",
+    "prefecture_capital": false
+  },
+  "203491": {
+    "code": "203491",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "青木村",
+    "city_kana": "アオキムラ",
+    "prefecture_capital": false
+  },
+  "203505": {
+    "code": "203505",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "長和町",
+    "city_kana": "ナガワマチ",
+    "prefecture_capital": false
+  },
+  "203611": {
+    "code": "203611",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "下諏訪町",
+    "city_kana": "シモスワマチ",
+    "prefecture_capital": false
+  },
+  "203629": {
+    "code": "203629",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "富士見町",
+    "city_kana": "フジミマチ",
+    "prefecture_capital": false
+  },
+  "203637": {
+    "code": "203637",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "原村",
+    "city_kana": "ハラムラ",
+    "prefecture_capital": false
+  },
+  "203823": {
+    "code": "203823",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "辰野町",
+    "city_kana": "タツノマチ",
+    "prefecture_capital": false
+  },
+  "203831": {
+    "code": "203831",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "箕輪町",
+    "city_kana": "ミノワマチ",
+    "prefecture_capital": false
+  },
+  "203840": {
+    "code": "203840",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "飯島町",
+    "city_kana": "イイジママチ",
+    "prefecture_capital": false
+  },
+  "203858": {
+    "code": "203858",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "南箕輪村",
+    "city_kana": "ミナミミノワムラ",
+    "prefecture_capital": false
+  },
+  "203866": {
+    "code": "203866",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "中川村",
+    "city_kana": "ナカガワムラ",
+    "prefecture_capital": false
+  },
+  "203882": {
+    "code": "203882",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "宮田村",
+    "city_kana": "ミヤダムラ",
+    "prefecture_capital": false
+  },
+  "204021": {
+    "code": "204021",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "松川町",
+    "city_kana": "マツカワマチ",
+    "prefecture_capital": false
+  },
+  "204030": {
+    "code": "204030",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "高森町",
+    "city_kana": "タカモリマチ",
+    "prefecture_capital": false
+  },
+  "204048": {
+    "code": "204048",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "阿南町",
+    "city_kana": "アナンチョウ",
+    "prefecture_capital": false
+  },
+  "204072": {
+    "code": "204072",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "阿智村",
+    "city_kana": "アチムラ",
+    "prefecture_capital": false
+  },
+  "204099": {
+    "code": "204099",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "平谷村",
+    "city_kana": "ヒラヤムラ",
+    "prefecture_capital": false
+  },
+  "204102": {
+    "code": "204102",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "根羽村",
+    "city_kana": "ネバムラ",
+    "prefecture_capital": false
+  },
+  "204111": {
+    "code": "204111",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "下條村",
+    "city_kana": "シモジョウムラ",
+    "prefecture_capital": false
+  },
+  "204129": {
+    "code": "204129",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "売木村",
+    "city_kana": "ウルギムラ",
+    "prefecture_capital": false
+  },
+  "204137": {
+    "code": "204137",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "天龍村",
+    "city_kana": "テンリュウムラ",
+    "prefecture_capital": false
+  },
+  "204145": {
+    "code": "204145",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "泰阜村",
+    "city_kana": "ヤスオカムラ",
+    "prefecture_capital": false
+  },
+  "204153": {
+    "code": "204153",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "喬木村",
+    "city_kana": "タカギムラ",
+    "prefecture_capital": false
+  },
+  "204161": {
+    "code": "204161",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "豊丘村",
+    "city_kana": "トヨオカムラ",
+    "prefecture_capital": false
+  },
+  "204170": {
+    "code": "204170",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "大鹿村",
+    "city_kana": "オオシカムラ",
+    "prefecture_capital": false
+  },
+  "204226": {
+    "code": "204226",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "上松町",
+    "city_kana": "アゲマツマチ",
+    "prefecture_capital": false
+  },
+  "204234": {
+    "code": "204234",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "南木曽町",
+    "city_kana": "ナギソマチ",
+    "prefecture_capital": false
+  },
+  "204251": {
+    "code": "204251",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "木祖村",
+    "city_kana": "キソムラ",
+    "prefecture_capital": false
+  },
+  "204293": {
+    "code": "204293",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "王滝村",
+    "city_kana": "オウタキムラ",
+    "prefecture_capital": false
+  },
+  "204307": {
+    "code": "204307",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "大桑村",
+    "city_kana": "オオクワムラ",
+    "prefecture_capital": false
+  },
+  "204323": {
+    "code": "204323",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "木曽町",
+    "city_kana": "キソマチ",
+    "prefecture_capital": false
+  },
+  "204463": {
+    "code": "204463",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "麻績村",
+    "city_kana": "オミムラ",
+    "prefecture_capital": false
+  },
+  "204480": {
+    "code": "204480",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "生坂村",
+    "city_kana": "イクサカムラ",
+    "prefecture_capital": false
+  },
+  "204501": {
+    "code": "204501",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "山形村",
+    "city_kana": "ヤマガタムラ",
+    "prefecture_capital": false
+  },
+  "204510": {
+    "code": "204510",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "朝日村",
+    "city_kana": "アサヒムラ",
+    "prefecture_capital": false
+  },
+  "204528": {
+    "code": "204528",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "筑北村",
+    "city_kana": "チクホクムラ",
+    "prefecture_capital": false
+  },
+  "204811": {
+    "code": "204811",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "池田町",
+    "city_kana": "イケダマチ",
+    "prefecture_capital": false
+  },
+  "204820": {
+    "code": "204820",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "松川村",
+    "city_kana": "マツカワムラ",
+    "prefecture_capital": false
+  },
+  "204854": {
+    "code": "204854",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "白馬村",
+    "city_kana": "ハクバムラ",
+    "prefecture_capital": false
+  },
+  "204862": {
+    "code": "204862",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "小谷村",
+    "city_kana": "オタリムラ",
+    "prefecture_capital": false
+  },
+  "205214": {
+    "code": "205214",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "坂城町",
+    "city_kana": "サカキマチ",
+    "prefecture_capital": false
+  },
+  "205419": {
+    "code": "205419",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "小布施町",
+    "city_kana": "オブセマチ",
+    "prefecture_capital": false
+  },
+  "205435": {
+    "code": "205435",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "高山村",
+    "city_kana": "タカヤマムラ",
+    "prefecture_capital": false
+  },
+  "205613": {
+    "code": "205613",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "山ノ内町",
+    "city_kana": "ヤマノウチマチ",
+    "prefecture_capital": false
+  },
+  "205621": {
+    "code": "205621",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "木島平村",
+    "city_kana": "キジマダイラムラ",
+    "prefecture_capital": false
+  },
+  "205630": {
+    "code": "205630",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "野沢温泉村",
+    "city_kana": "ノザワオンセンムラ",
+    "prefecture_capital": false
+  },
+  "205834": {
+    "code": "205834",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "信濃町",
+    "city_kana": "シナノマチ",
+    "prefecture_capital": false
+  },
+  "205885": {
+    "code": "205885",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "小川村",
+    "city_kana": "オガワムラ",
+    "prefecture_capital": false
+  },
+  "205907": {
+    "code": "205907",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "飯綱町",
+    "city_kana": "イイヅナマチ",
+    "prefecture_capital": false
+  },
+  "206024": {
+    "code": "206024",
+    "prefecture_code": "20",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "city": "栄村",
+    "city_kana": "サカエムラ",
+    "prefecture_capital": false
+  }
+}

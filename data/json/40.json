@@ -1,0 +1,668 @@
+{
+  "401005": {
+    "code": "401005",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市",
+    "city_kana": "キタキュウシュウシ",
+    "prefecture_capital": false
+  },
+  "401013": {
+    "code": "401013",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市門司区",
+    "city_kana": "キタキュウシュウシモジク",
+    "prefecture_capital": false
+  },
+  "401030": {
+    "code": "401030",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市若松区",
+    "city_kana": "キタキュウシュウシワカマツク",
+    "prefecture_capital": false
+  },
+  "401056": {
+    "code": "401056",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市戸畑区",
+    "city_kana": "キタキュウシュウシトバタク",
+    "prefecture_capital": false
+  },
+  "401064": {
+    "code": "401064",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市小倉北区",
+    "city_kana": "キタキュウシュウシコクラキタク",
+    "prefecture_capital": false
+  },
+  "401072": {
+    "code": "401072",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市小倉南区",
+    "city_kana": "キタキュウシュウシコクラミナミク",
+    "prefecture_capital": false
+  },
+  "401081": {
+    "code": "401081",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市八幡東区",
+    "city_kana": "キタキュウシュウシヤハタヒガシク",
+    "prefecture_capital": false
+  },
+  "401099": {
+    "code": "401099",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "北九州市八幡西区",
+    "city_kana": "キタキュウシュウシヤハタニシク",
+    "prefecture_capital": false
+  },
+  "401307": {
+    "code": "401307",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市",
+    "city_kana": "フクオカシ",
+    "prefecture_capital": true
+  },
+  "401315": {
+    "code": "401315",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市東区",
+    "city_kana": "フクオカシヒガシク",
+    "prefecture_capital": false
+  },
+  "401323": {
+    "code": "401323",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "prefecture_capital": false
+  },
+  "401331": {
+    "code": "401331",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市中央区",
+    "city_kana": "フクオカシチュウオウク",
+    "prefecture_capital": false
+  },
+  "401340": {
+    "code": "401340",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市南区",
+    "city_kana": "フクオカシミナミク",
+    "prefecture_capital": false
+  },
+  "401358": {
+    "code": "401358",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市西区",
+    "city_kana": "フクオカシニシク",
+    "prefecture_capital": false
+  },
+  "401366": {
+    "code": "401366",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市城南区",
+    "city_kana": "フクオカシジョウナンク",
+    "prefecture_capital": false
+  },
+  "401374": {
+    "code": "401374",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福岡市早良区",
+    "city_kana": "フクオカシサワラク",
+    "prefecture_capital": false
+  },
+  "402028": {
+    "code": "402028",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大牟田市",
+    "city_kana": "オオムタシ",
+    "prefecture_capital": false
+  },
+  "402036": {
+    "code": "402036",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "久留米市",
+    "city_kana": "クルメシ",
+    "prefecture_capital": false
+  },
+  "402044": {
+    "code": "402044",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "直方市",
+    "city_kana": "ノオガタシ",
+    "prefecture_capital": false
+  },
+  "402052": {
+    "code": "402052",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "飯塚市",
+    "city_kana": "イイヅカシ",
+    "prefecture_capital": false
+  },
+  "402061": {
+    "code": "402061",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "田川市",
+    "city_kana": "タガワシ",
+    "prefecture_capital": false
+  },
+  "402079": {
+    "code": "402079",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "柳川市",
+    "city_kana": "ヤナガワシ",
+    "prefecture_capital": false
+  },
+  "402109": {
+    "code": "402109",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "八女市",
+    "city_kana": "ヤメシ",
+    "prefecture_capital": false
+  },
+  "402117": {
+    "code": "402117",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "筑後市",
+    "city_kana": "チクゴシ",
+    "prefecture_capital": false
+  },
+  "402125": {
+    "code": "402125",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大川市",
+    "city_kana": "オオカワシ",
+    "prefecture_capital": false
+  },
+  "402133": {
+    "code": "402133",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "行橋市",
+    "city_kana": "ユクハシシ",
+    "prefecture_capital": false
+  },
+  "402141": {
+    "code": "402141",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "豊前市",
+    "city_kana": "ブゼンシ",
+    "prefecture_capital": false
+  },
+  "402150": {
+    "code": "402150",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "中間市",
+    "city_kana": "ナカマシ",
+    "prefecture_capital": false
+  },
+  "402168": {
+    "code": "402168",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "小郡市",
+    "city_kana": "オゴオリシ",
+    "prefecture_capital": false
+  },
+  "402176": {
+    "code": "402176",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "筑紫野市",
+    "city_kana": "チクシノシ",
+    "prefecture_capital": false
+  },
+  "402184": {
+    "code": "402184",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "春日市",
+    "city_kana": "カスガシ",
+    "prefecture_capital": false
+  },
+  "402192": {
+    "code": "402192",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大野城市",
+    "city_kana": "オオノジョウシ",
+    "prefecture_capital": false
+  },
+  "402206": {
+    "code": "402206",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "宗像市",
+    "city_kana": "ムナカタシ",
+    "prefecture_capital": false
+  },
+  "402214": {
+    "code": "402214",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "太宰府市",
+    "city_kana": "ダザイフシ",
+    "prefecture_capital": false
+  },
+  "402231": {
+    "code": "402231",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "古賀市",
+    "city_kana": "コガシ",
+    "prefecture_capital": false
+  },
+  "402249": {
+    "code": "402249",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福津市",
+    "city_kana": "フクツシ",
+    "prefecture_capital": false
+  },
+  "402257": {
+    "code": "402257",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "うきは市",
+    "city_kana": "ウキハシ",
+    "prefecture_capital": false
+  },
+  "402265": {
+    "code": "402265",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "宮若市",
+    "city_kana": "ミヤワカシ",
+    "prefecture_capital": false
+  },
+  "402273": {
+    "code": "402273",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "prefecture_capital": false
+  },
+  "402281": {
+    "code": "402281",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "朝倉市",
+    "city_kana": "アサクラシ",
+    "prefecture_capital": false
+  },
+  "402290": {
+    "code": "402290",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "みやま市",
+    "city_kana": "ミヤマシ",
+    "prefecture_capital": false
+  },
+  "402303": {
+    "code": "402303",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "prefecture_capital": false
+  },
+  "402311": {
+    "code": "402311",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "那珂川市",
+    "city_kana": "ナカガワシ",
+    "prefecture_capital": false
+  },
+  "403415": {
+    "code": "403415",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "宇美町",
+    "city_kana": "ウミマチ",
+    "prefecture_capital": false
+  },
+  "403423": {
+    "code": "403423",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "篠栗町",
+    "city_kana": "ササグリマチ",
+    "prefecture_capital": false
+  },
+  "403431": {
+    "code": "403431",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "志免町",
+    "city_kana": "シメマチ",
+    "prefecture_capital": false
+  },
+  "403440": {
+    "code": "403440",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "須恵町",
+    "city_kana": "スエマチ",
+    "prefecture_capital": false
+  },
+  "403458": {
+    "code": "403458",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "新宮町",
+    "city_kana": "シングウマチ",
+    "prefecture_capital": false
+  },
+  "403482": {
+    "code": "403482",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "久山町",
+    "city_kana": "ヒサヤママチ",
+    "prefecture_capital": false
+  },
+  "403491": {
+    "code": "403491",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "粕屋町",
+    "city_kana": "カスヤマチ",
+    "prefecture_capital": false
+  },
+  "403814": {
+    "code": "403814",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "芦屋町",
+    "city_kana": "アシヤマチ",
+    "prefecture_capital": false
+  },
+  "403822": {
+    "code": "403822",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "水巻町",
+    "city_kana": "ミズマキマチ",
+    "prefecture_capital": false
+  },
+  "403831": {
+    "code": "403831",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "岡垣町",
+    "city_kana": "オカガキマチ",
+    "prefecture_capital": false
+  },
+  "403849": {
+    "code": "403849",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "遠賀町",
+    "city_kana": "オンガチョウ",
+    "prefecture_capital": false
+  },
+  "404012": {
+    "code": "404012",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "小竹町",
+    "city_kana": "コタケマチ",
+    "prefecture_capital": false
+  },
+  "404021": {
+    "code": "404021",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "鞍手町",
+    "city_kana": "クラテマチ",
+    "prefecture_capital": false
+  },
+  "404217": {
+    "code": "404217",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "桂川町",
+    "city_kana": "ケイセンマチ",
+    "prefecture_capital": false
+  },
+  "404471": {
+    "code": "404471",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "筑前町",
+    "city_kana": "チクゼンマチ",
+    "prefecture_capital": false
+  },
+  "404489": {
+    "code": "404489",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "東峰村",
+    "city_kana": "トウホウムラ",
+    "prefecture_capital": false
+  },
+  "405035": {
+    "code": "405035",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大刀洗町",
+    "city_kana": "タチアライマチ",
+    "prefecture_capital": false
+  },
+  "405221": {
+    "code": "405221",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大木町",
+    "city_kana": "オオキマチ",
+    "prefecture_capital": false
+  },
+  "405442": {
+    "code": "405442",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "広川町",
+    "city_kana": "ヒロカワマチ",
+    "prefecture_capital": false
+  },
+  "406015": {
+    "code": "406015",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "香春町",
+    "city_kana": "カワラマチ",
+    "prefecture_capital": false
+  },
+  "406023": {
+    "code": "406023",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "添田町",
+    "city_kana": "ソエダマチ",
+    "prefecture_capital": false
+  },
+  "406040": {
+    "code": "406040",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "糸田町",
+    "city_kana": "イトダマチ",
+    "prefecture_capital": false
+  },
+  "406058": {
+    "code": "406058",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "川崎町",
+    "city_kana": "カワサキマチ",
+    "prefecture_capital": false
+  },
+  "406082": {
+    "code": "406082",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "大任町",
+    "city_kana": "オオトウマチ",
+    "prefecture_capital": false
+  },
+  "406091": {
+    "code": "406091",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "赤村",
+    "city_kana": "アカムラ",
+    "prefecture_capital": false
+  },
+  "406104": {
+    "code": "406104",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "福智町",
+    "city_kana": "フクチマチ",
+    "prefecture_capital": false
+  },
+  "406210": {
+    "code": "406210",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "苅田町",
+    "city_kana": "カンダマチ",
+    "prefecture_capital": false
+  },
+  "406252": {
+    "code": "406252",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "みやこ町",
+    "city_kana": "ミヤコマチ",
+    "prefecture_capital": false
+  },
+  "406422": {
+    "code": "406422",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "吉富町",
+    "city_kana": "ヨシトミマチ",
+    "prefecture_capital": false
+  },
+  "406465": {
+    "code": "406465",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "上毛町",
+    "city_kana": "コウゲマチ",
+    "prefecture_capital": false
+  },
+  "406473": {
+    "code": "406473",
+    "prefecture_code": "40",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "city": "築上町",
+    "city_kana": "チクジョウマチ",
+    "prefecture_capital": false
+  }
+}

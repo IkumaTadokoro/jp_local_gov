@@ -1,0 +1,281 @@
+{
+  "331007": {
+    "code": "331007",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "岡山市",
+    "city_kana": "オカヤマシ",
+    "prefecture_capital": true
+  },
+  "331015": {
+    "code": "331015",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "岡山市北区",
+    "city_kana": "オカヤマシキタク",
+    "prefecture_capital": false
+  },
+  "331023": {
+    "code": "331023",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "岡山市中区",
+    "city_kana": "オカヤマシナカク",
+    "prefecture_capital": false
+  },
+  "331031": {
+    "code": "331031",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "岡山市東区",
+    "city_kana": "オカヤマシヒガシク",
+    "prefecture_capital": false
+  },
+  "331040": {
+    "code": "331040",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "岡山市南区",
+    "city_kana": "オカヤマシミナミク",
+    "prefecture_capital": false
+  },
+  "332020": {
+    "code": "332020",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "倉敷市",
+    "city_kana": "クラシキシ",
+    "prefecture_capital": false
+  },
+  "332038": {
+    "code": "332038",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "津山市",
+    "city_kana": "ツヤマシ",
+    "prefecture_capital": false
+  },
+  "332046": {
+    "code": "332046",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "玉野市",
+    "city_kana": "タマノシ",
+    "prefecture_capital": false
+  },
+  "332054": {
+    "code": "332054",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "笠岡市",
+    "city_kana": "カサオカシ",
+    "prefecture_capital": false
+  },
+  "332071": {
+    "code": "332071",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "井原市",
+    "city_kana": "イバラシ",
+    "prefecture_capital": false
+  },
+  "332089": {
+    "code": "332089",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "総社市",
+    "city_kana": "ソウジヤシ",
+    "prefecture_capital": false
+  },
+  "332097": {
+    "code": "332097",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "高梁市",
+    "city_kana": "タカハシシ",
+    "prefecture_capital": false
+  },
+  "332101": {
+    "code": "332101",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "新見市",
+    "city_kana": "ニイミシ",
+    "prefecture_capital": false
+  },
+  "332119": {
+    "code": "332119",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "備前市",
+    "city_kana": "ビゼンシ",
+    "prefecture_capital": false
+  },
+  "332127": {
+    "code": "332127",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "瀬戸内市",
+    "city_kana": "セトウチシ",
+    "prefecture_capital": false
+  },
+  "332135": {
+    "code": "332135",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "赤磐市",
+    "city_kana": "アカイワシ",
+    "prefecture_capital": false
+  },
+  "332143": {
+    "code": "332143",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "真庭市",
+    "city_kana": "マニワシ",
+    "prefecture_capital": false
+  },
+  "332151": {
+    "code": "332151",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "美作市",
+    "city_kana": "ミマサカシ",
+    "prefecture_capital": false
+  },
+  "332160": {
+    "code": "332160",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "浅口市",
+    "city_kana": "アサクチシ",
+    "prefecture_capital": false
+  },
+  "333468": {
+    "code": "333468",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "和気町",
+    "city_kana": "ワケチョウ",
+    "prefecture_capital": false
+  },
+  "334235": {
+    "code": "334235",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "早島町",
+    "city_kana": "ハヤシマチョウ",
+    "prefecture_capital": false
+  },
+  "334456": {
+    "code": "334456",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "里庄町",
+    "city_kana": "サトショウチョウ",
+    "prefecture_capital": false
+  },
+  "334618": {
+    "code": "334618",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "矢掛町",
+    "city_kana": "ヤカゲチョウ",
+    "prefecture_capital": false
+  },
+  "335860": {
+    "code": "335860",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "新庄村",
+    "city_kana": "シンジヨウソン",
+    "prefecture_capital": false
+  },
+  "336068": {
+    "code": "336068",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "鏡野町",
+    "city_kana": "カガミノチョウ",
+    "prefecture_capital": false
+  },
+  "336220": {
+    "code": "336220",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "勝央町",
+    "city_kana": "ショウオウチョウ",
+    "prefecture_capital": false
+  },
+  "336238": {
+    "code": "336238",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "奈義町",
+    "city_kana": "ナギチョウ",
+    "prefecture_capital": false
+  },
+  "336432": {
+    "code": "336432",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "西粟倉村",
+    "city_kana": "ニシアワクラソン",
+    "prefecture_capital": false
+  },
+  "336637": {
+    "code": "336637",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "久米南町",
+    "city_kana": "クメナンチョウ",
+    "prefecture_capital": false
+  },
+  "336661": {
+    "code": "336661",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "美咲町",
+    "city_kana": "ミサキチョウ",
+    "prefecture_capital": false
+  },
+  "336815": {
+    "code": "336815",
+    "prefecture_code": "33",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "city": "吉備中央町",
+    "city_kana": "キビチュウオウチョウ",
+    "prefecture_capital": false
+  }
+}

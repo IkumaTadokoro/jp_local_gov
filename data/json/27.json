@@ -1,0 +1,668 @@
+{
+  "271004": {
+    "code": "271004",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市",
+    "city_kana": "オオサカシ",
+    "prefecture_capital": true
+  },
+  "271021": {
+    "code": "271021",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市都島区",
+    "city_kana": "オオサカシミヤコジマク",
+    "prefecture_capital": false
+  },
+  "271039": {
+    "code": "271039",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市福島区",
+    "city_kana": "オオサカシフクシマク",
+    "prefecture_capital": false
+  },
+  "271047": {
+    "code": "271047",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市此花区",
+    "city_kana": "オオサカシコノハナク",
+    "prefecture_capital": false
+  },
+  "271063": {
+    "code": "271063",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市西区",
+    "city_kana": "オオサカシニシク",
+    "prefecture_capital": false
+  },
+  "271071": {
+    "code": "271071",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市港区",
+    "city_kana": "オオサカシミナトク",
+    "prefecture_capital": false
+  },
+  "271080": {
+    "code": "271080",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市大正区",
+    "city_kana": "オオサカシタイショウク",
+    "prefecture_capital": false
+  },
+  "271098": {
+    "code": "271098",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市天王寺区",
+    "city_kana": "オオサカシテンノウジク",
+    "prefecture_capital": false
+  },
+  "271110": {
+    "code": "271110",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市浪速区",
+    "city_kana": "オオサカシナニワク",
+    "prefecture_capital": false
+  },
+  "271136": {
+    "code": "271136",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市西淀川区",
+    "city_kana": "オオサカシニシヨドガワク",
+    "prefecture_capital": false
+  },
+  "271144": {
+    "code": "271144",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市東淀川区",
+    "city_kana": "オオサカシヒガシヨドガワク",
+    "prefecture_capital": false
+  },
+  "271152": {
+    "code": "271152",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市東成区",
+    "city_kana": "オオサカシヒガシナリク",
+    "prefecture_capital": false
+  },
+  "271161": {
+    "code": "271161",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市生野区",
+    "city_kana": "オオサカシイクノク",
+    "prefecture_capital": false
+  },
+  "271179": {
+    "code": "271179",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市旭区",
+    "city_kana": "オオサカシアサヒク",
+    "prefecture_capital": false
+  },
+  "271187": {
+    "code": "271187",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市城東区",
+    "city_kana": "オオサカシジョウトウク",
+    "prefecture_capital": false
+  },
+  "271195": {
+    "code": "271195",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市阿倍野区",
+    "city_kana": "オオサカシアベノク",
+    "prefecture_capital": false
+  },
+  "271209": {
+    "code": "271209",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市住吉区",
+    "city_kana": "オオサカシスミヨシク",
+    "prefecture_capital": false
+  },
+  "271217": {
+    "code": "271217",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市東住吉区",
+    "city_kana": "オオサカシヒガシスミヨシク",
+    "prefecture_capital": false
+  },
+  "271225": {
+    "code": "271225",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市西成区",
+    "city_kana": "オオサカシニシナリク",
+    "prefecture_capital": false
+  },
+  "271233": {
+    "code": "271233",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市淀川区",
+    "city_kana": "オオサカシヨドガワク",
+    "prefecture_capital": false
+  },
+  "271241": {
+    "code": "271241",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市鶴見区",
+    "city_kana": "オオサカシツルミク",
+    "prefecture_capital": false
+  },
+  "271250": {
+    "code": "271250",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市住之江区",
+    "city_kana": "オオサカシスミノエク",
+    "prefecture_capital": false
+  },
+  "271268": {
+    "code": "271268",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "prefecture_capital": false
+  },
+  "271276": {
+    "code": "271276",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "prefecture_capital": false
+  },
+  "271284": {
+    "code": "271284",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "prefecture_capital": false
+  },
+  "271403": {
+    "code": "271403",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市",
+    "city_kana": "サカイシ",
+    "prefecture_capital": false
+  },
+  "271411": {
+    "code": "271411",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市堺区",
+    "city_kana": "サカイシサカイク",
+    "prefecture_capital": false
+  },
+  "271420": {
+    "code": "271420",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市中区",
+    "city_kana": "サカイシナカク",
+    "prefecture_capital": false
+  },
+  "271438": {
+    "code": "271438",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市東区",
+    "city_kana": "サカイシヒガシク",
+    "prefecture_capital": false
+  },
+  "271446": {
+    "code": "271446",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市西区",
+    "city_kana": "サカイシニシク",
+    "prefecture_capital": false
+  },
+  "271454": {
+    "code": "271454",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市南区",
+    "city_kana": "サカイシミナミク",
+    "prefecture_capital": false
+  },
+  "271462": {
+    "code": "271462",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市北区",
+    "city_kana": "サカイシキタク",
+    "prefecture_capital": false
+  },
+  "271471": {
+    "code": "271471",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "堺市美原区",
+    "city_kana": "サカイシミハラク",
+    "prefecture_capital": false
+  },
+  "272027": {
+    "code": "272027",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "岸和田市",
+    "city_kana": "キシワダシ",
+    "prefecture_capital": false
+  },
+  "272035": {
+    "code": "272035",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "豊中市",
+    "city_kana": "トヨナカシ",
+    "prefecture_capital": false
+  },
+  "272043": {
+    "code": "272043",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "池田市",
+    "city_kana": "イケダシ",
+    "prefecture_capital": false
+  },
+  "272051": {
+    "code": "272051",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "吹田市",
+    "city_kana": "スイタシ",
+    "prefecture_capital": false
+  },
+  "272060": {
+    "code": "272060",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "泉大津市",
+    "city_kana": "イズミオオツシ",
+    "prefecture_capital": false
+  },
+  "272078": {
+    "code": "272078",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "高槻市",
+    "city_kana": "タカツキシ",
+    "prefecture_capital": false
+  },
+  "272086": {
+    "code": "272086",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "貝塚市",
+    "city_kana": "カイヅカシ",
+    "prefecture_capital": false
+  },
+  "272094": {
+    "code": "272094",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "守口市",
+    "city_kana": "モリグチシ",
+    "prefecture_capital": false
+  },
+  "272108": {
+    "code": "272108",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "prefecture_capital": false
+  },
+  "272116": {
+    "code": "272116",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "prefecture_capital": false
+  },
+  "272124": {
+    "code": "272124",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "八尾市",
+    "city_kana": "ヤオシ",
+    "prefecture_capital": false
+  },
+  "272132": {
+    "code": "272132",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "泉佐野市",
+    "city_kana": "イズミサノシ",
+    "prefecture_capital": false
+  },
+  "272141": {
+    "code": "272141",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "富田林市",
+    "city_kana": "トンダバヤシシ",
+    "prefecture_capital": false
+  },
+  "272159": {
+    "code": "272159",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "寝屋川市",
+    "city_kana": "ネヤガワシ",
+    "prefecture_capital": false
+  },
+  "272167": {
+    "code": "272167",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "河内長野市",
+    "city_kana": "カワチナガノシ",
+    "prefecture_capital": false
+  },
+  "272175": {
+    "code": "272175",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "松原市",
+    "city_kana": "マツバラシ",
+    "prefecture_capital": false
+  },
+  "272183": {
+    "code": "272183",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大東市",
+    "city_kana": "ダイトウシ",
+    "prefecture_capital": false
+  },
+  "272191": {
+    "code": "272191",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "和泉市",
+    "city_kana": "イズミシ",
+    "prefecture_capital": false
+  },
+  "272205": {
+    "code": "272205",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "箕面市",
+    "city_kana": "ミノオシ",
+    "prefecture_capital": false
+  },
+  "272213": {
+    "code": "272213",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "柏原市",
+    "city_kana": "カシワラシ",
+    "prefecture_capital": false
+  },
+  "272221": {
+    "code": "272221",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "羽曳野市",
+    "city_kana": "ハビキノシ",
+    "prefecture_capital": false
+  },
+  "272230": {
+    "code": "272230",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "門真市",
+    "city_kana": "カドマシ",
+    "prefecture_capital": false
+  },
+  "272248": {
+    "code": "272248",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "摂津市",
+    "city_kana": "セッツシ",
+    "prefecture_capital": false
+  },
+  "272256": {
+    "code": "272256",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "高石市",
+    "city_kana": "タカイシシ",
+    "prefecture_capital": false
+  },
+  "272264": {
+    "code": "272264",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "藤井寺市",
+    "city_kana": "フジイデラシ",
+    "prefecture_capital": false
+  },
+  "272272": {
+    "code": "272272",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "東大阪市",
+    "city_kana": "ヒガシオオサカシ",
+    "prefecture_capital": false
+  },
+  "272281": {
+    "code": "272281",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "泉南市",
+    "city_kana": "センナンシ",
+    "prefecture_capital": false
+  },
+  "272299": {
+    "code": "272299",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "四條畷市",
+    "city_kana": "シジヨウナワテシ",
+    "prefecture_capital": false
+  },
+  "272302": {
+    "code": "272302",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "交野市",
+    "city_kana": "カタノシ",
+    "prefecture_capital": false
+  },
+  "272311": {
+    "code": "272311",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "大阪狭山市",
+    "city_kana": "オオサカサヤマシ",
+    "prefecture_capital": false
+  },
+  "272329": {
+    "code": "272329",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "阪南市",
+    "city_kana": "ハンナンシ",
+    "prefecture_capital": false
+  },
+  "273015": {
+    "code": "273015",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "島本町",
+    "city_kana": "シマモトチョウ",
+    "prefecture_capital": false
+  },
+  "273210": {
+    "code": "273210",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "豊能町",
+    "city_kana": "トヨノチョウ",
+    "prefecture_capital": false
+  },
+  "273228": {
+    "code": "273228",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "能勢町",
+    "city_kana": "ノセチョウ",
+    "prefecture_capital": false
+  },
+  "273414": {
+    "code": "273414",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "忠岡町",
+    "city_kana": "タダオカチョウ",
+    "prefecture_capital": false
+  },
+  "273619": {
+    "code": "273619",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "熊取町",
+    "city_kana": "クマトリチョウ",
+    "prefecture_capital": false
+  },
+  "273627": {
+    "code": "273627",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "田尻町",
+    "city_kana": "タジリチョウ",
+    "prefecture_capital": false
+  },
+  "273660": {
+    "code": "273660",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "岬町",
+    "city_kana": "ミサキチョウ",
+    "prefecture_capital": false
+  },
+  "273813": {
+    "code": "273813",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "太子町",
+    "city_kana": "タイシチョウ",
+    "prefecture_capital": false
+  },
+  "273821": {
+    "code": "273821",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "河南町",
+    "city_kana": "カナンチョウ",
+    "prefecture_capital": false
+  },
+  "273830": {
+    "code": "273830",
+    "prefecture_code": "27",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "city": "千早赤阪村",
+    "city_kana": "チハヤアカサカムラ",
+    "prefecture_capital": false
+  }
+}

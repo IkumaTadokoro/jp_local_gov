@@ -1,0 +1,155 @@
+{
+  "182010": {
+    "code": "182010",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "prefecture_capital": true
+  },
+  "182028": {
+    "code": "182028",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "敦賀市",
+    "city_kana": "ツルガシ",
+    "prefecture_capital": false
+  },
+  "182044": {
+    "code": "182044",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "小浜市",
+    "city_kana": "オバマシ",
+    "prefecture_capital": false
+  },
+  "182052": {
+    "code": "182052",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "大野市",
+    "city_kana": "オオノシ",
+    "prefecture_capital": false
+  },
+  "182061": {
+    "code": "182061",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "勝山市",
+    "city_kana": "カツヤマシ",
+    "prefecture_capital": false
+  },
+  "182079": {
+    "code": "182079",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "鯖江市",
+    "city_kana": "サバエシ",
+    "prefecture_capital": false
+  },
+  "182087": {
+    "code": "182087",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "あわら市",
+    "city_kana": "アワラシ",
+    "prefecture_capital": false
+  },
+  "182095": {
+    "code": "182095",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "越前市",
+    "city_kana": "エチゼンシ",
+    "prefecture_capital": false
+  },
+  "182109": {
+    "code": "182109",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "坂井市",
+    "city_kana": "サカイシ",
+    "prefecture_capital": false
+  },
+  "183229": {
+    "code": "183229",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "永平寺町",
+    "city_kana": "エイヘイジチョウ",
+    "prefecture_capital": false
+  },
+  "183822": {
+    "code": "183822",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "池田町",
+    "city_kana": "イケダチョウ",
+    "prefecture_capital": false
+  },
+  "184047": {
+    "code": "184047",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "南越前町",
+    "city_kana": "ミナミエチゼンチョウ",
+    "prefecture_capital": false
+  },
+  "184233": {
+    "code": "184233",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "越前町",
+    "city_kana": "エチゼンチョウ",
+    "prefecture_capital": false
+  },
+  "184420": {
+    "code": "184420",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "美浜町",
+    "city_kana": "ミハマチョウ",
+    "prefecture_capital": false
+  },
+  "184811": {
+    "code": "184811",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "高浜町",
+    "city_kana": "タカハマチョウ",
+    "prefecture_capital": false
+  },
+  "184837": {
+    "code": "184837",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "おおい町",
+    "city_kana": "オオイチョウ",
+    "prefecture_capital": false
+  },
+  "185019": {
+    "code": "185019",
+    "prefecture_code": "18",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "city": "若狭町",
+    "city_kana": "ワカサチョウ",
+    "prefecture_capital": false
+  }
+}

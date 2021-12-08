@@ -1,0 +1,335 @@
+{
+  "261009": {
+    "code": "261009",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市",
+    "city_kana": "キョウトシ",
+    "prefecture_capital": true
+  },
+  "261017": {
+    "code": "261017",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市北区",
+    "city_kana": "キョウトシキタク",
+    "prefecture_capital": false
+  },
+  "261025": {
+    "code": "261025",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市上京区",
+    "city_kana": "キョウトシカミギョウク",
+    "prefecture_capital": false
+  },
+  "261033": {
+    "code": "261033",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市左京区",
+    "city_kana": "キョウトシサキョウク",
+    "prefecture_capital": false
+  },
+  "261041": {
+    "code": "261041",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市中京区",
+    "city_kana": "キョウトシナカギョウク",
+    "prefecture_capital": false
+  },
+  "261050": {
+    "code": "261050",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市東山区",
+    "city_kana": "キョウトシヒガシヤマク",
+    "prefecture_capital": false
+  },
+  "261068": {
+    "code": "261068",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市下京区",
+    "city_kana": "キョウトシシモギョウク",
+    "prefecture_capital": false
+  },
+  "261076": {
+    "code": "261076",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市南区",
+    "city_kana": "キョウトシミナミク",
+    "prefecture_capital": false
+  },
+  "261084": {
+    "code": "261084",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市右京区",
+    "city_kana": "キョウトシウキョウク",
+    "prefecture_capital": false
+  },
+  "261092": {
+    "code": "261092",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "prefecture_capital": false
+  },
+  "261106": {
+    "code": "261106",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市山科区",
+    "city_kana": "キョウトシヤマシナク",
+    "prefecture_capital": false
+  },
+  "261114": {
+    "code": "261114",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京都市西京区",
+    "city_kana": "キョウトシニシキョウク",
+    "prefecture_capital": false
+  },
+  "262013": {
+    "code": "262013",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "福知山市",
+    "city_kana": "フクチヤマシ",
+    "prefecture_capital": false
+  },
+  "262021": {
+    "code": "262021",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "舞鶴市",
+    "city_kana": "マイヅルシ",
+    "prefecture_capital": false
+  },
+  "262030": {
+    "code": "262030",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "綾部市",
+    "city_kana": "アヤベシ",
+    "prefecture_capital": false
+  },
+  "262048": {
+    "code": "262048",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "宇治市",
+    "city_kana": "ウジシ",
+    "prefecture_capital": false
+  },
+  "262056": {
+    "code": "262056",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "宮津市",
+    "city_kana": "ミヤヅシ",
+    "prefecture_capital": false
+  },
+  "262064": {
+    "code": "262064",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "亀岡市",
+    "city_kana": "カメオカシ",
+    "prefecture_capital": false
+  },
+  "262072": {
+    "code": "262072",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "城陽市",
+    "city_kana": "ジョウヨウシ",
+    "prefecture_capital": false
+  },
+  "262081": {
+    "code": "262081",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "向日市",
+    "city_kana": "ムコウシ",
+    "prefecture_capital": false
+  },
+  "262099": {
+    "code": "262099",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "長岡京市",
+    "city_kana": "ナガオカキョウシ",
+    "prefecture_capital": false
+  },
+  "262102": {
+    "code": "262102",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "八幡市",
+    "city_kana": "ヤワタシ",
+    "prefecture_capital": false
+  },
+  "262111": {
+    "code": "262111",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京田辺市",
+    "city_kana": "キョウタナベシ",
+    "prefecture_capital": false
+  },
+  "262129": {
+    "code": "262129",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京丹後市",
+    "city_kana": "キョウタンゴシ",
+    "prefecture_capital": false
+  },
+  "262137": {
+    "code": "262137",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "南丹市",
+    "city_kana": "ナンタンシ",
+    "prefecture_capital": false
+  },
+  "262145": {
+    "code": "262145",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "木津川市",
+    "city_kana": "キヅガワシ",
+    "prefecture_capital": false
+  },
+  "263036": {
+    "code": "263036",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "大山崎町",
+    "city_kana": "オオヤマザキチョウ",
+    "prefecture_capital": false
+  },
+  "263222": {
+    "code": "263222",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "久御山町",
+    "city_kana": "クミヤマチョウ",
+    "prefecture_capital": false
+  },
+  "263435": {
+    "code": "263435",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "井手町",
+    "city_kana": "イデチョウ",
+    "prefecture_capital": false
+  },
+  "263443": {
+    "code": "263443",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "宇治田原町",
+    "city_kana": "ウジタワラチョウ",
+    "prefecture_capital": false
+  },
+  "263648": {
+    "code": "263648",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "笠置町",
+    "city_kana": "カサギチョウ",
+    "prefecture_capital": false
+  },
+  "263656": {
+    "code": "263656",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "和束町",
+    "city_kana": "ワヅカチョウ",
+    "prefecture_capital": false
+  },
+  "263664": {
+    "code": "263664",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "精華町",
+    "city_kana": "セイカチョウ",
+    "prefecture_capital": false
+  },
+  "263672": {
+    "code": "263672",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "南山城村",
+    "city_kana": "ミナミヤマシロムラ",
+    "prefecture_capital": false
+  },
+  "264075": {
+    "code": "264075",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "京丹波町",
+    "city_kana": "キョウタンバチョウ",
+    "prefecture_capital": false
+  },
+  "264636": {
+    "code": "264636",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "伊根町",
+    "city_kana": "イネチョウ",
+    "prefecture_capital": false
+  },
+  "264652": {
+    "code": "264652",
+    "prefecture_code": "26",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "city": "与謝野町",
+    "city_kana": "ヨサノチョウ",
+    "prefecture_capital": false
+  }
+}

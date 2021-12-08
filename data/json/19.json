@@ -1,0 +1,245 @@
+{
+  "192015": {
+    "code": "192015",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "甲府市",
+    "city_kana": "コウフシ",
+    "prefecture_capital": true
+  },
+  "192023": {
+    "code": "192023",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "富士吉田市",
+    "city_kana": "フジヨシダシ",
+    "prefecture_capital": false
+  },
+  "192040": {
+    "code": "192040",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "都留市",
+    "city_kana": "ツルシ",
+    "prefecture_capital": false
+  },
+  "192058": {
+    "code": "192058",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "山梨市",
+    "city_kana": "ヤマナシシ",
+    "prefecture_capital": false
+  },
+  "192066": {
+    "code": "192066",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "大月市",
+    "city_kana": "オオツキシ",
+    "prefecture_capital": false
+  },
+  "192074": {
+    "code": "192074",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "韮崎市",
+    "city_kana": "ニラサキシ",
+    "prefecture_capital": false
+  },
+  "192082": {
+    "code": "192082",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "南アルプス市",
+    "city_kana": "ミナミアルプスシ",
+    "prefecture_capital": false
+  },
+  "192091": {
+    "code": "192091",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "北杜市",
+    "city_kana": "ホクトシ",
+    "prefecture_capital": false
+  },
+  "192104": {
+    "code": "192104",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "甲斐市",
+    "city_kana": "カイシ",
+    "prefecture_capital": false
+  },
+  "192112": {
+    "code": "192112",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "笛吹市",
+    "city_kana": "フエフキシ",
+    "prefecture_capital": false
+  },
+  "192121": {
+    "code": "192121",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "上野原市",
+    "city_kana": "ウエノハラシ",
+    "prefecture_capital": false
+  },
+  "192139": {
+    "code": "192139",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "甲州市",
+    "city_kana": "コウシュウシ",
+    "prefecture_capital": false
+  },
+  "192147": {
+    "code": "192147",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "中央市",
+    "city_kana": "チュウオウシ",
+    "prefecture_capital": false
+  },
+  "193461": {
+    "code": "193461",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "市川三郷町",
+    "city_kana": "イチカワミサトチョウ",
+    "prefecture_capital": false
+  },
+  "193640": {
+    "code": "193640",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "早川町",
+    "city_kana": "ハヤカワチョウ",
+    "prefecture_capital": false
+  },
+  "193658": {
+    "code": "193658",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "身延町",
+    "city_kana": "ミノブチョウ",
+    "prefecture_capital": false
+  },
+  "193666": {
+    "code": "193666",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "南部町",
+    "city_kana": "ナンブチョウ",
+    "prefecture_capital": false
+  },
+  "193682": {
+    "code": "193682",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "富士川町",
+    "city_kana": "フジカワチョウ",
+    "prefecture_capital": false
+  },
+  "193844": {
+    "code": "193844",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "昭和町",
+    "city_kana": "ショウワチョウ",
+    "prefecture_capital": false
+  },
+  "194221": {
+    "code": "194221",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "道志村",
+    "city_kana": "ドウシムラ",
+    "prefecture_capital": false
+  },
+  "194239": {
+    "code": "194239",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "西桂町",
+    "city_kana": "ニシカツラチョウ",
+    "prefecture_capital": false
+  },
+  "194247": {
+    "code": "194247",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "忍野村",
+    "city_kana": "オシノムラ",
+    "prefecture_capital": false
+  },
+  "194255": {
+    "code": "194255",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "山中湖村",
+    "city_kana": "ヤマナカコムラ",
+    "prefecture_capital": false
+  },
+  "194298": {
+    "code": "194298",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "鳴沢村",
+    "city_kana": "ナルサワムラ",
+    "prefecture_capital": false
+  },
+  "194301": {
+    "code": "194301",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "富士河口湖町",
+    "city_kana": "フジカワグチコマチ",
+    "prefecture_capital": false
+  },
+  "194425": {
+    "code": "194425",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "小菅村",
+    "city_kana": "コスゲムラ",
+    "prefecture_capital": false
+  },
+  "194433": {
+    "code": "194433",
+    "prefecture_code": "19",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "city": "丹波山村",
+    "city_kana": "タバヤマムラ",
+    "prefecture_capital": false
+  }
+}

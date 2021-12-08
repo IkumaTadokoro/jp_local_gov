@@ -1,0 +1,353 @@
+{
+  "292010": {
+    "code": "292010",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "奈良市",
+    "city_kana": "ナラシ",
+    "prefecture_capital": true
+  },
+  "292028": {
+    "code": "292028",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "大和高田市",
+    "city_kana": "ヤマトタカダシ",
+    "prefecture_capital": false
+  },
+  "292036": {
+    "code": "292036",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "大和郡山市",
+    "city_kana": "ヤマトコオリヤマシ",
+    "prefecture_capital": false
+  },
+  "292044": {
+    "code": "292044",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "天理市",
+    "city_kana": "テンリシ",
+    "prefecture_capital": false
+  },
+  "292052": {
+    "code": "292052",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "橿原市",
+    "city_kana": "カシハラシ",
+    "prefecture_capital": false
+  },
+  "292061": {
+    "code": "292061",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "桜井市",
+    "city_kana": "サクライシ",
+    "prefecture_capital": false
+  },
+  "292079": {
+    "code": "292079",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "五條市",
+    "city_kana": "ゴジョウシ",
+    "prefecture_capital": false
+  },
+  "292087": {
+    "code": "292087",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "御所市",
+    "city_kana": "ゴセシ",
+    "prefecture_capital": false
+  },
+  "292095": {
+    "code": "292095",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "生駒市",
+    "city_kana": "イコマシ",
+    "prefecture_capital": false
+  },
+  "292109": {
+    "code": "292109",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "香芝市",
+    "city_kana": "カシバシ",
+    "prefecture_capital": false
+  },
+  "292117": {
+    "code": "292117",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "葛城市",
+    "city_kana": "カツラギシ",
+    "prefecture_capital": false
+  },
+  "292125": {
+    "code": "292125",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "宇陀市",
+    "city_kana": "ウダシ",
+    "prefecture_capital": false
+  },
+  "293229": {
+    "code": "293229",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "山添村",
+    "city_kana": "ヤマゾエムラ",
+    "prefecture_capital": false
+  },
+  "293423": {
+    "code": "293423",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "平群町",
+    "city_kana": "ヘグリチョウ",
+    "prefecture_capital": false
+  },
+  "293431": {
+    "code": "293431",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "三郷町",
+    "city_kana": "サンゴウチョウ",
+    "prefecture_capital": false
+  },
+  "293440": {
+    "code": "293440",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "斑鳩町",
+    "city_kana": "イカルガチョウ",
+    "prefecture_capital": false
+  },
+  "293458": {
+    "code": "293458",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "安堵町",
+    "city_kana": "アンドチョウ",
+    "prefecture_capital": false
+  },
+  "293610": {
+    "code": "293610",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "川西町",
+    "city_kana": "カワニシチョウ",
+    "prefecture_capital": false
+  },
+  "293628": {
+    "code": "293628",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "三宅町",
+    "city_kana": "ミヤケチョウ",
+    "prefecture_capital": false
+  },
+  "293636": {
+    "code": "293636",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "田原本町",
+    "city_kana": "タワラモトチョウ",
+    "prefecture_capital": false
+  },
+  "293857": {
+    "code": "293857",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "曽爾村",
+    "city_kana": "ソニムラ",
+    "prefecture_capital": false
+  },
+  "293865": {
+    "code": "293865",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "御杖村",
+    "city_kana": "ミツエムラ",
+    "prefecture_capital": false
+  },
+  "294012": {
+    "code": "294012",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "高取町",
+    "city_kana": "タカトリチョウ",
+    "prefecture_capital": false
+  },
+  "294021": {
+    "code": "294021",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "明日香村",
+    "city_kana": "アスカムラ",
+    "prefecture_capital": false
+  },
+  "294241": {
+    "code": "294241",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "上牧町",
+    "city_kana": "カンマキチョウ",
+    "prefecture_capital": false
+  },
+  "294250": {
+    "code": "294250",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "王寺町",
+    "city_kana": "オウジチョウ",
+    "prefecture_capital": false
+  },
+  "294268": {
+    "code": "294268",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "広陵町",
+    "city_kana": "コウリヨウチョウ",
+    "prefecture_capital": false
+  },
+  "294276": {
+    "code": "294276",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "河合町",
+    "city_kana": "カワイチョウ",
+    "prefecture_capital": false
+  },
+  "294411": {
+    "code": "294411",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "吉野町",
+    "city_kana": "ヨシノチョウ",
+    "prefecture_capital": false
+  },
+  "294420": {
+    "code": "294420",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "大淀町",
+    "city_kana": "オオヨドチョウ",
+    "prefecture_capital": false
+  },
+  "294438": {
+    "code": "294438",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "下市町",
+    "city_kana": "シモイチチョウ",
+    "prefecture_capital": false
+  },
+  "294446": {
+    "code": "294446",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "黒滝村",
+    "city_kana": "クロタキムラ",
+    "prefecture_capital": false
+  },
+  "294462": {
+    "code": "294462",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "天川村",
+    "city_kana": "テンカワムラ",
+    "prefecture_capital": false
+  },
+  "294471": {
+    "code": "294471",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "野迫川村",
+    "city_kana": "ノセガワムラ",
+    "prefecture_capital": false
+  },
+  "294497": {
+    "code": "294497",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "十津川村",
+    "city_kana": "トツカワムラ",
+    "prefecture_capital": false
+  },
+  "294501": {
+    "code": "294501",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "下北山村",
+    "city_kana": "シモキタヤマムラ",
+    "prefecture_capital": false
+  },
+  "294519": {
+    "code": "294519",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "上北山村",
+    "city_kana": "カミキタヤマムラ",
+    "prefecture_capital": false
+  },
+  "294527": {
+    "code": "294527",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "川上村",
+    "city_kana": "カワカミムラ",
+    "prefecture_capital": false
+  },
+  "294535": {
+    "code": "294535",
+    "prefecture_code": "29",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "city": "東吉野村",
+    "city_kana": "ヒガシヨシノムラ",
+    "prefecture_capital": false
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "472018": {
+    "code": "472018",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "那覇市",
+    "city_kana": "ナハシ",
+    "prefecture_capital": true
+  },
+  "472051": {
+    "code": "472051",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "宜野湾市",
+    "city_kana": "ギノワンシ",
+    "prefecture_capital": false
+  },
+  "472077": {
+    "code": "472077",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "石垣市",
+    "city_kana": "イシガキシ",
+    "prefecture_capital": false
+  },
+  "472085": {
+    "code": "472085",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "浦添市",
+    "city_kana": "ウラソエシ",
+    "prefecture_capital": false
+  },
+  "472093": {
+    "code": "472093",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "名護市",
+    "city_kana": "ナゴシ",
+    "prefecture_capital": false
+  },
+  "472107": {
+    "code": "472107",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "糸満市",
+    "city_kana": "イトマンシ",
+    "prefecture_capital": false
+  },
+  "472115": {
+    "code": "472115",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "沖縄市",
+    "city_kana": "オキナワシ",
+    "prefecture_capital": false
+  },
+  "472123": {
+    "code": "472123",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "豊見城市",
+    "city_kana": "トミグスクシ",
+    "prefecture_capital": false
+  },
+  "472131": {
+    "code": "472131",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "うるま市",
+    "city_kana": "ウルマシ",
+    "prefecture_capital": false
+  },
+  "472140": {
+    "code": "472140",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "宮古島市",
+    "city_kana": "ミヤコジマシ",
+    "prefecture_capital": false
+  },
+  "472158": {
+    "code": "472158",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "南城市",
+    "city_kana": "ナンジョウシ",
+    "prefecture_capital": false
+  },
+  "473014": {
+    "code": "473014",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "国頭村",
+    "city_kana": "クニガミソン",
+    "prefecture_capital": false
+  },
+  "473022": {
+    "code": "473022",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "大宜味村",
+    "city_kana": "オオギミソン",
+    "prefecture_capital": false
+  },
+  "473031": {
+    "code": "473031",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "東村",
+    "city_kana": "ヒガシソン",
+    "prefecture_capital": false
+  },
+  "473065": {
+    "code": "473065",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "今帰仁村",
+    "city_kana": "ナキジンソン",
+    "prefecture_capital": false
+  },
+  "473081": {
+    "code": "473081",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "本部町",
+    "city_kana": "モトブチョウ",
+    "prefecture_capital": false
+  },
+  "473111": {
+    "code": "473111",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "恩納村",
+    "city_kana": "オンナソン",
+    "prefecture_capital": false
+  },
+  "473138": {
+    "code": "473138",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "宜野座村",
+    "city_kana": "ギノザソン",
+    "prefecture_capital": false
+  },
+  "473146": {
+    "code": "473146",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "金武町",
+    "city_kana": "キンチョウ",
+    "prefecture_capital": false
+  },
+  "473154": {
+    "code": "473154",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "伊江村",
+    "city_kana": "イエソン",
+    "prefecture_capital": false
+  },
+  "473243": {
+    "code": "473243",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "読谷村",
+    "city_kana": "ヨミタンソン",
+    "prefecture_capital": false
+  },
+  "473251": {
+    "code": "473251",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "嘉手納町",
+    "city_kana": "カデナチョウ",
+    "prefecture_capital": false
+  },
+  "473260": {
+    "code": "473260",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "北谷町",
+    "city_kana": "チヤタンチョウ",
+    "prefecture_capital": false
+  },
+  "473278": {
+    "code": "473278",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "北中城村",
+    "city_kana": "キタナカグスクソン",
+    "prefecture_capital": false
+  },
+  "473286": {
+    "code": "473286",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "中城村",
+    "city_kana": "ナカグスクソン",
+    "prefecture_capital": false
+  },
+  "473294": {
+    "code": "473294",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "西原町",
+    "city_kana": "ニシハラチョウ",
+    "prefecture_capital": false
+  },
+  "473481": {
+    "code": "473481",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "与那原町",
+    "city_kana": "ヨナバルチョウ",
+    "prefecture_capital": false
+  },
+  "473502": {
+    "code": "473502",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "南風原町",
+    "city_kana": "ハエバルチョウ",
+    "prefecture_capital": false
+  },
+  "473537": {
+    "code": "473537",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "渡嘉敷村",
+    "city_kana": "トカシキソン",
+    "prefecture_capital": false
+  },
+  "473545": {
+    "code": "473545",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "座間味村",
+    "city_kana": "ザマミソン",
+    "prefecture_capital": false
+  },
+  "473553": {
+    "code": "473553",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "粟国村",
+    "city_kana": "アグニソン",
+    "prefecture_capital": false
+  },
+  "473561": {
+    "code": "473561",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "渡名喜村",
+    "city_kana": "トナキソン",
+    "prefecture_capital": false
+  },
+  "473570": {
+    "code": "473570",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "南大東村",
+    "city_kana": "ミナミダイトウソン",
+    "prefecture_capital": false
+  },
+  "473588": {
+    "code": "473588",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "北大東村",
+    "city_kana": "キタダイトウソン",
+    "prefecture_capital": false
+  },
+  "473596": {
+    "code": "473596",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "伊平屋村",
+    "city_kana": "イヘヤソン",
+    "prefecture_capital": false
+  },
+  "473600": {
+    "code": "473600",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "伊是名村",
+    "city_kana": "イゼナソン",
+    "prefecture_capital": false
+  },
+  "473618": {
+    "code": "473618",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "久米島町",
+    "city_kana": "クメジマチョウ",
+    "prefecture_capital": false
+  },
+  "473626": {
+    "code": "473626",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "八重瀬町",
+    "city_kana": "ヤエセチョウ",
+    "prefecture_capital": false
+  },
+  "473758": {
+    "code": "473758",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "多良間村",
+    "city_kana": "タラマソン",
+    "prefecture_capital": false
+  },
+  "473812": {
+    "code": "473812",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "竹富町",
+    "city_kana": "タケトミチョウ",
+    "prefecture_capital": false
+  },
+  "473821": {
+    "code": "473821",
+    "prefecture_code": "47",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "city": "与那国町",
+    "city_kana": "ヨナグニチョウ",
+    "prefecture_capital": false
+  }
+}
