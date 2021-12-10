@@ -5,7 +5,7 @@ require_relative "jp_local_gov/local_gov"
 require "json"
 
 module JpLocalGov
-  JSON_FILE = "#{File.dirname(__FILE__)}/../data/local_gov.json"
+  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/"
   CHECK_DIGITS_INDEX = 5
   CHECK_BASE = 11
 
@@ -14,7 +14,8 @@ module JpLocalGov
   def find(local_gov_code)
     return nil unless local_gov_code.is_a?(String) && valid_code?(local_gov_code)
 
-    data = JSON.parse(File.open(JSON_FILE).read)
+    json_file = "#{DATA_DIR}#{local_gov_code[0..1]}.json"
+    data = JSON.parse(File.open(json_file).read)
     local_gov_data = data[local_gov_code]
     return nil if local_gov_data.nil?
 
