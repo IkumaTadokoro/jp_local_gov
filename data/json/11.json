@@ -1,0 +1,659 @@
+{
+  "111007": {
+    "code": "111007",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市",
+    "city_kana": "サイタマシ",
+    "prefecture_capital": true
+  },
+  "111015": {
+    "code": "111015",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市西区",
+    "city_kana": "サイタマシニシク",
+    "prefecture_capital": false
+  },
+  "111023": {
+    "code": "111023",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市北区",
+    "city_kana": "サイタマシキタク",
+    "prefecture_capital": false
+  },
+  "111031": {
+    "code": "111031",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "prefecture_capital": false
+  },
+  "111040": {
+    "code": "111040",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市見沼区",
+    "city_kana": "サイタマシミヌマク",
+    "prefecture_capital": false
+  },
+  "111058": {
+    "code": "111058",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "prefecture_capital": false
+  },
+  "111066": {
+    "code": "111066",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市桜区",
+    "city_kana": "サイタマシサクラク",
+    "prefecture_capital": false
+  },
+  "111074": {
+    "code": "111074",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "prefecture_capital": false
+  },
+  "111082": {
+    "code": "111082",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市南区",
+    "city_kana": "サイタマシミナミク",
+    "prefecture_capital": false
+  },
+  "111091": {
+    "code": "111091",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市緑区",
+    "city_kana": "サイタマシミドリク",
+    "prefecture_capital": false
+  },
+  "111104": {
+    "code": "111104",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "さいたま市岩槻区",
+    "city_kana": "サイタマシイワツキク",
+    "prefecture_capital": false
+  },
+  "112011": {
+    "code": "112011",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "川越市",
+    "city_kana": "カワゴエシ",
+    "prefecture_capital": false
+  },
+  "112020": {
+    "code": "112020",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "熊谷市",
+    "city_kana": "クマガヤシ",
+    "prefecture_capital": false
+  },
+  "112038": {
+    "code": "112038",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "川口市",
+    "city_kana": "カワグチシ",
+    "prefecture_capital": false
+  },
+  "112062": {
+    "code": "112062",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "行田市",
+    "city_kana": "ギヨウダシ",
+    "prefecture_capital": false
+  },
+  "112071": {
+    "code": "112071",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "秩父市",
+    "city_kana": "チチブシ",
+    "prefecture_capital": false
+  },
+  "112089": {
+    "code": "112089",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "所沢市",
+    "city_kana": "トコロザワシ",
+    "prefecture_capital": false
+  },
+  "112097": {
+    "code": "112097",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "飯能市",
+    "city_kana": "ハンノウシ",
+    "prefecture_capital": false
+  },
+  "112101": {
+    "code": "112101",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "加須市",
+    "city_kana": "カゾシ",
+    "prefecture_capital": false
+  },
+  "112119": {
+    "code": "112119",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "本庄市",
+    "city_kana": "ホンジヨウシ",
+    "prefecture_capital": false
+  },
+  "112127": {
+    "code": "112127",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "東松山市",
+    "city_kana": "ヒガシマツヤマシ",
+    "prefecture_capital": false
+  },
+  "112143": {
+    "code": "112143",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "春日部市",
+    "city_kana": "カスカベシ",
+    "prefecture_capital": false
+  },
+  "112151": {
+    "code": "112151",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "狭山市",
+    "city_kana": "サヤマシ",
+    "prefecture_capital": false
+  },
+  "112160": {
+    "code": "112160",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "羽生市",
+    "city_kana": "ハニユウシ",
+    "prefecture_capital": false
+  },
+  "112178": {
+    "code": "112178",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "鴻巣市",
+    "city_kana": "コウノスシ",
+    "prefecture_capital": false
+  },
+  "112186": {
+    "code": "112186",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "深谷市",
+    "city_kana": "フカヤシ",
+    "prefecture_capital": false
+  },
+  "112194": {
+    "code": "112194",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "prefecture_capital": false
+  },
+  "112216": {
+    "code": "112216",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "草加市",
+    "city_kana": "ソウカシ",
+    "prefecture_capital": false
+  },
+  "112224": {
+    "code": "112224",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "越谷市",
+    "city_kana": "コシガヤシ",
+    "prefecture_capital": false
+  },
+  "112232": {
+    "code": "112232",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "蕨市",
+    "city_kana": "ワラビシ",
+    "prefecture_capital": false
+  },
+  "112241": {
+    "code": "112241",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "戸田市",
+    "city_kana": "トダシ",
+    "prefecture_capital": false
+  },
+  "112259": {
+    "code": "112259",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "入間市",
+    "city_kana": "イルマシ",
+    "prefecture_capital": false
+  },
+  "112275": {
+    "code": "112275",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "朝霞市",
+    "city_kana": "アサカシ",
+    "prefecture_capital": false
+  },
+  "112283": {
+    "code": "112283",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "志木市",
+    "city_kana": "シキシ",
+    "prefecture_capital": false
+  },
+  "112291": {
+    "code": "112291",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "和光市",
+    "city_kana": "ワコウシ",
+    "prefecture_capital": false
+  },
+  "112305": {
+    "code": "112305",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "新座市",
+    "city_kana": "ニイザシ",
+    "prefecture_capital": false
+  },
+  "112313": {
+    "code": "112313",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "桶川市",
+    "city_kana": "オケガワシ",
+    "prefecture_capital": false
+  },
+  "112321": {
+    "code": "112321",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "久喜市",
+    "city_kana": "クキシ",
+    "prefecture_capital": false
+  },
+  "112330": {
+    "code": "112330",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "北本市",
+    "city_kana": "キタモトシ",
+    "prefecture_capital": false
+  },
+  "112348": {
+    "code": "112348",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "八潮市",
+    "city_kana": "ヤシオシ",
+    "prefecture_capital": false
+  },
+  "112356": {
+    "code": "112356",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "富士見市",
+    "city_kana": "フジミシ",
+    "prefecture_capital": false
+  },
+  "112372": {
+    "code": "112372",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "三郷市",
+    "city_kana": "ミサトシ",
+    "prefecture_capital": false
+  },
+  "112381": {
+    "code": "112381",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "蓮田市",
+    "city_kana": "ハスダシ",
+    "prefecture_capital": false
+  },
+  "112399": {
+    "code": "112399",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "坂戸市",
+    "city_kana": "サカドシ",
+    "prefecture_capital": false
+  },
+  "112402": {
+    "code": "112402",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "幸手市",
+    "city_kana": "サッテシ",
+    "prefecture_capital": false
+  },
+  "112411": {
+    "code": "112411",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "鶴ヶ島市",
+    "city_kana": "ツルガシマシ",
+    "prefecture_capital": false
+  },
+  "112429": {
+    "code": "112429",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "日高市",
+    "city_kana": "ヒダカシ",
+    "prefecture_capital": false
+  },
+  "112437": {
+    "code": "112437",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "吉川市",
+    "city_kana": "ヨシカワシ",
+    "prefecture_capital": false
+  },
+  "112453": {
+    "code": "112453",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "ふじみ野市",
+    "city_kana": "フジミノシ",
+    "prefecture_capital": false
+  },
+  "112461": {
+    "code": "112461",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "白岡市",
+    "city_kana": "シラオカシ",
+    "prefecture_capital": false
+  },
+  "113018": {
+    "code": "113018",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "伊奈町",
+    "city_kana": "イナマチ",
+    "prefecture_capital": false
+  },
+  "113247": {
+    "code": "113247",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "三芳町",
+    "city_kana": "ミヨシマチ",
+    "prefecture_capital": false
+  },
+  "113263": {
+    "code": "113263",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "毛呂山町",
+    "city_kana": "モロヤママチ",
+    "prefecture_capital": false
+  },
+  "113271": {
+    "code": "113271",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "越生町",
+    "city_kana": "オゴセマチ",
+    "prefecture_capital": false
+  },
+  "113417": {
+    "code": "113417",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "滑川町",
+    "city_kana": "ナメガワマチ",
+    "prefecture_capital": false
+  },
+  "113425": {
+    "code": "113425",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "嵐山町",
+    "city_kana": "ランザンマチ",
+    "prefecture_capital": false
+  },
+  "113433": {
+    "code": "113433",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "小川町",
+    "city_kana": "オガワマチ",
+    "prefecture_capital": false
+  },
+  "113468": {
+    "code": "113468",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "川島町",
+    "city_kana": "カワジママチ",
+    "prefecture_capital": false
+  },
+  "113476": {
+    "code": "113476",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "吉見町",
+    "city_kana": "ヨシミマチ",
+    "prefecture_capital": false
+  },
+  "113484": {
+    "code": "113484",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "鳩山町",
+    "city_kana": "ハトヤママチ",
+    "prefecture_capital": false
+  },
+  "113492": {
+    "code": "113492",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "ときがわ町",
+    "city_kana": "トキガワマチ",
+    "prefecture_capital": false
+  },
+  "113611": {
+    "code": "113611",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "横瀬町",
+    "city_kana": "ヨコゼマチ",
+    "prefecture_capital": false
+  },
+  "113620": {
+    "code": "113620",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "皆野町",
+    "city_kana": "ミナノマチ",
+    "prefecture_capital": false
+  },
+  "113638": {
+    "code": "113638",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "長瀞町",
+    "city_kana": "ナガトロマチ",
+    "prefecture_capital": false
+  },
+  "113654": {
+    "code": "113654",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "小鹿野町",
+    "city_kana": "オガノマチ",
+    "prefecture_capital": false
+  },
+  "113697": {
+    "code": "113697",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "東秩父村",
+    "city_kana": "ヒガシチチブムラ",
+    "prefecture_capital": false
+  },
+  "113816": {
+    "code": "113816",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "美里町",
+    "city_kana": "ミサトマチ",
+    "prefecture_capital": false
+  },
+  "113832": {
+    "code": "113832",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "神川町",
+    "city_kana": "カミカワマチ",
+    "prefecture_capital": false
+  },
+  "113859": {
+    "code": "113859",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "上里町",
+    "city_kana": "カミサトマチ",
+    "prefecture_capital": false
+  },
+  "114081": {
+    "code": "114081",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "寄居町",
+    "city_kana": "ヨリイマチ",
+    "prefecture_capital": false
+  },
+  "114421": {
+    "code": "114421",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "宮代町",
+    "city_kana": "ミヤシロマチ",
+    "prefecture_capital": false
+  },
+  "114642": {
+    "code": "114642",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "杉戸町",
+    "city_kana": "スギトマチ",
+    "prefecture_capital": false
+  },
+  "114651": {
+    "code": "114651",
+    "prefecture_code": "11",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "city": "松伏町",
+    "city_kana": "マツブシマチ",
+    "prefecture_capital": false
+  }
+}

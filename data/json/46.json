@@ -1,0 +1,389 @@
+{
+  "462012": {
+    "code": "462012",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "鹿児島市",
+    "city_kana": "カゴシマシ",
+    "prefecture_capital": true
+  },
+  "462039": {
+    "code": "462039",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "鹿屋市",
+    "city_kana": "カノヤシ",
+    "prefecture_capital": false
+  },
+  "462047": {
+    "code": "462047",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "枕崎市",
+    "city_kana": "マクラザキシ",
+    "prefecture_capital": false
+  },
+  "462063": {
+    "code": "462063",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "阿久根市",
+    "city_kana": "アクネシ",
+    "prefecture_capital": false
+  },
+  "462080": {
+    "code": "462080",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "出水市",
+    "city_kana": "イズミシ",
+    "prefecture_capital": false
+  },
+  "462101": {
+    "code": "462101",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "指宿市",
+    "city_kana": "イブスキシ",
+    "prefecture_capital": false
+  },
+  "462136": {
+    "code": "462136",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "西之表市",
+    "city_kana": "ニシノオモテシ",
+    "prefecture_capital": false
+  },
+  "462144": {
+    "code": "462144",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "垂水市",
+    "city_kana": "タルミズシ",
+    "prefecture_capital": false
+  },
+  "462152": {
+    "code": "462152",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "薩摩川内市",
+    "city_kana": "サツマセンダイシ",
+    "prefecture_capital": false
+  },
+  "462161": {
+    "code": "462161",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "日置市",
+    "city_kana": "ヒオキシ",
+    "prefecture_capital": false
+  },
+  "462179": {
+    "code": "462179",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "曽於市",
+    "city_kana": "ソオシ",
+    "prefecture_capital": false
+  },
+  "462187": {
+    "code": "462187",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "霧島市",
+    "city_kana": "キリシマシ",
+    "prefecture_capital": false
+  },
+  "462195": {
+    "code": "462195",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "いちき串木野市",
+    "city_kana": "イチキクシキノシ",
+    "prefecture_capital": false
+  },
+  "462209": {
+    "code": "462209",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "南さつま市",
+    "city_kana": "ミナミサツマシ",
+    "prefecture_capital": false
+  },
+  "462217": {
+    "code": "462217",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "志布志市",
+    "city_kana": "シブシシ",
+    "prefecture_capital": false
+  },
+  "462225": {
+    "code": "462225",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "奄美市",
+    "city_kana": "アマミシ",
+    "prefecture_capital": false
+  },
+  "462233": {
+    "code": "462233",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "南九州市",
+    "city_kana": "ミナミキュウシュウシ",
+    "prefecture_capital": false
+  },
+  "462241": {
+    "code": "462241",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "伊佐市",
+    "city_kana": "イサシ",
+    "prefecture_capital": false
+  },
+  "462250": {
+    "code": "462250",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "姶良市",
+    "city_kana": "アイラシ",
+    "prefecture_capital": false
+  },
+  "463035": {
+    "code": "463035",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "三島村",
+    "city_kana": "ミシマムラ",
+    "prefecture_capital": false
+  },
+  "463043": {
+    "code": "463043",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "十島村",
+    "city_kana": "トシマムラ",
+    "prefecture_capital": false
+  },
+  "463922": {
+    "code": "463922",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "さつま町",
+    "city_kana": "サツマチョウ",
+    "prefecture_capital": false
+  },
+  "464040": {
+    "code": "464040",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "長島町",
+    "city_kana": "ナガシマチョウ",
+    "prefecture_capital": false
+  },
+  "464520": {
+    "code": "464520",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "湧水町",
+    "city_kana": "ユウスイチョウ",
+    "prefecture_capital": false
+  },
+  "464686": {
+    "code": "464686",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "大崎町",
+    "city_kana": "オオサキチョウ",
+    "prefecture_capital": false
+  },
+  "464821": {
+    "code": "464821",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "東串良町",
+    "city_kana": "ヒガシクシラチョウ",
+    "prefecture_capital": false
+  },
+  "464902": {
+    "code": "464902",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "錦江町",
+    "city_kana": "キンコウチョウ",
+    "prefecture_capital": false
+  },
+  "464911": {
+    "code": "464911",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "南大隅町",
+    "city_kana": "ミナミオオスミチョウ",
+    "prefecture_capital": false
+  },
+  "464929": {
+    "code": "464929",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "肝付町",
+    "city_kana": "キモツキチョウ",
+    "prefecture_capital": false
+  },
+  "465011": {
+    "code": "465011",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "中種子町",
+    "city_kana": "ナカタネチョウ",
+    "prefecture_capital": false
+  },
+  "465020": {
+    "code": "465020",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "南種子町",
+    "city_kana": "ミナミタネチョウ",
+    "prefecture_capital": false
+  },
+  "465054": {
+    "code": "465054",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "屋久島町",
+    "city_kana": "ヤクシマチョウ",
+    "prefecture_capital": false
+  },
+  "465232": {
+    "code": "465232",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "大和村",
+    "city_kana": "ヤマトソン",
+    "prefecture_capital": false
+  },
+  "465241": {
+    "code": "465241",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "宇検村",
+    "city_kana": "ウケンソン",
+    "prefecture_capital": false
+  },
+  "465259": {
+    "code": "465259",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "瀬戸内町",
+    "city_kana": "セトウチチョウ",
+    "prefecture_capital": false
+  },
+  "465275": {
+    "code": "465275",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "龍郷町",
+    "city_kana": "タツゴウチョウ",
+    "prefecture_capital": false
+  },
+  "465291": {
+    "code": "465291",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "喜界町",
+    "city_kana": "キカイチョウ",
+    "prefecture_capital": false
+  },
+  "465305": {
+    "code": "465305",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "徳之島町",
+    "city_kana": "トクノシマチョウ",
+    "prefecture_capital": false
+  },
+  "465313": {
+    "code": "465313",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "天城町",
+    "city_kana": "アマギチョウ",
+    "prefecture_capital": false
+  },
+  "465321": {
+    "code": "465321",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "伊仙町",
+    "city_kana": "イセンチョウ",
+    "prefecture_capital": false
+  },
+  "465330": {
+    "code": "465330",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "和泊町",
+    "city_kana": "ワドマリチョウ",
+    "prefecture_capital": false
+  },
+  "465348": {
+    "code": "465348",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "知名町",
+    "city_kana": "チナチョウ",
+    "prefecture_capital": false
+  },
+  "465356": {
+    "code": "465356",
+    "prefecture_code": "46",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "city": "与論町",
+    "city_kana": "ヨロンチョウ",
+    "prefecture_capital": false
+  }
+}

@@ -1,83 +1,64 @@
 # frozen_string_literal: true
 
-require "open-uri"
-require "pdf-reader"
 require "json"
-require "nokogiri"
+require_relative "base"
 
 module JpLocalGov
   module Data
     class Exporter
-      URL_DOMAIN = "https://www.soumu.go.jp"
-      SEARCH_URL = "https://www.soumu.go.jp/denshijiti/code.html"
-      JSON_FILE = "local_gov.json"
-      VALID_COLUMN_COUNT = 5
+      SELECT_SQL = <<-SQL
+        SELECT
+          code,
+          prefecture_code,
+          prefecture,
+          prefecture_kana,
+          city,
+          city_kana,
+          prefecture_capital
+        FROM local_governments
+        ORDER BY code
+      SQL
 
       def initialize
-        @local_gov_hash = Hash.new { |h, k| h[k] = {} }
+        @db = JpLocalGov::Data::Base.new.db
       end
 
       def execute
-        retrieve_data
-        set_prefecture_capital
-        output_json
-      end
-
-      private
-
-      def retrieve_data
-        reader = PDF::Reader.new(OpenURI.open_uri(pdf_url))
-
-        reader.pages.each do |page|
-          page.text.split("\n").each do |row|
-            items = row.split("\s")
-            next if header?(items) || items.length != VALID_COLUMN_COUNT
-
-            to_hash(items)
+        local_governments.each do |prefix, value|
+          file_path = File.expand_path("../../data/json/#{prefix}.json", __FILE__)
+          File.open(file_path, "wb") do |file|
+            file.write JSON.pretty_generate(value)
           end
         end
       end
 
-      def to_hash(items)
-        @local_gov_hash[items[0]] = {
-          code: items[0],
-          prefecture_code: items[0][0..1],
-          prefecture: items[1],
-          prefecture_kana: covert_half_char_to_full_char(items[3]),
-          city: items[2],
-          city_kana: covert_half_char_to_full_char(items[4]),
-          prefecture_capital: false
-        }
-      end
+      private
 
-      def set_prefecture_capital
-        prefecture_capital_list = JSON.parse(File.open(File.expand_path("prefecture_capital.json", __dir__)).read)
+      def local_governments
+        local_governments = {}
 
-        prefecture_capital_list.each do |row|
-          city = @local_gov_hash.values.find { |lg| lg[:prefecture] == row["prefecture"] && lg[:city] == row["city"] }
-          city[:prefecture_capital] = true
+        @db.execute(SELECT_SQL) do |row|
+          lg_hash = to_hash(row)
+          local_governments[lg_hash[:prefecture_code]] ||= {}
+          local_governments[lg_hash[:prefecture_code]] =
+            local_governments[lg_hash[:prefecture_code]].merge(lg_hash[:code] => lg_hash)
         end
+
+        local_governments
       end
 
-      def output_json
-        file_path = File.expand_path("../../data/local_gov.json", __FILE__)
-        File.open(file_path, "w") do |file|
-          file.write JSON.pretty_generate(@local_gov_hash)
-        end
-      end
+      def to_hash(row)
+        local_government = {}
+        local_government[:code],
+        local_government[:prefecture_code],
+        local_government[:prefecture],
+        local_government[:prefecture_kana],
+        local_government[:city],
+        local_government[:city_kana],
+        local_government[:prefecture_capital] = row
 
-      def pdf_url
-        html = Nokogiri::HTML(OpenURI.open_uri(SEARCH_URL))
-        url = html.css('[href$=".pdf"]').first.attributes["href"]
-        "#{URL_DOMAIN}#{url}"
-      end
-
-      def header?(row)
-        (row[0] =~ /[0-9]/).nil?
-      end
-
-      def covert_half_char_to_full_char(text)
-        text.gsub(/[\uFF61-\uFF9F]+/) { |str| str.unicode_normalize(:nfkc) }
+        local_government[:prefecture_capital] = local_government[:prefecture_capital] == "1"
+        local_government
       end
     end
   end

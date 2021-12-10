@@ -11,5 +11,6 @@ gem "rspec", "~> 3.0"
 
 gem "rubocop", "~> 1.7"
 
-gem "pdf-reader"
 gem "nokogiri"
+gem "pdf-reader"
+gem "sqlite3"

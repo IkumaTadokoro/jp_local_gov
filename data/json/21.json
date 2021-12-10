@@ -1,0 +1,380 @@
+{
+  "212016": {
+    "code": "212016",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "岐阜市",
+    "city_kana": "ギフシ",
+    "prefecture_capital": true
+  },
+  "212024": {
+    "code": "212024",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "大垣市",
+    "city_kana": "オオガキシ",
+    "prefecture_capital": false
+  },
+  "212032": {
+    "code": "212032",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "高山市",
+    "city_kana": "タカヤマシ",
+    "prefecture_capital": false
+  },
+  "212041": {
+    "code": "212041",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "多治見市",
+    "city_kana": "タジミシ",
+    "prefecture_capital": false
+  },
+  "212059": {
+    "code": "212059",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "関市",
+    "city_kana": "セキシ",
+    "prefecture_capital": false
+  },
+  "212067": {
+    "code": "212067",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "中津川市",
+    "city_kana": "ナカツガワシ",
+    "prefecture_capital": false
+  },
+  "212075": {
+    "code": "212075",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "美濃市",
+    "city_kana": "ミノシ",
+    "prefecture_capital": false
+  },
+  "212083": {
+    "code": "212083",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "瑞浪市",
+    "city_kana": "ミズナミシ",
+    "prefecture_capital": false
+  },
+  "212091": {
+    "code": "212091",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "羽島市",
+    "city_kana": "ハシマシ",
+    "prefecture_capital": false
+  },
+  "212105": {
+    "code": "212105",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "恵那市",
+    "city_kana": "エナシ",
+    "prefecture_capital": false
+  },
+  "212113": {
+    "code": "212113",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "美濃加茂市",
+    "city_kana": "ミノカモシ",
+    "prefecture_capital": false
+  },
+  "212121": {
+    "code": "212121",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "土岐市",
+    "city_kana": "トキシ",
+    "prefecture_capital": false
+  },
+  "212130": {
+    "code": "212130",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "各務原市",
+    "city_kana": "カカミガハラシ",
+    "prefecture_capital": false
+  },
+  "212148": {
+    "code": "212148",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "可児市",
+    "city_kana": "カニシ",
+    "prefecture_capital": false
+  },
+  "212156": {
+    "code": "212156",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "山県市",
+    "city_kana": "ヤマガタシ",
+    "prefecture_capital": false
+  },
+  "212164": {
+    "code": "212164",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "瑞穂市",
+    "city_kana": "ミズホシ",
+    "prefecture_capital": false
+  },
+  "212172": {
+    "code": "212172",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "飛騨市",
+    "city_kana": "ヒダシ",
+    "prefecture_capital": false
+  },
+  "212181": {
+    "code": "212181",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "本巣市",
+    "city_kana": "モトスシ",
+    "prefecture_capital": false
+  },
+  "212199": {
+    "code": "212199",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "郡上市",
+    "city_kana": "グジョウシ",
+    "prefecture_capital": false
+  },
+  "212202": {
+    "code": "212202",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "下呂市",
+    "city_kana": "ゲロシ",
+    "prefecture_capital": false
+  },
+  "212211": {
+    "code": "212211",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "海津市",
+    "city_kana": "カイヅシ",
+    "prefecture_capital": false
+  },
+  "213021": {
+    "code": "213021",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "岐南町",
+    "city_kana": "ギナンチョウ",
+    "prefecture_capital": false
+  },
+  "213039": {
+    "code": "213039",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "笠松町",
+    "city_kana": "カサマツチョウ",
+    "prefecture_capital": false
+  },
+  "213411": {
+    "code": "213411",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "養老町",
+    "city_kana": "ヨウロウチョウ",
+    "prefecture_capital": false
+  },
+  "213616": {
+    "code": "213616",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "垂井町",
+    "city_kana": "タルイチョウ",
+    "prefecture_capital": false
+  },
+  "213624": {
+    "code": "213624",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "関ケ原町",
+    "city_kana": "セキガハラチョウ",
+    "prefecture_capital": false
+  },
+  "213811": {
+    "code": "213811",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "神戸町",
+    "city_kana": "ゴウドチョウ",
+    "prefecture_capital": false
+  },
+  "213829": {
+    "code": "213829",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "輪之内町",
+    "city_kana": "ワノウチチョウ",
+    "prefecture_capital": false
+  },
+  "213837": {
+    "code": "213837",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "安八町",
+    "city_kana": "アンパチチョウ",
+    "prefecture_capital": false
+  },
+  "214019": {
+    "code": "214019",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "揖斐川町",
+    "city_kana": "イビガワチョウ",
+    "prefecture_capital": false
+  },
+  "214035": {
+    "code": "214035",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "大野町",
+    "city_kana": "オオノチョウ",
+    "prefecture_capital": false
+  },
+  "214043": {
+    "code": "214043",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "池田町",
+    "city_kana": "イケダチョウ",
+    "prefecture_capital": false
+  },
+  "214213": {
+    "code": "214213",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "北方町",
+    "city_kana": "キタガタチョウ",
+    "prefecture_capital": false
+  },
+  "215015": {
+    "code": "215015",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "坂祝町",
+    "city_kana": "サカホギチョウ",
+    "prefecture_capital": false
+  },
+  "215023": {
+    "code": "215023",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "富加町",
+    "city_kana": "トミカチョウ",
+    "prefecture_capital": false
+  },
+  "215031": {
+    "code": "215031",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "川辺町",
+    "city_kana": "カワベチョウ",
+    "prefecture_capital": false
+  },
+  "215040": {
+    "code": "215040",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "七宗町",
+    "city_kana": "ヒチソウチョウ",
+    "prefecture_capital": false
+  },
+  "215058": {
+    "code": "215058",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "八百津町",
+    "city_kana": "ヤオツチョウ",
+    "prefecture_capital": false
+  },
+  "215066": {
+    "code": "215066",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "白川町",
+    "city_kana": "シラカワチョウ",
+    "prefecture_capital": false
+  },
+  "215074": {
+    "code": "215074",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "東白川村",
+    "city_kana": "ヒガシシラカワムラ",
+    "prefecture_capital": false
+  },
+  "215210": {
+    "code": "215210",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "御嵩町",
+    "city_kana": "ミタケチョウ",
+    "prefecture_capital": false
+  },
+  "216046": {
+    "code": "216046",
+    "prefecture_code": "21",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "city": "白川村",
+    "city_kana": "シラカワムラ",
+    "prefecture_capital": false
+  }
+}

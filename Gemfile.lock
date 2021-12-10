@@ -27,7 +27,7 @@ GEM
     racc (1.6.0)
     rainbow (3.0.0)
     rake (13.0.6)
-    regexp_parser (2.1.1)
+    regexp_parser (2.2.0)
     rexml (3.2.5)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
@@ -51,10 +51,11 @@ GEM
       rubocop-ast (>= 1.12.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.13.0)
+    rubocop-ast (1.14.0)
       parser (>= 3.0.1.1)
     ruby-progressbar (1.11.0)
     ruby-rc4 (0.1.5)
+    sqlite3 (1.4.2)
     ttfunk (1.7.0)
     unicode-display_width (2.1.0)
 
@@ -69,6 +70,7 @@ DEPENDENCIES
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.7)
+  sqlite3
 
 BUNDLED WITH
    2.2.24

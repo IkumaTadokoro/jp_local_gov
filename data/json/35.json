@@ -1,0 +1,173 @@
+{
+  "352012": {
+    "code": "352012",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "下関市",
+    "city_kana": "シモノセキシ",
+    "prefecture_capital": false
+  },
+  "352021": {
+    "code": "352021",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "宇部市",
+    "city_kana": "ウベシ",
+    "prefecture_capital": false
+  },
+  "352039": {
+    "code": "352039",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "山口市",
+    "city_kana": "ヤマグチシ",
+    "prefecture_capital": true
+  },
+  "352047": {
+    "code": "352047",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "萩市",
+    "city_kana": "ハギシ",
+    "prefecture_capital": false
+  },
+  "352063": {
+    "code": "352063",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "防府市",
+    "city_kana": "ホウフシ",
+    "prefecture_capital": false
+  },
+  "352071": {
+    "code": "352071",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "下松市",
+    "city_kana": "クダマツシ",
+    "prefecture_capital": false
+  },
+  "352080": {
+    "code": "352080",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "岩国市",
+    "city_kana": "イワクニシ",
+    "prefecture_capital": false
+  },
+  "352101": {
+    "code": "352101",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "光市",
+    "city_kana": "ヒカリシ",
+    "prefecture_capital": false
+  },
+  "352110": {
+    "code": "352110",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "長門市",
+    "city_kana": "ナガトシ",
+    "prefecture_capital": false
+  },
+  "352128": {
+    "code": "352128",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "柳井市",
+    "city_kana": "ヤナイシ",
+    "prefecture_capital": false
+  },
+  "352136": {
+    "code": "352136",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "美祢市",
+    "city_kana": "ミネシ",
+    "prefecture_capital": false
+  },
+  "352152": {
+    "code": "352152",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "周南市",
+    "city_kana": "シュウナンシ",
+    "prefecture_capital": false
+  },
+  "352161": {
+    "code": "352161",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "山陽小野田市",
+    "city_kana": "サンヨウオノダシ",
+    "prefecture_capital": false
+  },
+  "353051": {
+    "code": "353051",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "周防大島町",
+    "city_kana": "スオウオオシマチョウ",
+    "prefecture_capital": false
+  },
+  "353213": {
+    "code": "353213",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "和木町",
+    "city_kana": "ワキチョウ",
+    "prefecture_capital": false
+  },
+  "353418": {
+    "code": "353418",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "上関町",
+    "city_kana": "カミノセキチョウ",
+    "prefecture_capital": false
+  },
+  "353434": {
+    "code": "353434",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "田布施町",
+    "city_kana": "タブセチョウ",
+    "prefecture_capital": false
+  },
+  "353442": {
+    "code": "353442",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "平生町",
+    "city_kana": "ヒラオチョウ",
+    "prefecture_capital": false
+  },
+  "355020": {
+    "code": "355020",
+    "prefecture_code": "35",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "city": "阿武町",
+    "city_kana": "アブチョウ",
+    "prefecture_capital": false
+  }
+}

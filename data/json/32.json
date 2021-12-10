@@ -1,0 +1,173 @@
+{
+  "322016": {
+    "code": "322016",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "松江市",
+    "city_kana": "マツエシ",
+    "prefecture_capital": true
+  },
+  "322024": {
+    "code": "322024",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "浜田市",
+    "city_kana": "ハマダシ",
+    "prefecture_capital": false
+  },
+  "322032": {
+    "code": "322032",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "出雲市",
+    "city_kana": "イズモシ",
+    "prefecture_capital": false
+  },
+  "322041": {
+    "code": "322041",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "益田市",
+    "city_kana": "マスダシ",
+    "prefecture_capital": false
+  },
+  "322059": {
+    "code": "322059",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "大田市",
+    "city_kana": "オオダシ",
+    "prefecture_capital": false
+  },
+  "322067": {
+    "code": "322067",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "安来市",
+    "city_kana": "ヤスギシ",
+    "prefecture_capital": false
+  },
+  "322075": {
+    "code": "322075",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "江津市",
+    "city_kana": "ゴウツシ",
+    "prefecture_capital": false
+  },
+  "322091": {
+    "code": "322091",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "雲南市",
+    "city_kana": "ウンナンシ",
+    "prefecture_capital": false
+  },
+  "323438": {
+    "code": "323438",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "奥出雲町",
+    "city_kana": "オクイズモチョウ",
+    "prefecture_capital": false
+  },
+  "323861": {
+    "code": "323861",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "飯南町",
+    "city_kana": "イイナンチョウ",
+    "prefecture_capital": false
+  },
+  "324418": {
+    "code": "324418",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "川本町",
+    "city_kana": "カワモトマチ",
+    "prefecture_capital": false
+  },
+  "324485": {
+    "code": "324485",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "美郷町",
+    "city_kana": "ミサトチョウ",
+    "prefecture_capital": false
+  },
+  "324493": {
+    "code": "324493",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "邑南町",
+    "city_kana": "オオナンチョウ",
+    "prefecture_capital": false
+  },
+  "325015": {
+    "code": "325015",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "津和野町",
+    "city_kana": "ツワノチョウ",
+    "prefecture_capital": false
+  },
+  "325058": {
+    "code": "325058",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "吉賀町",
+    "city_kana": "ヨシカチョウ",
+    "prefecture_capital": false
+  },
+  "325252": {
+    "code": "325252",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "海士町",
+    "city_kana": "アマチョウ",
+    "prefecture_capital": false
+  },
+  "325261": {
+    "code": "325261",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "西ノ島町",
+    "city_kana": "ニシノシマチョウ",
+    "prefecture_capital": false
+  },
+  "325279": {
+    "code": "325279",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "知夫村",
+    "city_kana": "チブムラ",
+    "prefecture_capital": false
+  },
+  "325287": {
+    "code": "325287",
+    "prefecture_code": "32",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "city": "隠岐の島町",
+    "city_kana": "オキノシマチョウ",
+    "prefecture_capital": false
+  }
+}

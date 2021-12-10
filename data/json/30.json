@@ -1,0 +1,272 @@
+{
+  "302015": {
+    "code": "302015",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "和歌山市",
+    "city_kana": "ワカヤマシ",
+    "prefecture_capital": true
+  },
+  "302023": {
+    "code": "302023",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "海南市",
+    "city_kana": "カイナンシ",
+    "prefecture_capital": false
+  },
+  "302031": {
+    "code": "302031",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "橋本市",
+    "city_kana": "ハシモトシ",
+    "prefecture_capital": false
+  },
+  "302040": {
+    "code": "302040",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "有田市",
+    "city_kana": "アリダシ",
+    "prefecture_capital": false
+  },
+  "302058": {
+    "code": "302058",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "御坊市",
+    "city_kana": "ゴボウシ",
+    "prefecture_capital": false
+  },
+  "302066": {
+    "code": "302066",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "田辺市",
+    "city_kana": "タナベシ",
+    "prefecture_capital": false
+  },
+  "302074": {
+    "code": "302074",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "新宮市",
+    "city_kana": "シングウシ",
+    "prefecture_capital": false
+  },
+  "302082": {
+    "code": "302082",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "紀の川市",
+    "city_kana": "キノカワシ",
+    "prefecture_capital": false
+  },
+  "302091": {
+    "code": "302091",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "岩出市",
+    "city_kana": "イワデシ",
+    "prefecture_capital": false
+  },
+  "303046": {
+    "code": "303046",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "紀美野町",
+    "city_kana": "キミノチョウ",
+    "prefecture_capital": false
+  },
+  "303411": {
+    "code": "303411",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "かつらぎ町",
+    "city_kana": "カツラギチョウ",
+    "prefecture_capital": false
+  },
+  "303437": {
+    "code": "303437",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "九度山町",
+    "city_kana": "クドヤマチョウ",
+    "prefecture_capital": false
+  },
+  "303445": {
+    "code": "303445",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "高野町",
+    "city_kana": "コウヤチョウ",
+    "prefecture_capital": false
+  },
+  "303615": {
+    "code": "303615",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "湯浅町",
+    "city_kana": "ユアサチョウ",
+    "prefecture_capital": false
+  },
+  "303623": {
+    "code": "303623",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "広川町",
+    "city_kana": "ヒロガワチョウ",
+    "prefecture_capital": false
+  },
+  "303666": {
+    "code": "303666",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "有田川町",
+    "city_kana": "アリダガワチョウ",
+    "prefecture_capital": false
+  },
+  "303810": {
+    "code": "303810",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "美浜町",
+    "city_kana": "ミハマチョウ",
+    "prefecture_capital": false
+  },
+  "303828": {
+    "code": "303828",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "日高町",
+    "city_kana": "ヒダカチョウ",
+    "prefecture_capital": false
+  },
+  "303836": {
+    "code": "303836",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "由良町",
+    "city_kana": "ユラチョウ",
+    "prefecture_capital": false
+  },
+  "303909": {
+    "code": "303909",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "印南町",
+    "city_kana": "イナミチョウ",
+    "prefecture_capital": false
+  },
+  "303917": {
+    "code": "303917",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "みなべ町",
+    "city_kana": "ミナベチョウ",
+    "prefecture_capital": false
+  },
+  "303925": {
+    "code": "303925",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "日高川町",
+    "city_kana": "ヒダカガワチョウ",
+    "prefecture_capital": false
+  },
+  "304018": {
+    "code": "304018",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "白浜町",
+    "city_kana": "シラハマチョウ",
+    "prefecture_capital": false
+  },
+  "304042": {
+    "code": "304042",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "上富田町",
+    "city_kana": "カミトンダチョウ",
+    "prefecture_capital": false
+  },
+  "304069": {
+    "code": "304069",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "すさみ町",
+    "city_kana": "スサミチョウ",
+    "prefecture_capital": false
+  },
+  "304212": {
+    "code": "304212",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "那智勝浦町",
+    "city_kana": "ナチカツウラチョウ",
+    "prefecture_capital": false
+  },
+  "304221": {
+    "code": "304221",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "太地町",
+    "city_kana": "タイジチョウ",
+    "prefecture_capital": false
+  },
+  "304247": {
+    "code": "304247",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "古座川町",
+    "city_kana": "コザガワチョウ",
+    "prefecture_capital": false
+  },
+  "304271": {
+    "code": "304271",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "北山村",
+    "city_kana": "キタヤマムラ",
+    "prefecture_capital": false
+  },
+  "304280": {
+    "code": "304280",
+    "prefecture_code": "30",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "city": "串本町",
+    "city_kana": "クシモトチョウ",
+    "prefecture_capital": false
+  }
+}
