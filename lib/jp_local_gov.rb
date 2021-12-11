@@ -15,8 +15,8 @@ module JpLocalGov
     return nil unless local_gov_code.is_a?(String) && valid_code?(local_gov_code)
 
     json_file = "#{DATA_DIR}#{local_gov_code[0..1]}.json"
-    data = JSON.parse(File.open(json_file).read)
-    local_gov_data = data[local_gov_code]
+    data = JSON.parse(File.open(json_file).read, { symbolize_names: true })
+    local_gov_data = data[local_gov_code.to_sym]
     return nil if local_gov_data.nil?
 
     JpLocalGov::LocalGov.new(local_gov_data)
