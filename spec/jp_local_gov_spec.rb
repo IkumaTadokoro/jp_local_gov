@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# rubocop:disable Metrics/BlockLength
+
 RSpec.describe JpLocalGov do
   describe ".find" do
     context "the local government code is specified" do
@@ -32,7 +34,7 @@ RSpec.describe JpLocalGov do
         end
 
         context "when the code is NOT a string" do
-          let(:local_gov_code) { 131016 }
+          let(:local_gov_code) { 131_016 }
           it { is_expected.to be_nil }
         end
       end
@@ -140,3 +142,5 @@ RSpec.describe JpLocalGov do
     end
   end
 end
+
+# rubocop:enable Metrics/BlockLength

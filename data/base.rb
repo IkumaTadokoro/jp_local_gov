@@ -20,7 +20,7 @@ module JpLocalGov
         SQL
       end
 
-      def create_table # rubocop:disable Metrics/MethodLength
+      def create_table
         db.execute <<-SQL
           CREATE TABLE local_governments (
             code VARCHAR(5),
