@@ -43,7 +43,6 @@ module JpLocalGov
   end
 
   def query_builder(target, conditions)
-
     condition_stmt = conditions.map.with_index do |condition, index|
       value = condition[1].is_a?(String) ? "\"#{condition[1]}\"" : (condition[1]).to_s
       template = "#{target}[:#{condition[0]}] == #{value}"
