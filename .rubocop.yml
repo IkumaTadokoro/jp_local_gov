@@ -11,3 +11,7 @@ Style/StringLiteralsInInterpolation:
 
 Layout/LineLength:
   Max: 120
+
+inherit_gem:
+  rubocop-fjord:
+    - "config/rubocop.yml"
