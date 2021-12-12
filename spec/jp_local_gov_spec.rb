@@ -32,7 +32,7 @@ RSpec.describe JpLocalGov do
         end
 
         context "when the code is NOT a string" do
-          let(:local_gov_code) { 131016 }
+          let(:local_gov_code) { 131_016 }
           it { is_expected.to be_nil }
         end
       end
