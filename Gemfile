@@ -13,4 +13,5 @@ gem "rubocop", "~> 1.7"
 
 gem "nokogiri"
 gem "pdf-reader"
+gem "rubocop-fjord"
 gem "sqlite3"
