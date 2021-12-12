@@ -5,7 +5,7 @@ require_relative "jp_local_gov/local_gov"
 require "json"
 
 module JpLocalGov
-  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/"
+  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/".freeze
   CHECK_DIGITS_INDEX = 5
   CHECK_BASE = 11
 
