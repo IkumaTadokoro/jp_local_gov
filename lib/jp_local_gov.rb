@@ -2,6 +2,7 @@
 
 require_relative "jp_local_gov/version"
 require_relative "jp_local_gov/local_gov"
+require_relative "jp_local_gov/base"
 require "json"
 
 module JpLocalGov
@@ -10,6 +11,10 @@ module JpLocalGov
   CHECK_BASE = 11
 
   module_function
+
+  def included(model_class)
+    model_class.extend Base
+  end
 
   def find(local_gov_code)
     return nil unless local_gov_code.is_a?(String) && valid_code?(local_gov_code)
