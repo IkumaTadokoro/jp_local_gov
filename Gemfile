@@ -11,6 +11,7 @@ gem "rspec", "~> 3.0"
 
 gem "rubocop", "~> 1.7"
 
+gem "activerecord", "~> 6.1.0"
 gem "nokogiri"
 gem "pdf-reader"
 gem "rubocop-fjord"

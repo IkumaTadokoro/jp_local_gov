@@ -7,10 +7,25 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (1.1.0)
+    activemodel (6.1.4.1)
+      activesupport (= 6.1.4.1)
+    activerecord (6.1.4.1)
+      activemodel (= 6.1.4.1)
+      activesupport (= 6.1.4.1)
+    activesupport (6.1.4.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+      zeitwerk (~> 2.3)
     afm (0.2.2)
     ast (2.4.2)
+    concurrent-ruby (1.1.9)
     diff-lcs (1.4.4)
     hashery (2.1.2)
+    i18n (1.8.11)
+      concurrent-ruby (~> 1.0)
+    minitest (5.14.4)
     nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.12.5-x86_64-linux)
@@ -18,7 +33,7 @@ GEM
     parallel (1.21.0)
     parser (3.0.3.2)
       ast (~> 2.4.1)
-    pdf-reader (2.6.0)
+    pdf-reader (2.7.0)
       Ascii85 (~> 1.0)
       afm (~> 0.2.1)
       hashery (~> 2.0)
@@ -51,7 +66,7 @@ GEM
       rubocop-ast (>= 1.12.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.14.0)
+    rubocop-ast (1.15.0)
       parser (>= 3.0.1.1)
     rubocop-fjord (0.2.0)
       rubocop (>= 1.0)
@@ -63,7 +78,10 @@ GEM
     ruby-rc4 (0.1.5)
     sqlite3 (1.4.2)
     ttfunk (1.7.0)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
     unicode-display_width (2.1.0)
+    zeitwerk (2.5.1)
 
 PLATFORMS
   x86_64-darwin-19
@@ -71,6 +89,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activerecord (~> 6.1.0)
   jp_local_gov!
   nokogiri
   pdf-reader
