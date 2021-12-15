@@ -1,0 +1,19 @@
+module JpLocalGov
+  class LocalGov
+    attr_reader code: untyped
+
+    attr_reader prefecture_code: untyped
+
+    attr_reader prefecture: untyped
+
+    attr_reader prefecture_kana: untyped
+
+    attr_reader city: untyped
+
+    attr_reader city_kana: untyped
+
+    attr_reader prefecture_capital: untyped
+
+    def initialize: (untyped data) -> void
+  end
+end

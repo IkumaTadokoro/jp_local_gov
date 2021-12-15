@@ -1,0 +1,21 @@
+module JpLocalGov
+  DATA_DIR: untyped
+
+  CHECK_DIGITS_INDEX: ::Integer
+
+  CHECK_BASE: ::Integer
+
+  def self?.included: (untyped model_class) -> untyped
+
+  def self?.find: (untyped local_gov_code) -> (nil | untyped)
+
+  def self?.where: (untyped conditions) -> (nil | untyped)
+
+  def self?.build_local_gov: (untyped data, untyped conditions) -> untyped
+
+  def self?.query_builder: (untyped target, untyped conditions) -> untyped
+
+  # Inspect code by check digits defined in JISX0402
+  # https://www.soumu.go.jp/main_content/000137948.pdf
+  def self?.valid_code?: (untyped code) -> untyped
+end
