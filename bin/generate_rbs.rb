@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+Dir.glob("lib/**/*.rb") do |rb_file|
+  rbs_file = rb_file.sub(/lib/, "sig").sub(/\.rb$/, ".rbs")
+  next if File.exist?(rbs_file)
+
+  Pathname(rbs_file).parent.mkpath
+  system "bundle exec rbs prototype rb #{rb_file} > #{rbs_file}", exception: true
+  puts "#{rbs_file} generated."
+end
