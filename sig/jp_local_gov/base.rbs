@@ -1,0 +1,5 @@
+module JpLocalGov
+  module Base
+    def jp_local_gov: (untyped column_name) -> untyped
+  end
+end
