@@ -1,5 +1,7 @@
 module JpLocalGov
-  module Base
+  module Base : Module
     def jp_local_gov: (untyped column_name) -> untyped
+
+    def local_government: () -> untyped
   end
 end
