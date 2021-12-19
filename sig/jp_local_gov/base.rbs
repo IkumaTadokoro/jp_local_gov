@@ -1,7 +1,7 @@
 module JpLocalGov
   module Base : Module
-    def jp_local_gov: (untyped column_name) -> untyped
+    def jp_local_gov: (Symbol | String column_name) -> Symbol
 
-    def local_government: () -> untyped
+    def local_government: () -> JpLocalGov::LocalGov
   end
 end

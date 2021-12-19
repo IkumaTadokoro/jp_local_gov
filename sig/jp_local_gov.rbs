@@ -1,21 +1,19 @@
 module JpLocalGov
-  DATA_DIR: untyped
+  DATA_DIR: String
 
-  CHECK_DIGITS_INDEX: ::Integer
+  CHECK_DIGITS_INDEX: Integer
 
-  CHECK_BASE: ::Integer
+  CHECK_BASE: Integer
 
-  def self?.included: (untyped model_class) -> untyped
+  def self?.included: (Class | Module model_class) -> (Class | Module)
 
-  def self?.find: (untyped local_gov_code) -> (nil | untyped)
+  def self?.find: (String local_gov_code) -> (nil | JpLocalGov::LocalGov)
 
-  def self?.where: (untyped conditions) -> (nil | untyped)
+  def self?.where: (Hash[Symbol, untyped] conditions) -> (nil | JpLocalGov::LocalGov | Array[JpLocalGov::LocalGov])
 
-  def self?.build_local_gov: (untyped data, untyped conditions) -> untyped
+  def self?.build_local_gov: (Hash[Symbol, untyped] data, Hash[Symbol, String] conditions) -> (nil | Array[JpLocalGov::LocalGov])
 
-  def self?.query_builder: (untyped target, untyped conditions) -> untyped
+  def self?.query_builder: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
 
-  # Inspect code by check digits defined in JISX0402
-  # https://www.soumu.go.jp/main_content/000137948.pdf
-  def self?.valid_code?: (untyped code) -> untyped
+  def self?.valid_code?: (String code) -> bool
 end
