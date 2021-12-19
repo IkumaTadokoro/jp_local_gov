@@ -47,14 +47,15 @@ RSpec.describe JpLocalGov do
 
       context "when the only one result exists" do
         let(:condition) { { city: "千代田区" } }
-        it "returns a single LocalGov record" do
-          expect(result.code).to eq("131016")
-          expect(result.prefecture_code).to eq("13")
-          expect(result.prefecture).to eq("東京都")
-          expect(result.prefecture_kana).to eq("トウキョウト")
-          expect(result.city).to eq("千代田区")
-          expect(result.city_kana).to eq("チヨダク")
-          expect(result.prefecture_capital).to be_falsey
+        it "returns Array includes only one LocalGov record" do
+          expect(result).to be_a_kind_of(Array)
+          expect(result[0].code).to eq("131016")
+          expect(result[0].prefecture_code).to eq("13")
+          expect(result[0].prefecture).to eq("東京都")
+          expect(result[0].prefecture_kana).to eq("トウキョウト")
+          expect(result[0].city).to eq("千代田区")
+          expect(result[0].city_kana).to eq("チヨダク")
+          expect(result[0].prefecture_capital).to be_falsey
         end
       end
 
@@ -101,14 +102,15 @@ RSpec.describe JpLocalGov do
       subject(:result) { JpLocalGov.where(condition) }
       context "when the only one result exists" do
         let(:condition) { { prefecture: "東京都", prefecture_capital: true } }
-        it "returns a single LocalGov record" do
-          expect(result.code).to eq("131041")
-          expect(result.prefecture_code).to eq("13")
-          expect(result.prefecture).to eq("東京都")
-          expect(result.prefecture_kana).to eq("トウキョウト")
-          expect(result.city).to eq("新宿区")
-          expect(result.city_kana).to eq("シンジュクク")
-          expect(result.prefecture_capital).to be_truthy
+        it "returns Array includes only one LocalGov record" do
+          expect(result).to be_a_kind_of(Array)
+          expect(result[0].code).to eq("131041")
+          expect(result[0].prefecture_code).to eq("13")
+          expect(result[0].prefecture).to eq("東京都")
+          expect(result[0].prefecture_kana).to eq("トウキョウト")
+          expect(result[0].city).to eq("新宿区")
+          expect(result[0].city_kana).to eq("シンジュクク")
+          expect(result[0].prefecture_capital).to be_truthy
         end
       end
 
