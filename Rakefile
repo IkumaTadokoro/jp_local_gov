@@ -30,3 +30,15 @@ namespace :jplocalgov do
     end
   end
 end
+
+namespace :steep do
+  desc "Run type-check by Steep"
+  task :check do
+    sh "bundle", "exec", "steep", "check", "--log-level=fatal"
+  end
+
+  desc "Show the Steep coverage report"
+  task :stats do
+    sh "bundle", "exec", "steep", "stats", "--log-level=fatal", "--format=table"
+  end
+end
