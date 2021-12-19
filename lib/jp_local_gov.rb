@@ -53,7 +53,7 @@ module JpLocalGov
       template = "#{target}[:#{condition[0]}] == #{value}"
       index.zero? ? template : " && #{template}"
     end.join
-    eval condition_stmt
+    eval condition_stmt # rubocop:disable Security/Eval
   end
 
   # Inspect code by check digits defined in JISX0402
