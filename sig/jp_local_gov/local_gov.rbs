@@ -1,0 +1,19 @@
+module JpLocalGov
+  class LocalGov
+    attr_reader code: String
+
+    attr_reader prefecture_code: String
+
+    attr_reader prefecture: String
+
+    attr_reader prefecture_kana: String
+
+    attr_reader city: String
+
+    attr_reader city_kana: String
+
+    attr_reader prefecture_capital: bool
+
+    def initialize: (Hash[Symbol, untyped] data) -> void
+  end
+end

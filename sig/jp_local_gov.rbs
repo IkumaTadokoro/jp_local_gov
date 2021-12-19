@@ -1,0 +1,19 @@
+module JpLocalGov
+  DATA_DIR: String
+
+  CHECK_DIGITS_INDEX: Integer
+
+  CHECK_BASE: Integer
+
+  def self?.included: (Class | Module model_class) -> (Class | Module)
+
+  def self?.find: (String local_gov_code) -> (nil | JpLocalGov::LocalGov)
+
+  def self?.where: (Hash[Symbol, untyped] conditions) -> (nil | JpLocalGov::LocalGov | Array[JpLocalGov::LocalGov])
+
+  def self?.build_local_gov: (Hash[Symbol, untyped] data, Hash[Symbol, String] conditions) -> (nil | Array[JpLocalGov::LocalGov])
+
+  def self?.query_builder: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
+
+  def self?.valid_code?: (String code) -> bool
+end
