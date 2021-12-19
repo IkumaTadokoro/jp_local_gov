@@ -5,16 +5,21 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in jp_local_gov.gemspec
 gemspec
 
-gem "rake", "~> 13.0"
+gem "rake"
 
-gem "rspec", "~> 3.0"
+group :development do
+  gem "nokogiri"
+  gem "pdf-reader"
+  gem "rbs"
+  gem "rubocop"
+  gem "rubocop-fjord"
+  gem "sqlite3"
+  gem "steep"
+end
 
-gem "rubocop", "~> 1.7"
+group :test do
+  gem "rspec"
+end
 
 gem "activerecord", "~> 6.1.0"
-gem "nokogiri"
-gem "pdf-reader"
-gem "rbs"
-gem "rubocop-fjord"
-gem "sqlite3"
-gem "steep"
+
