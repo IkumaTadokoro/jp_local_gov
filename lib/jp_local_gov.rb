@@ -37,7 +37,7 @@ module JpLocalGov
     end.flatten.compact
     return nil if results.empty?
 
-    results.one? ? results.first : results
+    results
   end
 
   def build_local_gov(data, conditions)
