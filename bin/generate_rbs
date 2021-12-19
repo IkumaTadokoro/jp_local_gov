@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+require "pathname"
+
 Dir.glob("lib/**/*.rb") do |rb_file|
   rbs_file = rb_file.sub(/lib/, "sig").sub(/\.rb$/, ".rbs")
   next if File.exist?(rbs_file)
