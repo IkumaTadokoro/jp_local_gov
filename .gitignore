@@ -11,3 +11,4 @@ vendor/bundle
 .rspec_status
 
 Gemfile.lock
+gemfiles/*.lock
