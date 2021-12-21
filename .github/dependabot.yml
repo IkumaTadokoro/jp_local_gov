@@ -10,5 +10,5 @@ updates:
     schedule:
       interval: "daily"
       time: "20:00"
-ignore:
-  - dependency-name: activesupport
+    ignore:
+      - dependency-name: activesupport
