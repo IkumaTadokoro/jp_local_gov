@@ -33,7 +33,101 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Requirement
+
+```ruby
+require 'jp_local_gov'
+```
+
+### Search Local Government by Code
+
+Provide local government code to search local government's data.  
+Only a String can be used for 'code'.
+
+```ruby
+chiyodaku = JpLocalGov.find("131016")
+# => #<JpLocalGov::LocalGov:0x00007fe706a8f148 @code="131016", @prefecture_code="13", @prefecture="東京都", @prefecture_kana="トウキョウト", @city="千代田区", @city_kana="チヨダク", @prefecture_capital=false>
+chiyodaku.code
+# => "131016"
+chiyodaku.prefecture_code
+# => "13"
+chiyodaku.prefecture
+# => "東京都"
+chiyodaku.prefecture_kana
+# => "トウキョウト"
+chiyodaku.city
+# => "千代田区"
+chiyodaku.city_kana
+# => "チヨダク"
+chiyodaku.prefecture_capital
+# => false
+```
+
+About prefecture capital: [List of capitals in Japan \- Wikipedia](https://en.wikipedia.org/wiki/List_of_capitals_in_Japan)
+
+### Filtered Search
+
+Use the `where` to enable AND searches with multiple conditions(Hash).  
+This search function is an exact match search.
+
+```ruby
+misato = JpLocalGov.where(city: "美郷町")
+# => [#<JpLocalGov::LocalGov:0x00007fb1c594cb08 @code="054348", @prefecture_code="05", @prefecture="秋田県", @prefecture_kana="アキタケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:8 @code="324485", @prefecture_code="32", @prefecture="島根県", @prefecture_kana="シマネケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:0x00007fb1c1a3ce40 @code="454311", @prefectuefecture="宮崎県", @prefecture_kana="ミヤザキケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>]
+misato.map { "#{_1.prefecture}:#{_1.city}" }
+# => ["秋田県:美郷町", "島根県:美郷町", "宮崎県:美郷町"]
+
+JpLocalGov.where(prefecture: "東京都", prefecture_capital: true)
+# => [#<JpLocalGov::LocalGov:0x00007fb1c219e418 @code="131041", @prefecture_code="13", @prefecture="東京都", @prefecture_kana="トウキョウト", @city="新宿区", @city_kana="シンジュクク", @prefecture_capital=true>]
+
+JpLocalGov.where(prefecture: "東京")
+# => nil
+# Exact match search. You should specified "東京都" instead of "東京".
+```
+
+The following attributes can be specified for the condition.
+
+| Attributes         | Type          | Examples |
+|--------------------|---------------|----------|
+| code               | String        | "131016" |
+| prefecture_code    | String        | "13"     |
+| prefecture         | String        | "東京都"    |
+| prefecture_kana    | String        | "トウキョウト" |
+| city               | String        | "千代田区"   |
+| city_kana          | String        | "チヨダク"   |
+| prefecture_capital | true or false | false    |
+
+### Usage on Rails (ActiveRecord)
+
+Include JpLocalGov to Model which ActiveRecord::Base inherited.
+
+```ruby
+# app/models/insurrance_fees.rb:
+class Place < ActiveRecord::Base
+  # local_gov_code:String
+
+  include JpLocalGov
+  jp_local_gov :local_gov_code
+end
+```
+
+By JpLocalGov included, `local_government` method will be generated:
+
+```ruby
+insurance_fee = InsuranceFee.new
+insurance_fee.local_gov_code = "131016"
+insurance_fee.local_government.city
+# => "千代田区"
+```
+
+In Migration file, set `local_gov_code` column type to `string`.
+
+```ruby
+class AddLocalGovCodeToinsuranceFees < ActiveRecord::Migration
+  def change
+    add_column :insurance_fees, :local_gov_code, :string
+  end
+end
+```
 
 ## Development
 
