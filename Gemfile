@@ -8,7 +8,7 @@ gemspec
 gem "rake"
 
 group :development do
-  gem "activesupport", "~> 6.1" # TODO: To avoid steep dependencies error. Refs: https://github.com/soutaro/steep/issues/466
+  gem "activesupport", "~> 7.0" # TODO: To avoid steep dependencies error. Refs: https://github.com/soutaro/steep/issues/466
   gem "appraisal"
   gem "nokogiri"
   gem "pdf-reader"
