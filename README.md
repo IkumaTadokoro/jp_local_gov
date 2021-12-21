@@ -2,9 +2,18 @@
 
 ## Description
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/jp_local_gov`. To experiment with that code, run `bin/console` for an interactive prompt.
+Convert local government code to local government name in Japan.
 
-TODO: Delete this and the text above, and describe your gem
+Based on JIS X 0402.
+
+```
+Chiyodaku: "131016"
+Osakashi: "271004"
+```
+
+Reference(Japanese): [全国地方公共団体コード \- Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E3%82%B3%E3%83%BC%E3%83%89)
+
+Also available as a Rails plugin
 
 ## Installation
 
