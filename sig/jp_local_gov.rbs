@@ -13,7 +13,7 @@ module JpLocalGov
 
   def self?.build_local_gov: (Hash[Symbol, untyped] data, Hash[Symbol, String] conditions) -> (nil | Array[JpLocalGov::LocalGov])
 
-  def self?.query_builder: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
+  def self?.filter: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
 
   def self?.valid_code?: (String code) -> bool
 end

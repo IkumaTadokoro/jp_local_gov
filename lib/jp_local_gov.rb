@@ -42,18 +42,13 @@ module JpLocalGov
 
   def build_local_gov(data, conditions)
     data.values
-        .select { |target| query_builder(target, conditions) }
+        .select { |target| filter(target, conditions) }
         .tap { |result| return nil if result.empty? }
         .map { |result| JpLocalGov::LocalGov.new(result) }
   end
 
-  def query_builder(target, conditions)
-    condition_stmt = conditions.map.with_index do |condition, index|
-      value = condition[1].is_a?(String) ? "\"#{condition[1]}\"" : (condition[1]).to_s
-      template = "#{target}[:#{condition[0]}] == #{value}"
-      index.zero? ? template : " && #{template}"
-    end.join
-    eval condition_stmt # rubocop:disable Security/Eval
+  def filter(target, conditions)
+    conditions.map { |condition| target[condition[0]] == condition[1] }.all?
   end
 
   # Inspect code by check digits defined in JISX0402
@@ -68,6 +63,6 @@ module JpLocalGov
     code[CHECK_DIGITS_INDEX] == check_digits.to_s
   end
 
-  private_class_method :valid_code?, :build_local_gov, :query_builder
+  private_class_method :valid_code?, :build_local_gov, :filter
   private_constant :CHECK_DIGITS_INDEX, :CHECK_BASE
 end
