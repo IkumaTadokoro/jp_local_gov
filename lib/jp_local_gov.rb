@@ -48,12 +48,7 @@ module JpLocalGov
   end
 
   def query_builder(target, conditions)
-    condition_stmt = conditions.map.with_index do |condition, index|
-      value = condition[1].is_a?(String) ? "\"#{condition[1]}\"" : (condition[1]).to_s
-      template = "#{target}[:#{condition[0]}] == #{value}"
-      index.zero? ? template : " && #{template}"
-    end.join
-    eval condition_stmt # rubocop:disable Security/Eval
+    conditions.map { |condition| target[condition[0]] == condition[1] }.all?
   end
 
   # Inspect code by check digits defined in JISX0402
