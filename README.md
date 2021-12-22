@@ -1,3 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/jp_local_gov.svg)](https://badge.fury.io/rb/jp_local_gov)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/LICENSE.txt)
+![Gem](https://img.shields.io/gem/dt/jp_local_gov)
+
 # JpLocalGov
 
 Convert local government code based on JIS X 0402 to local government name in Japan.  
