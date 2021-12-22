@@ -131,9 +131,18 @@ end
 
 ## Development
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+1. Fork it -> `git clone https://github.com/IkumaTadokoro/jp_local_gov/fork`
+2. Run `bin/setup` to install dependencies
+3. Create your feature branch
+4. Implement feature and add commit to your branch
+    - You can run `bin/console` for an interactive prompt that will allow you to experiment.
+    - You can run `bin/generate_rbs` to create rbs file in `/sig` for new ruby files in `/lib`.
+5. Run the following command to check your implementation
+    - `bin/test`: run `rspec` via Appraisal. If you want to specified version then `bin/test <version>`（e.g. `bin/test rails61`）.
+    - `bin/lint`: run Rubocop
+    - `bin/steep`: run `steep stats` and `steep check`
+6. Push to the branch
+7. Create a new Pull Request
 
 ## Contributing
 
