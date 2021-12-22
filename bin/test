@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+appraisal_name=$1
+bundle exec appraisal ${appraisal_name:+ "${appraisal_name}"} rspec

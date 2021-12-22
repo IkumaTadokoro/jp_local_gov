@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+bundle exec rake steep:stats
+bundle exec rake steep:check
