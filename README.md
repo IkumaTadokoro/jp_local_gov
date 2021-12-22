@@ -1,6 +1,6 @@
 # JpLocalGov
 
-Convert local government code based on JIS X 0402 to local government name in Japan.
+Convert local government code based on JIS X 0402 to local government name in Japan.  
 Reference(Japanese): [全国地方公共団体コード \- Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E3%82%B3%E3%83%BC%E3%83%89)
 
 ## Installation
