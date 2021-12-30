@@ -1,0 +1,50 @@
+name: BugReport
+description: File a bug report
+title: "[Bug]: "
+assignees: IkumaTadokoro
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time to fill out this bug report!"
+  - type: textarea
+    id: description
+    attributes:
+      label: Summary
+    validations:
+      required: false
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce the bug
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+    validations:
+      required: false
+  - type: textarea
+    id: log
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+    validations:
+      required: false
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: Related Issue
+      placeholder: "Ref: #3899"

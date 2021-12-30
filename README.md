@@ -7,6 +7,12 @@
 Convert local government code based on JIS X 0402 to local government name in Japan.  
 Reference(Japanese): [全国地方公共団体コード \- Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E3%82%B3%E3%83%BC%E3%83%89)
 
+### Issues
+
+If you find any bugs or concerns, or have suggestions for new features, please feel free to add them as an [GitHub Issue](https://github.com/IkumaTadokoro/jp_local_gov/issues/new/choose)!
+
+There are issue templates for bug and feature. If neither, please use the blank template.
+
 ### Special Thanks
 
 This gem is based on and inspired by [chocoby/jp_prefecture](https://github.com/chocoby/jp_prefecture).   
