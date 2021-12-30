@@ -141,4 +141,46 @@ RSpec.describe JpLocalGov do
       end
     end
   end
+
+  describe "#valid_code?" do
+    subject(:result) { JpLocalGov.valid_code?(code) }
+
+    context "when the valid local_gov_code is specified" do
+      let(:code) { "011002" }
+      it { is_expected.to be_truthy }
+    end
+
+    context "when the INVALID local_gov_code is specified" do
+      context "when the code format is valid" do
+        context "when the code starts with 01-47" do
+          let(:code) { "011003" }
+          it { is_expected.to be_falsey }
+        end
+
+        context "when the code DOES NOT start with 01-47" do
+          let(:code) { "481238" }
+          it { is_expected.to be_falsey }
+        end
+      end
+
+      context "when the code format is INVALID" do
+        context "when the code is not String(Integer)" do
+          let(:code) { 011_002 }
+          it { is_expected.to be_falsey }
+        end
+
+        context "when the code length is not 6" do
+          context "when the code length is over 6" do
+            let(:code) { "0110022" }
+            it { is_expected.to be_falsey }
+          end
+
+          context "when the code length is under 6" do
+            let(:code) { "01100" }
+            it { is_expected.to be_falsey }
+          end
+        end
+      end
+    end
+  end
 end
