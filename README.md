@@ -155,6 +155,22 @@ end
 | `bin/lint`         | Run Rubocop                                                                                              |
 | `bin/steep`        | Run `steep stats` and `steep check`                                                                      |
 
+### Running Test via JetBrains IDE (e.g. RubyMine)
+
+This gem use 'Appraisal' to inspect several versions of Rails.
+
+So you should run rspec by `bundle exec appraisal rspec` and you won't be able to run spec via IDE (only run via your terminal).
+
+If you use JetBrains IDE and you want to run spec via IDE, try to configure the following steps.
+
+1. Open 「Edit Configurations...」
+2. Open 「Edit Configuration templates...」
+3. Select 「RSpec」
+4. Check 「Use custom RSpec runner script:」 ans fill the script with `[CLONE_DIR]/bin/spec_runner.rb`
+5. Click「APPLY」, then you can run spec via IDE!!🎉
+
+If you have already run spec via IDE before configuration, delete the existing configuration and try to configure the above steps
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
