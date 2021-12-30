@@ -1,0 +1,22 @@
+name: Feature Suggestion
+description: Suggestions for new feature
+assignees: IkumaTadokoro
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time to fill out this feature proposal!"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of new feature
+    validations:
+      required: false
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Please fill out the reason why your idea should be adopted.
+    validations:
+      required: false
