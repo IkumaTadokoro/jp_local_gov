@@ -5,6 +5,10 @@ module JpLocalGov
 
   CHECK_BASE: Integer
 
+  PREFECTURE_RANGE: Range[Integer]
+
+  VALID_CODE_LENGTH: Integer
+
   def self?.included: (Class | Module model_class) -> (Class | Module)
 
   def self?.find: (String local_gov_code) -> (nil | JpLocalGov::LocalGov)
@@ -16,4 +20,6 @@ module JpLocalGov
   def self?.filter: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
 
   def self?.valid_code?: (String code) -> bool
+
+  def prefecture_code_list: () -> Array[String]
 end
