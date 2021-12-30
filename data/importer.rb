@@ -56,7 +56,7 @@ module JpLocalGov
 
       def prefecture_capital?(prefecture, city)
         prefecture_capital_list = JSON.parse(File.open(File.expand_path("prefecture_capital.json", __dir__)).read)
-        prefecture_capital_list.find do |prefecture_capital|
+        prefecture_capital_list.any? do |prefecture_capital|
           prefecture_capital["prefecture"] == prefecture && prefecture_capital["city"] == city
         end
       end
