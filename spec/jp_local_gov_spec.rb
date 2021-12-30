@@ -8,12 +8,12 @@ RSpec.describe JpLocalGov do
       context "when the code exists" do
         let(:local_gov_code) { "131016" }
         it "returns a single LocalGov record" do
-          expect(result.code).to eq("131016")
-          expect(result.prefecture_code).to eq("13")
-          expect(result.prefecture).to eq("東京都")
-          expect(result.prefecture_kana).to eq("トウキョウト")
-          expect(result.city).to eq("千代田区")
-          expect(result.city_kana).to eq("チヨダク")
+          expect(result.code).to eq "131016"
+          expect(result.prefecture_code).to eq "13"
+          expect(result.prefecture).to eq "東京都"
+          expect(result.prefecture_kana).to eq "トウキョウト"
+          expect(result.city).to eq "千代田区"
+          expect(result.city_kana).to eq "チヨダク"
           expect(result.prefecture_capital).to be_falsey
         end
       end
@@ -46,13 +46,13 @@ RSpec.describe JpLocalGov do
       context "when the only one result exists" do
         let(:condition) { { city: "千代田区" } }
         it "returns Array includes only one LocalGov record" do
-          expect(result).to be_a_kind_of(Array)
-          expect(result[0].code).to eq("131016")
-          expect(result[0].prefecture_code).to eq("13")
-          expect(result[0].prefecture).to eq("東京都")
-          expect(result[0].prefecture_kana).to eq("トウキョウト")
-          expect(result[0].city).to eq("千代田区")
-          expect(result[0].city_kana).to eq("チヨダク")
+          expect(result).to be_a_kind_of Array
+          expect(result[0].code).to eq "131016"
+          expect(result[0].prefecture_code).to eq "13"
+          expect(result[0].prefecture).to eq "東京都"
+          expect(result[0].prefecture_kana).to eq "トウキョウト"
+          expect(result[0].city).to eq "千代田区"
+          expect(result[0].city_kana).to eq "チヨダク"
           expect(result[0].prefecture_capital).to be_falsey
         end
       end
@@ -60,20 +60,20 @@ RSpec.describe JpLocalGov do
       context "when the several results exist" do
         let(:condition) { { city: "森町" } }
         it "returns Array includes several LocalGov record" do
-          expect(result).to be_a_kind_of(Array)
-          expect(result[0].code).to eq("013455")
-          expect(result[0].prefecture_code).to eq("01")
-          expect(result[0].prefecture).to eq("北海道")
-          expect(result[0].prefecture_kana).to eq("ホッカイドウ")
-          expect(result[0].city).to eq("森町")
-          expect(result[0].city_kana).to eq("モリマチ")
+          expect(result).to be_a_kind_of Array
+          expect(result[0].code).to eq "013455"
+          expect(result[0].prefecture_code).to eq "01"
+          expect(result[0].prefecture).to eq "北海道"
+          expect(result[0].prefecture_kana).to eq "ホッカイドウ"
+          expect(result[0].city).to eq "森町"
+          expect(result[0].city_kana).to eq "モリマチ"
           expect(result[0].prefecture_capital).to be_falsey
-          expect(result[1].code).to eq("224618")
-          expect(result[1].prefecture_code).to eq("22")
-          expect(result[1].prefecture).to eq("静岡県")
-          expect(result[1].prefecture_kana).to eq("シズオカケン")
-          expect(result[1].city).to eq("森町")
-          expect(result[1].city_kana).to eq("モリマチ")
+          expect(result[1].code).to eq "224618"
+          expect(result[1].prefecture_code).to eq "22"
+          expect(result[1].prefecture).to eq "静岡県"
+          expect(result[1].prefecture_kana).to eq "シズオカケン"
+          expect(result[1].city).to eq "森町"
+          expect(result[1].city_kana).to eq "モリマチ"
           expect(result[1].prefecture_capital).to be_falsey
         end
       end
@@ -101,13 +101,13 @@ RSpec.describe JpLocalGov do
       context "when the only one result exists" do
         let(:condition) { { prefecture: "東京都", prefecture_capital: true } }
         it "returns Array includes only one LocalGov record" do
-          expect(result).to be_a_kind_of(Array)
-          expect(result[0].code).to eq("131041")
-          expect(result[0].prefecture_code).to eq("13")
-          expect(result[0].prefecture).to eq("東京都")
-          expect(result[0].prefecture_kana).to eq("トウキョウト")
-          expect(result[0].city).to eq("新宿区")
-          expect(result[0].city_kana).to eq("シンジュクク")
+          expect(result).to be_a_kind_of Array
+          expect(result[0].code).to eq "131041"
+          expect(result[0].prefecture_code).to eq "13"
+          expect(result[0].prefecture).to eq "東京都"
+          expect(result[0].prefecture_kana).to eq "トウキョウト"
+          expect(result[0].city).to eq "新宿区"
+          expect(result[0].city_kana).to eq "シンジュクク"
           expect(result[0].prefecture_capital).to be_truthy
         end
       end
@@ -115,20 +115,20 @@ RSpec.describe JpLocalGov do
       context "when the several results exist" do
         let(:condition) { { city: "森町", city_kana: "モリマチ" } }
         it "returns Array includes several LocalGov record" do
-          expect(result).to be_a_kind_of(Array)
-          expect(result[0].code).to eq("013455")
-          expect(result[0].prefecture_code).to eq("01")
-          expect(result[0].prefecture).to eq("北海道")
-          expect(result[0].prefecture_kana).to eq("ホッカイドウ")
-          expect(result[0].city).to eq("森町")
-          expect(result[0].city_kana).to eq("モリマチ")
+          expect(result).to be_a_kind_of Array
+          expect(result[0].code).to eq "013455"
+          expect(result[0].prefecture_code).to eq "01"
+          expect(result[0].prefecture).to eq "北海道"
+          expect(result[0].prefecture_kana).to eq "ホッカイドウ"
+          expect(result[0].city).to eq "森町"
+          expect(result[0].city_kana).to eq "モリマチ"
           expect(result[0].prefecture_capital).to be_falsey
-          expect(result[1].code).to eq("224618")
-          expect(result[1].prefecture_code).to eq("22")
-          expect(result[1].prefecture).to eq("静岡県")
-          expect(result[1].prefecture_kana).to eq("シズオカケン")
-          expect(result[1].city).to eq("森町")
-          expect(result[1].city_kana).to eq("モリマチ")
+          expect(result[1].code).to eq "224618"
+          expect(result[1].prefecture_code).to eq "22"
+          expect(result[1].prefecture).to eq "静岡県"
+          expect(result[1].prefecture_kana).to eq "シズオカケン"
+          expect(result[1].city).to eq "森町"
+          expect(result[1].city_kana).to eq "モリマチ"
           expect(result[1].prefecture_capital).to be_falsey
         end
       end
