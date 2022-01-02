@@ -134,6 +134,28 @@ class AddLocalGovCodeToInsuranceFees < ActiveRecord::Migration
 end
 ```
 
+### Validation
+
+You can use `JpLocalGov.valid_code?(local_gov_code)` in `validate` method.
+
+```ruby
+class InsuranceFee < ApplicationRecord
+  include JpLocalGov
+  jp_local_gov :local_gov_code
+
+  validate :valid_code?
+
+  def valid_code?
+    unless JpLocalGov.valid_code?(local_gov_code)
+      errors.add(:local_gov_code, "is not valid code")
+    end
+  end
+end
+```
+
+This method inspect code by [check digits defined in JISX0402](https://www.soumu.go.jp/main_content/000137948.pdf).
+(And also check code is String.)
+
 ## Development
 
 ### Steps
