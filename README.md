@@ -77,7 +77,7 @@ This search function is an exact match search.
 
 ```ruby
 misato = JpLocalGov.where(city: "美郷町")
-# => [#<JpLocalGov::LocalGov:0x00007fb1c594cb08 @code="054348", @prefecture_code="05", @prefecture="秋田県", @prefecture_kana="アキタケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:8 @code="324485", @prefecture_code="32", @prefecture="島根県", @prefecture_kana="シマネケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:0x00007fb1c1a3ce40 @code="454311", @prefectuefecture="宮崎県", @prefecture_kana="ミヤザキケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>]
+# => [#<JpLocalGov::LocalGov:0x00007fb1c594cb08 @code="054348", @prefecture_code="05", @prefecture="秋田県", @prefecture_kana="アキタケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:8 @code="324485", @prefecture_code="32", @prefecture="島根県", @prefecture_kana="シマネケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>, #<JpLocalGov::LocalGov:0x00007fb1c1a3ce40 @code="454311", @prefecture="宮崎県", @prefecture_kana="ミヤザキケン", @city="美郷町", @city_kana="ミサトチョウ", @prefecture_capital=false>]
 misato.map { "#{_1.prefecture}:#{_1.city}" }
 # => ["秋田県:美郷町", "島根県:美郷町", "宮崎県:美郷町"]
 
@@ -106,7 +106,7 @@ The following attributes can be specified for the condition.
 Include JpLocalGov to Model which ActiveRecord::Base inherited.
 
 ```ruby
-# app/models/insurrance_fees.rb:
+# app/models/insurance_fees.rb:
 class Place < ActiveRecord::Base
   # local_gov_code:String
 
@@ -127,7 +127,7 @@ insurance_fee.local_government.city
 In Migration file, set `local_gov_code` column type to `string`.
 
 ```ruby
-class AddLocalGovCodeToinsuranceFees < ActiveRecord::Migration
+class AddLocalGovCodeToInsuranceFees < ActiveRecord::Migration
   def change
     add_column :insurance_fees, :local_gov_code, :string
   end
@@ -159,21 +159,45 @@ end
 
 This gem use 'Appraisal' to inspect several versions of Rails.
 
-So you should run rspec by `bundle exec appraisal rspec` and you won't be able to run spec via IDE (only run via your terminal).
+So you should run rspec by `bundle exec appraisal rspec` and you won't be able to run spec via IDE (only run via your
+terminal).
 
 If you use JetBrains IDE and you want to run spec via IDE, try to configure the following steps.
 
 1. Open 「Edit Configurations...」
 2. Open 「Edit Configuration templates...」
 3. Select 「RSpec」
-4. Check 「Use custom RSpec runner script:」 ans fill the script with `[CLONE_DIR]/bin/spec_runner.rb`
+4. Check 「Use custom RSpec runner script:」 and fill the script with `[CLONE_DIR]/bin/spec_runner.rb`
 5. Click「APPLY」, then you can run spec via IDE!!🎉
 
-If you have already run spec via IDE before configuration, delete the existing configuration and try to configure the above steps
+If you have already run spec via IDE before configuration, delete the existing configuration and try to configure the
+above steps
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
+### Spell Checking
+
+We are running [misspell](https://github.com/client9/misspell) which is mainly written in
+[Golang](https://golang.org/) to check spelling with [GitHub Actions](../.github/workflows/spell-checking.yml). Correct
+commonly misspelled English words quickly with `misspell`. `misspell` is different from most other spell checkers
+because it doesn't use a custom dictionary. You can run `misspell` locally against all files with:
+
+    $ find . -type f | xargs ./misspell -error
+
+Notable `misspell` help options or flags are:
+
+* `-i` string: ignore the following corrections, comma separated
+* `-w`: Overwrite file with corrections (default is just to display)
+
+We also run [codespell](https://github.com/codespell-project/codespell) with GitHub Actions to check spelling and
+[codespell](https://pypi.org/project/codespell/) runs against a [small custom dictionary](../codespell.txt).
+`codespell` is written in [Python](https://www.python.org/) and you can run it with:
+
+    $ codespell --ignore-words=codespell.txt
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is
+intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
+the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -181,4 +205,5 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the JpLocalGov project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
+Everyone interacting in the JpLocalGov project's codebases, issue trackers, chat rooms and mailing lists is expected to
+follow the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
