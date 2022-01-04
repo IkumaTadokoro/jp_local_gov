@@ -175,6 +175,10 @@ above steps
 
 ## Contributing
 
+Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is
+intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
+the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
+
 ### Spell Checking
 
 We are running [misspell](https://github.com/client9/misspell) which is mainly written in
@@ -194,10 +198,6 @@ We also run [codespell](https://github.com/codespell-project/codespell) with Git
 `codespell` is written in [Python](https://www.python.org/) and you can run it with:
 
     $ codespell --ignore-words=codespell.txt
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is
-intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
-the [code of conduct](https://github.com/IkumaTadokoro/jp_local_gov/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
