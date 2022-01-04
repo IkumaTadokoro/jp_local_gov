@@ -106,8 +106,8 @@ The following attributes can be specified for the condition.
 Include JpLocalGov to Model which ActiveRecord::Base inherited.
 
 ```ruby
-# app/models/insurance_fees.rb:
-class Place < ActiveRecord::Base
+# app/models/insurance_fee.rb:
+class InsuranceFee < ActiveRecord::Base
   # local_gov_code:String
 
   include JpLocalGov
