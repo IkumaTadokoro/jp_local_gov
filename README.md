@@ -214,18 +214,16 @@ above steps
 
 ## Update local government data
 
-This Gem update local government data (format: JSON) automatically once a month by [GitHub Actions][1].
+This Gem update local government data (format: JSON) automatically once a month by [GitHub Actions](https://github.com/IkumaTadokoro/jp_local_gov/actions/workflows/auto-update.yml).
 
-Data source: https://www.soumu.go.jp/denshijiti/code.html
-Output: https://github.com/IkumaTadokoro/jp_local_gov/tree/main/data/json
+- Data source: https://www.soumu.go.jp/denshijiti/code.html
+- Output: https://github.com/IkumaTadokoro/jp_local_gov/tree/main/data/json
 
 Fetch script is written in Ruby and Rake Task. So you can run update data at local by the following command.
 
 ```ruby
 bundle exec rake jp_local_gov:data:update_all
 ```
-
-[1](https://github.com/IkumaTadokoro/jp_local_gov/actions/workflows/auto-update.yml)
 
 ## Contributing
 
