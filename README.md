@@ -101,6 +101,15 @@ The following attributes can be specified for the condition.
 | city_kana          | String        | "チヨダク"   |
 | prefecture_capital | true or false | false    |
 
+### All data
+
+You can get all local governments using `JpLocalGov.all`
+
+```ruby
+JpLocalGov.all
+# =>  [#<JpLocalGov::LocalGov:0x00007fdf3a9c6758 @code="011002", @prefecture_code="01", @prefecture="北海道", @prefecture_kana="ホッカイドウ", @city="札幌市na="サッポロシ", @prefecture_capital=true>, #<JpLocalGov::LocalGov:0x00007fdf3a9c6730 @code="011011",...
+```
+
 ### Usage on Rails (ActiveRecord)
 
 Include JpLocalGov to Model which ActiveRecord::Base inherited.
@@ -155,6 +164,14 @@ end
 
 This method inspect code by [check digits defined in JISX0402](https://www.soumu.go.jp/main_content/000137948.pdf).
 (And also check code is String.)
+
+### View Template
+
+Use `collection_select` to generate selector in view:
+
+```ruby
+f.collection_select :local_gov_code, JpLocalGov.all, :code, :city # e.g. code: 131016, city: "千代田区"
+```
 
 ## Development
 

@@ -34,7 +34,7 @@ module JpLocalGov
 
     json_files = prefecture_code_list.map { "#{DATA_DIR}#{_1}.json" }
     results = json_files.map do |json_file|
-      data = JSON.parse(File.open(json_file).read, { symbolize_names: true })
+      data = JSON.parse(File.read(json_file), { symbolize_names: true })
       build_local_gov(data, conditions)
     end.flatten.compact
     return nil if results.empty?
@@ -56,6 +56,14 @@ module JpLocalGov
     candidate = (CHECK_BASE - sub_total % CHECK_BASE) % 10
     check_digits = sub_total > CHECK_BASE ? candidate : CHECK_BASE - sub_total
     code[CHECK_DIGITS_INDEX] == check_digits.to_s
+  end
+
+  def all
+    json_files = prefecture_code_list.map { "#{DATA_DIR}#{_1}.json" }
+    json_files.flat_map do |json_file|
+      data = JSON.parse(File.read(json_file), { symbolize_names: true })
+      data.values.map { |value| JpLocalGov::LocalGov.new(value) }
+    end
   end
 
   def build_local_gov(data, conditions)
