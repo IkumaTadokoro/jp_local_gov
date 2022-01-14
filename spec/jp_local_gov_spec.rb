@@ -142,9 +142,8 @@ RSpec.describe JpLocalGov do
     end
   end
 
-  describe "#valid_code?" do
+  describe ".valid_code?" do
     subject(:result) { JpLocalGov.valid_code?(code) }
-
     context "when the valid local_gov_code is specified" do
       let(:code) { "011002" }
       it { is_expected.to be_truthy }
@@ -181,6 +180,20 @@ RSpec.describe JpLocalGov do
           end
         end
       end
+    end
+  end
+
+  describe ".all" do
+    let!(:result) { JpLocalGov.all }
+    it "has all attributes of LocalGov" do
+      expect(result).to be_a_kind_of Array
+      expect(result).to all(respond_to(:code,
+                                       :city,
+                                       :city_kana,
+                                       :prefecture_code,
+                                       :prefecture,
+                                       :prefecture_kana,
+                                       :prefecture_capital))
     end
   end
 end
