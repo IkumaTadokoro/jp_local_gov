@@ -3,6 +3,7 @@
 require_relative "jp_local_gov/version"
 require_relative "jp_local_gov/local_gov"
 require_relative "jp_local_gov/base"
+require_relative "jp_local_gov/random"
 require "json"
 
 module JpLocalGov
