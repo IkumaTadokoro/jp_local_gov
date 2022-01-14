@@ -1,3 +1,13 @@
+## [0.2.1](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.2.0...v0.2.1) (2022-01-14)
+
+### docs
+
+* Add how to use JpLocalGov::Random ([aab920b](https://github.com/IkumaTadokoro/jp_local_gov/commit/aab920bc1e460eb7105f4759fcca1f8a8e06b9f7)), closes [#66](https://github.com/IkumaTadokoro/jp_local_gov/issues/66)
+
+### fix
+
+* Fix dependency of JpLocalGov::Random ([6da699b](https://github.com/IkumaTadokoro/jp_local_gov/commit/6da699b9b49c53551e704f0d05cdd269a4566727)), closes [#70](https://github.com/IkumaTadokoro/jp_local_gov/issues/70)
+
 ## [0.2.0](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.1.0...v0.2.0) (2022-01-14)
 
 ### chore
