@@ -1,0 +1,9 @@
+module JpLocalGov
+  module Random
+    DATA_DIR: String
+
+    RANDOMIZE_TARGET: Array[String]
+
+    def self?.sample_data: () -> JpLocalGov::LocalGov
+  end
+end
