@@ -110,6 +110,27 @@ JpLocalGov.all
 # =>  [#<JpLocalGov::LocalGov:0x00007fdf3a9c6758 @code="011002", @prefecture_code="01", @prefecture="北海道", @prefecture_kana="ホッカイドウ", @city="札幌市na="サッポロシ", @prefecture_capital=true>, #<JpLocalGov::LocalGov:0x00007fdf3a9c6730 @code="011011",...
 ```
 
+### Random data
+
+You can create random `code`, `city`, `city_kana`, `prefecture`, `prefecture_code` and `prefecture_kana` by using `JpLocalGov::Random`.
+
+```ruby
+JpLocalGov::Random.code
+# => "281077"
+JpLocalGov::Random.city
+# => "大島町"
+JpLocalGov::Random.city_kana
+# => "チュウオウシ"
+JpLocalGov::Random.prefecture
+# => "青森県"
+JpLocalGov::Random.prefecture_code
+# => "46"
+JpLocalGov::Random.prefecture_kana
+# => "ヒョウゴケン"
+```
+
+It is useful to random factory data in rails app for example.
+
 ### Usage on Rails (ActiveRecord)
 
 Include JpLocalGov to Model which ActiveRecord::Base inherited.
