@@ -212,6 +212,21 @@ If you use JetBrains IDE and you want to run spec via IDE, try to configure the 
 If you have already run spec via IDE before configuration, delete the existing configuration and try to configure the
 above steps
 
+## Update local government data
+
+This Gem update local government data (format: JSON) automatically once a month by [GitHub Actions][1].
+
+Data source: https://www.soumu.go.jp/denshijiti/code.html
+Output: https://github.com/IkumaTadokoro/jp_local_gov/tree/main/data/json
+
+Fetch script is written in Ruby and Rake Task. So you can run update data at local by the following command.
+
+```ruby
+bundle exec rake jp_local_gov:data:update_all
+```
+
+[1](https://github.com/IkumaTadokoro/jp_local_gov/actions/workflows/auto-update.yml)
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/IkumaTadokoro/jp_local_gov. This project is
