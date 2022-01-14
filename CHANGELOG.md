@@ -1,4 +1,4 @@
-# [0.2.0](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.1.0...v0.2.0) (2022-01-14)
+## [0.2.0](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.1.0...v0.2.0) (2022-01-14)
 
 ### chore
 
@@ -31,6 +31,6 @@
 * omit parentheses for internal DSL(RSpec) ([3c23ec5](https://github.com/IkumaTadokoro/jp_local_gov/commit/3c23ec5a19460e2c8ed496b61536ebd800cfeb03))
 * Remove Metrics rule for spec ([e362565](https://github.com/IkumaTadokoro/jp_local_gov/commit/e3625658376a6b0fd8ac5cea97b0d857cd6f6e7b))
 
-## [0.1.0] - 2021-11-28
+## 0.1.0 - 2021-11-28
 
 - Initial release
