@@ -4,7 +4,7 @@ require_relative "../jp_local_gov"
 
 module JpLocalGov
   module Random
-    DATA_DIR = "#{File.dirname(__FILE__)}/../../data/json/".freeze
+    DATA_DIR = "#{File.dirname(__FILE__)}/../../data/json/"
     RANDOMIZE_TARGET = %w[code city city_kana prefecture prefecture_code prefecture_kana].freeze
 
     module_function

@@ -7,10 +7,10 @@ require_relative "jp_local_gov/random"
 require "json"
 
 module JpLocalGov
-  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/".freeze
+  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/"
   CHECK_DIGITS_INDEX = 5
   CHECK_BASE = 11
-  PREFECTURE_RANGE = 1..47
+  PREFECTURE_RANGE = (1..47).freeze
   VALID_CODE_LENGTH = 6
 
   module_function
@@ -83,7 +83,7 @@ module JpLocalGov
   end
 
   def json_data_from(json_file)
-    JSON.load_file(json_file, { symbolize_names: true })
+    JSON.parse(File.read(json_file), { symbolize_names: true })
   end
 
   private_class_method :build_local_gov, :filter, :prefecture_code_list, :json_data_from
