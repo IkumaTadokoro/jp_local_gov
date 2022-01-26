@@ -23,7 +23,7 @@ module JpLocalGov
     return nil unless valid_code?(local_gov_code)
 
     json_file = "#{DATA_DIR}#{local_gov_code[0..1]}.json"
-    data = JSON.parse(File.open(json_file).read, { symbolize_names: true })
+    data = json_data_from(json_file)
     local_gov_data = data[local_gov_code.to_sym]
     return nil if local_gov_data.nil?
 
@@ -35,7 +35,7 @@ module JpLocalGov
 
     json_files = prefecture_code_list.map { "#{DATA_DIR}#{_1}.json" }
     results = json_files.map do |json_file|
-      data = JSON.parse(File.read(json_file), { symbolize_names: true })
+      data = json_data_from(json_file)
       build_local_gov(data, conditions)
     end.flatten.compact
     return nil if results.empty?
@@ -62,7 +62,7 @@ module JpLocalGov
   def all
     json_files = prefecture_code_list.map { "#{DATA_DIR}#{_1}.json" }
     json_files.flat_map do |json_file|
-      data = JSON.parse(File.read(json_file), { symbolize_names: true })
+      data = json_data_from(json_file)
       data.values.map { |value| JpLocalGov::LocalGov.new(value) }
     end
   end
@@ -82,6 +82,10 @@ module JpLocalGov
     [*PREFECTURE_RANGE].map { format("%02<number>d", number: _1) }
   end
 
-  private_class_method :build_local_gov, :filter, :prefecture_code_list
+  def json_data_from(json_file)
+    JSON.load_file(json_file, { symbolize_names: true })
+  end
+
+  private_class_method :build_local_gov, :filter, :prefecture_code_list, :json_data_from
   private_constant :CHECK_DIGITS_INDEX, :CHECK_BASE
 end

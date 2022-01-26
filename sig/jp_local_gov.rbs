@@ -24,4 +24,6 @@ module JpLocalGov
   def self?.filter: (Hash[Symbol, untyped] target, Hash[Symbol, String] conditions) -> bool
 
   def prefecture_code_list: () -> Array[String]
+
+  def self?.json_data_from: (String) -> Hash[Symbol, untyped]
 end
