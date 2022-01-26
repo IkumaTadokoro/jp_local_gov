@@ -83,7 +83,7 @@ module JpLocalGov
   end
 
   def json_data_from(json_file)
-    JSON.load_file(json_file, { symbolize_names: true })
+    JSON.parse(File.read(json_file), { symbolize_names: true })
   end
 
   private_class_method :build_local_gov, :filter, :prefecture_code_list, :json_data_from
