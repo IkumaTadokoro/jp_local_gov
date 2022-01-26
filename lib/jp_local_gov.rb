@@ -7,10 +7,10 @@ require_relative "jp_local_gov/random"
 require "json"
 
 module JpLocalGov
-  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/".freeze
+  DATA_DIR = "#{File.dirname(__FILE__)}/../data/json/"
   CHECK_DIGITS_INDEX = 5
   CHECK_BASE = 11
-  PREFECTURE_RANGE = 1..47
+  PREFECTURE_RANGE = (1..47).freeze
   VALID_CODE_LENGTH = 6
 
   module_function
