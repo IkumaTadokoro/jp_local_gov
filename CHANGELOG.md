@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.2.1...v0.3.0) (2022-01-28)
+
+### feat
+
+* Loosen Ruby version requirement to 2.7.0 ([e3d5f6da](https://github.com/IkumaTadokoro/jp_local_gov/commit/e3d5f6dafcb6665444e81289fcb91ce7d4365a3a))
+* Removing `.ruby-version` file lets other devs to use their preferred version of Ruby ([3b3bd483](https://github.com/IkumaTadokoro/jp_local_gov/commit/3b3bd483c167266338fe07d627d58de3d833b37d))
+
 ## [0.2.1](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.2.0...v0.2.1) (2022-01-14)
 
 ### docs
