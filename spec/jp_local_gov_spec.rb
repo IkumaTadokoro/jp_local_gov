@@ -145,8 +145,21 @@ RSpec.describe JpLocalGov do
   describe ".valid_code?" do
     subject(:result) { JpLocalGov.valid_code?(code) }
     context "when the valid local_gov_code is specified" do
-      let(:code) { "011002" }
-      it { is_expected.to be_truthy }
+      # sub_total is the sum of the first through fifth digits multiplied by 6.5.4.3.2, respectively.
+      context "when the sub total is under 11" do
+        let(:code) { "011002" }
+        it { is_expected.to be_truthy }
+      end
+
+      context "when the sub total is 11" do
+        let(:code) { "011011" }
+        it { is_expected.to be_truthy }
+      end
+
+      context "when the sub total is over 11" do
+        let(:code) { "011096" }
+        it { is_expected.to be_truthy }
+      end
     end
 
     context "when the INVALID local_gov_code is specified" do

@@ -55,7 +55,7 @@ module JpLocalGov
                     .map.with_index { |digit, index| digit.to_i * (CHECK_DIGITS_INDEX - index + 1) }
                     .sum
     candidate = (CHECK_BASE - sub_total % CHECK_BASE) % 10
-    check_digits = sub_total > CHECK_BASE ? candidate : CHECK_BASE - sub_total
+    check_digits = sub_total >= CHECK_BASE ? candidate : CHECK_BASE - sub_total
     code[CHECK_DIGITS_INDEX] == check_digits.to_s
   end
 
