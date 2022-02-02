@@ -1,3 +1,14 @@
+# [0.3.1](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.3.0...v0.3.1) (2022-02-03)
+
+
+### feat
+
+* Specify ruby version in auto-update workflow ([572fc5e](https://github.com/IkumaTadokoro/jp_local_gov/commit/572fc5e3cd316f5d194dc8affdbf161acd3b864f)), closes [#77](https://github.com/IkumaTadokoro/jp_local_gov/issues/77) [#79](https://github.com/IkumaTadokoro/jp_local_gov/issues/79)
+
+### fix
+
+* Fix JpLocalGov.valid_code?'s condition ([5e1ccf4](https://github.com/IkumaTadokoro/jp_local_gov/commit/5e1ccf4415d5e2e5752d904334e07b550e0d6d5d)), closes [#85](https://github.com/IkumaTadokoro/jp_local_gov/issues/85)
+
 # [0.3.0](https://github.com/IkumaTadokoro/jp_local_gov/compare/v0.2.1...v0.3.0) (2022-01-28)
 
 ### feat
