@@ -3,4 +3,6 @@
 target :lib do
   check "lib"
   signature "sig"
+
+  library "json"
 end

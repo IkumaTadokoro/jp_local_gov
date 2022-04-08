@@ -46,7 +46,7 @@ module JpLocalGov
   # Inspect code by check digits defined in JISX0402
   # https://www.soumu.go.jp/main_content/000137948.pdf
   def valid_code?(code)
-    unless code.is_a?(String) && code.length == VALID_CODE_LENGTH && prefecture_code_list.include?(code[0..1])
+    unless code.is_a?(String) && code.length == VALID_CODE_LENGTH && prefecture_code_list.include?(code[0..1].to_s)
       return false
     end
 
