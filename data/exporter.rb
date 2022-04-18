@@ -28,6 +28,7 @@ module JpLocalGov
           file_path = File.expand_path("../../data/json/#{prefix}.json", __FILE__)
           File.open(file_path, "wb") do |file|
             file.write JSON.pretty_generate(value)
+            file.write "\n"
           end
         end
       end
