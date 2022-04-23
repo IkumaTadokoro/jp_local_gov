@@ -59,11 +59,14 @@ module JpLocalGov
     code[CHECK_DIGITS_INDEX] == check_digits.to_s
   end
 
-  def all
+  def all(administrative: false)
     json_files = prefecture_code_list.map { "#{DATA_DIR}#{_1}.json" }
     json_files.flat_map do |json_file|
       data = json_data_from(json_file)
-      data.values.map { |value| JpLocalGov::LocalGov.new(value) }
+      data
+        .values
+        .select { |value| administrative ? !administrative?(value[:city]) : value }
+        .map { |value| JpLocalGov::LocalGov.new(value) }
     end
   end
 
@@ -84,6 +87,10 @@ module JpLocalGov
 
   def json_data_from(json_file)
     JSON.parse(File.read(json_file), { symbolize_names: true })
+  end
+
+  def administrative?(city)
+    /.+市.+区/.match?(city)
   end
 
   private_class_method :build_local_gov, :filter, :prefecture_code_list, :json_data_from
