@@ -8,42 +8,6 @@
     "city_kana": "オカヤマシ",
     "prefecture_capital": true
   },
-  "331015": {
-    "code": "331015",
-    "prefecture_code": "33",
-    "prefecture": "岡山県",
-    "prefecture_kana": "オカヤマケン",
-    "city": "岡山市北区",
-    "city_kana": "オカヤマシキタク",
-    "prefecture_capital": false
-  },
-  "331023": {
-    "code": "331023",
-    "prefecture_code": "33",
-    "prefecture": "岡山県",
-    "prefecture_kana": "オカヤマケン",
-    "city": "岡山市中区",
-    "city_kana": "オカヤマシナカク",
-    "prefecture_capital": false
-  },
-  "331031": {
-    "code": "331031",
-    "prefecture_code": "33",
-    "prefecture": "岡山県",
-    "prefecture_kana": "オカヤマケン",
-    "city": "岡山市東区",
-    "city_kana": "オカヤマシヒガシク",
-    "prefecture_capital": false
-  },
-  "331040": {
-    "code": "331040",
-    "prefecture_code": "33",
-    "prefecture": "岡山県",
-    "prefecture_kana": "オカヤマケン",
-    "city": "岡山市南区",
-    "city_kana": "オカヤマシミナミク",
-    "prefecture_capital": false
-  },
   "332020": {
     "code": "332020",
     "prefecture_code": "33",
