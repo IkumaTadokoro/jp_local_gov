@@ -8,60 +8,6 @@
     "city_kana": "チバシ",
     "prefecture_capital": true
   },
-  "121011": {
-    "code": "121011",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市中央区",
-    "city_kana": "チバシチュウオウク",
-    "prefecture_capital": false
-  },
-  "121029": {
-    "code": "121029",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市花見川区",
-    "city_kana": "チバシハナミガワク",
-    "prefecture_capital": false
-  },
-  "121037": {
-    "code": "121037",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市稲毛区",
-    "city_kana": "チバシイナゲク",
-    "prefecture_capital": false
-  },
-  "121045": {
-    "code": "121045",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市若葉区",
-    "city_kana": "チバシワカバク",
-    "prefecture_capital": false
-  },
-  "121053": {
-    "code": "121053",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市緑区",
-    "city_kana": "チバシミドリク",
-    "prefecture_capital": false
-  },
-  "121061": {
-    "code": "121061",
-    "prefecture_code": "12",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "city": "千葉市美浜区",
-    "city_kana": "チバシミハマク",
-    "prefecture_capital": false
-  },
   "122025": {
     "code": "122025",
     "prefecture_code": "12",

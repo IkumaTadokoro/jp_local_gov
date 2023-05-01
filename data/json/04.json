@@ -8,51 +8,6 @@
     "city_kana": "センダイシ",
     "prefecture_capital": true
   },
-  "041017": {
-    "code": "041017",
-    "prefecture_code": "04",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "prefecture_capital": false
-  },
-  "041025": {
-    "code": "041025",
-    "prefecture_code": "04",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "prefecture_capital": false
-  },
-  "041033": {
-    "code": "041033",
-    "prefecture_code": "04",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "city": "仙台市若林区",
-    "city_kana": "センダイシワカバヤシク",
-    "prefecture_capital": false
-  },
-  "041041": {
-    "code": "041041",
-    "prefecture_code": "04",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "city": "仙台市太白区",
-    "city_kana": "センダイシタイハクク",
-    "prefecture_capital": false
-  },
-  "041050": {
-    "code": "041050",
-    "prefecture_code": "04",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "city": "仙台市泉区",
-    "city_kana": "センダイシイズミク",
-    "prefecture_capital": false
-  },
   "042021": {
     "code": "042021",
     "prefecture_code": "04",

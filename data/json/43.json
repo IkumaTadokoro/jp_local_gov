@@ -8,51 +8,6 @@
     "city_kana": "クマモトシ",
     "prefecture_capital": true
   },
-  "431010": {
-    "code": "431010",
-    "prefecture_code": "43",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "city": "熊本市中央区",
-    "city_kana": "クマモトシチュウオウク",
-    "prefecture_capital": false
-  },
-  "431028": {
-    "code": "431028",
-    "prefecture_code": "43",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "city": "熊本市東区",
-    "city_kana": "クマモトシヒガシク",
-    "prefecture_capital": false
-  },
-  "431036": {
-    "code": "431036",
-    "prefecture_code": "43",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "city": "熊本市西区",
-    "city_kana": "クマモトシニシク",
-    "prefecture_capital": false
-  },
-  "431044": {
-    "code": "431044",
-    "prefecture_code": "43",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "city": "熊本市南区",
-    "city_kana": "クマモトシミナミク",
-    "prefecture_capital": false
-  },
-  "431052": {
-    "code": "431052",
-    "prefecture_code": "43",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "city": "熊本市北区",
-    "city_kana": "クマモトシキタク",
-    "prefecture_capital": false
-  },
   "432024": {
     "code": "432024",
     "prefecture_code": "43",
