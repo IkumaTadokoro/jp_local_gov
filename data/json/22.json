@@ -44,69 +44,6 @@
     "city_kana": "ハママツシ",
     "prefecture_capital": false
   },
-  "221317": {
-    "code": "221317",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市中区",
-    "city_kana": "ハママツシナカク",
-    "prefecture_capital": false
-  },
-  "221325": {
-    "code": "221325",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市東区",
-    "city_kana": "ハママツシヒガシク",
-    "prefecture_capital": false
-  },
-  "221333": {
-    "code": "221333",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市西区",
-    "city_kana": "ハママツシニシク",
-    "prefecture_capital": false
-  },
-  "221341": {
-    "code": "221341",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市南区",
-    "city_kana": "ハママツシミナミク",
-    "prefecture_capital": false
-  },
-  "221350": {
-    "code": "221350",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市北区",
-    "city_kana": "ハママツシキタク",
-    "prefecture_capital": false
-  },
-  "221368": {
-    "code": "221368",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市浜北区",
-    "city_kana": "ハママツシハマキタク",
-    "prefecture_capital": false
-  },
-  "221376": {
-    "code": "221376",
-    "prefecture_code": "22",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "city": "浜松市天竜区",
-    "city_kana": "ハママツシテンリュウク",
-    "prefecture_capital": false
-  },
   "222038": {
     "code": "222038",
     "prefecture_code": "22",
